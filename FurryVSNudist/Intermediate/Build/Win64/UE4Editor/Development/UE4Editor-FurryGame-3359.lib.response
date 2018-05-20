@@ -1,0 +1,20 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FurryGame-3359.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FCharacter.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FProjectile.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FurryGame.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FurryGameGameModeBase.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FCharacter.gen.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FProjectile.gen.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FurryGame.init.gen.cpp.obj"
+"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\FurryGameGameModeBase.gen.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\FurryGame\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\benes\Documents\Unreal Projects\FurryGame\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-FurryGame-3359.lib"

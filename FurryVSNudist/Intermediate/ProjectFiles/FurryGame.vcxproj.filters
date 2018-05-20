@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\FurryGame.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{11FDAA67-57D1-44EB-B73D-D4C76A0F3D3F}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\FurryGame.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\FurryGameEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{00F41F26-2585-461C-BE3F-2EF1B97F02BA}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\FurryGame">
+			<UniqueIdentifier>{BBF5E8FC-8290-43D4-9BEA-920AD7442DD2}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\FurryGame\FCharacter.cpp">
+			<Filter>Source\FurryGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FurryGame\FCharacter.h">
+			<Filter>Source\FurryGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FurryGame\FProjectile.cpp">
+			<Filter>Source\FurryGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FurryGame\FProjectile.h">
+			<Filter>Source\FurryGame</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\FurryGame\FurryGame.Build.cs">
+			<Filter>Source\FurryGame</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\FurryGame\FurryGame.cpp">
+			<Filter>Source\FurryGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FurryGame\FurryGame.h">
+			<Filter>Source\FurryGame</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\FurryGame\FurryGameGameModeBase.cpp">
+			<Filter>Source\FurryGame</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\FurryGame\FurryGameGameModeBase.h">
+			<Filter>Source\FurryGame</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

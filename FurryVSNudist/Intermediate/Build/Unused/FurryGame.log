@@ -1,0 +1,5 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for FurryGameEditor (ini files are newer than UBTMakefile)
+  Target is up to date
+  Deploying FurryGameEditor Win64 Development...
+  Total build time: 6,03 seconds (NoActionsToExecute executor: 0,00 seconds)

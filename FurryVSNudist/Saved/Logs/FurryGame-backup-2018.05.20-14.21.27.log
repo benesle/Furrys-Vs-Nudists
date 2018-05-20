@@ -1,0 +1,1204 @@
+﻿Log file open, 04/25/18 15:04:40
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FurryGame
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1356847827) SRandInit(-1356847827).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.359681
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.125s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Binaries/Win64/UE4Editor-FurryGame.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am MSI (158.39.247.112:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.25-13.04.42:560][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-13.04.42:561][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.25-13.04.42:572][  0]LogInit: Computer: MSI
+[2018.04.25-13.04.42:572][  0]LogInit: User: benesl
+[2018.04.25-13.04.42:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.25-13.04.42:572][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.04.25-13.04.42:573][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.25-13.04.42:573][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.25-13.04.42:573][  0]LogMemory: Process Physical Memory: 274.96 MB used, 274.96 MB peak
+[2018.04.25-13.04.42:573][  0]LogMemory: Process Virtual Memory: 264.83 MB used, 264.83 MB peak
+[2018.04.25-13.04.42:573][  0]LogMemory: Physical Memory: 7243.55 MB used,  9097.85 MB free, 16341.40 MB total
+[2018.04.25-13.04.42:573][  0]LogMemory: Virtual Memory: 697.57 MB used,  9097.85 MB free, 134217728.00 MB total
+[2018.04.25-13.04.42:617][  0]LogInit: Using OS detected language (nb-NO).
+[2018.04.25-13.04.42:617][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.04.25-13.04.42:620][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.04.25-13.04.43:014][  0]LogStreaming: Display: Took  0.396s to EndInitTextLocalization.
+[2018.04.25-13.04.43:014][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.25-13.04.43:048][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.25-13.04.43:048][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.25-13.04.43:214][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.25-13.04.43:271][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.25-13.04.43:271][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.25-13.04.43:278][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.25-13.04.43:278][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.25-13.04.43:278][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.25-13.04.43:286][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.25-13.04.43:286][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.25-13.04.43:286][  0]LogWindows: EnumDisplayDevices:
+[2018.04.25-13.04.43:286][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.04.25-13.04.43:286][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.25-13.04.43:286][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.25-13.04.43:286][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.25-13.04.43:287][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.25-13.04.43:287][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.25-13.04.43:287][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.25-13.04.43:287][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.25-13.04.43:287][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.25-13.04.43:320][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.25-13.04.43:320][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.25-13.04.43:320][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.25-13.04.43:350][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.25-13.04.43:392][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Intermediate/Shaders/WorkingDirectory/17956/).
+[2018.04.25-13.04.43:392][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benes/AppData/Local/Temp/UnrealShaderWorkingDir/125B161D4F4B3716E7A2FEADD32CEB59/'.
+[2018.04.25-13.04.43:595][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.25-13.04.43:609][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.25-13.04.43:624][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.25-13.04.43:638][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.25-13.04.43:652][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.25-13.04.43:667][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.25-13.04.43:682][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.25-13.04.43:697][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.25-13.04.43:705][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.25-13.04.43:719][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.25-13.04.43:732][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.25-13.04.43:748][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.25-13.04.43:763][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.25-13.04.43:776][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.25-13.04.43:791][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.25-13.04.43:822][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.25-13.04.43:822][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.25-13.04.43:835][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.25-13.04.43:838][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.25-13.04.43:886][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.25-13.04.43:901][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.25-13.04.43:919][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.25-13.04.43:937][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.25-13.04.43:957][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.25-13.04.43:974][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.25-13.04.43:974][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.25-13.04.44:121][  0]LogXGEController: Cleaning working directory: C:/Users/benes/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.25-13.04.44:121][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.25-13.04.44:122][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.25-13.04.44:122][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.25-13.04.44:783][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.25-13.04.44:840][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.25-13.04.44:840][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.25-13.04.44:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.25-13.04.44:840][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.25-13.04.44:840][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.25-13.04.44:841][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.25-13.04.44:855][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.25-13.04.44:869][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.25-13.04.44:880][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.25-13.04.44:880][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.25-13.04.44:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-13.04.44:881][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.25-13.04.45:001][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
+[2018.04.25-13.04.45:276][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.25-13.04.45:419][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.25-13.04.45:423][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.25-13.04.45:423][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.25-13.04.45:423][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.25-13.04.45:423][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.25-13.04.45:423][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.25-13.04.45:447][  0]LogNetVersion: FurryGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 453475365)
+[2018.04.25-13.04.45:789][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.042009 seconds
+[2018.04.25-13.04.45:794][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.25-13.04.45:795][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.04.25-13.04.45:795][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.25-13.04.47:324][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.25-13.04.47:353][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.25-13.04.47:574][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
+[2018.04.25-13.04.47:575][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
+[2018.04.25-13.04.47:575][  0]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+[2018.04.25-13.04.47:575][  0]Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.04.25-13.04.47:575][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.04.25-13.04.47:575][  0]LogUObjectBase: Warning: Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+
+[2018.04.25-13.04.47:581][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-13.05.23:945][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-13.05.23:946][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-13.05.24:066][  0]SourceControl: Source control is disabled
+[2018.04.25-13.05.24:066][  0]SourceControl: Source control is disabled
+[2018.04.25-13.05.24:084][  0]SourceControl: Source control is disabled
+[2018.04.25-13.05.24:102][  0]SourceControl: Source control is disabled
+[2018.04.25-13.05.24:556][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.25-13.05.24:706][  0]LogOcInput: OculusInput pre-init called
+[2018.04.25-13.05.24:802][  0]LogEngine: Initializing Engine...
+[2018.04.25-13.05.24:803][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.25-13.05.24:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.25-13.05.24:805][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.25-13.05.24:992][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.25-13.05.24:999][  0]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-13.05.25:152][  0]LogInit: FAudioDevice initialized.
+[2018.04.25-13.05.25:224][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.25-13.05.25:232][  0]LogInit: Texture streaming: Enabled
+[2018.04.25-13.05.25:255][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.25-13.05.25:265][  0]LogInit: Transaction tracking system initialized
+[2018.04.25-13.05.25:293][  0]BlueprintLog: New page: Editor Load
+[2018.04.25-13.05.25:396][  0]LocalizationService: Localization service is disabled
+[2018.04.25-13.05.25:502][  0]LogConsoleResponse: Display: 
+[2018.04.25-13.05.25:630][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.25-13.05.25:630][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.25-13.05.25:630][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.25-13.05.25:631][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.25-13.05.25:631][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.25-13.05.25:963][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/' took 0.01s
+[2018.04.25-13.05.25:963][  0]SourceControl: Source control is disabled
+[2018.04.25-13.05.25:963][  0]Cmd: MAP LOAD FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.25-13.05.25:964][  0]LightingResults: New page: Lighting Build
+[2018.04.25-13.05.25:966][  0]MapCheck: New page: Map Check
+[2018.04.25-13.05.25:966][  0]LightingResults: New page: Lighting Build
+[2018.04.25-13.05.26:125][  0]LogAIModule: Creating AISystem for world New
+[2018.04.25-13.05.26:132][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.25-13.05.26:143][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.25-13.05.26:188][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 44,778ms to complete.
+[2018.04.25-13.05.26:188][  0]LogFileHelpers: Loading map 'New' took 0.225
+[2018.04.25-13.05.26:329][  0]LogCollectionManager: Loaded 0 collections in 0.001567 seconds
+[2018.04.25-13.05.26:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Saved/Collections/' took 0.01s
+[2018.04.25-13.05.26:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Developers/benesl/Collections/' took 0.01s
+[2018.04.25-13.05.26:376][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Collections/' took 0.01s
+[2018.04.25-13.05.26:376][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.25-13.05.26:385][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2456 classes and 562 folders.
+[2018.04.25-13.05.26:392][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.25-13.05.26:429][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.25-13.05.27:371][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.25-13.05.27:389][  0]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.25-13.05.27:396][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.25-13.05.27:397][  0]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.25-13.05.27:523][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FurryGame
+[2018.04.25-13.05.27:524][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.25-13.05.27:524][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.25-13.05.27:524][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.25-13.05.27:524][  0]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.25-13.05.27:524][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benes\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.25-13.05.27:524][  0]LogRenderer: Reallocating scene render targets to support 1092x888 Format 10 NumSamples 1 (Frame:1).
+[2018.04.25-13.05.27:619][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.25-13.05.27:619][  0]LogLoad: (Engine Initialization) Total time: 47.80 seconds
+[2018.04.25-13.05.27:619][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.25-13.05.27:652][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.25-13.05.27:657][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.25-13.05.27:709][  1]LogRenderer: Reallocating scene render targets to support 1092x904 Format 10 NumSamples 1 (Frame:3).
+[2018.04.25-13.05.27:717][  1]LogAssetRegistry: Asset discovery search completed in 42.7398 seconds
+[2018.04.25-13.05.27:720][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.25-13.05.27:720][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000145 seconds (updated 0 objects)
+[2018.04.25-13.05.37:898][291]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-13.05.38:030][293]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.25-13.05.38:043][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-13.05.38:044][293]PIE: New page: PIE session: New (25. apr. 2018, 17.05.38)
+[2018.04.25-13.05.38:044][293]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_New
+[2018.04.25-13.05.38:047][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002390s)
+[2018.04.25-13.05.38:048][293]LogAIModule: Creating AISystem for world New
+[2018.04.25-13.05.38:048][293]LogPlayLevel: PIE: World Init took: (0.000830s)
+[2018.04.25-13.05.38:048][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/New.New to /Game/Maps/UEDPIE_0_New.New (0.003568s)
+[2018.04.25-13.05.38:060][293]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-13.05.38:106][293]LogInit: FAudioDevice initialized.
+[2018.04.25-13.05.38:217][293]LogSkeletalMesh: Skeletal Mesh found in DDC [0.554302ms] /Game/Ulv/Ulv.Ulv
+[2018.04.25-13.05.38:224][293]LogLoad: Game class is 'FurryGameGameModeBase_BP_C'
+[2018.04.25-13.05.38:226][293]LogWorld: Bringing World /Game/Maps/UEDPIE_0_New.New up for play (max tick rate 0) at 2018.04.25-15.05.38
+[2018.04.25-13.05.38:226][293]LogWorld: Bringing up level for play took: 0.000663
+[2018.04.25-13.05.38:228][293]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.25-13.05.38:231][293]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.04.25-13.05.38:232][293]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_New −0,128
+[2018.04.25-13.05.38:470][301]LogTemp: Warning: Hit location X=419.275 Y=-131.816 Z=20.000!
+[2018.04.25-13.05.38:503][302]LogTemp: Warning: Hit location X=348.170 Y=-110.738 Z=20.000!
+[2018.04.25-13.05.38:536][303]LogTemp: Warning: Hit location X=332.609 Y=-108.227 Z=20.000!
+[2018.04.25-13.05.38:570][304]LogTemp: Warning: Hit location X=332.609 Y=-109.447 Z=20.000!
+[2018.04.25-13.05.38:603][305]LogTemp: Warning: Hit location X=336.368 Y=-111.301 Z=20.000!
+[2018.04.25-13.05.38:636][306]LogTemp: Warning: Hit location X=344.145 Y=-115.766 Z=20.000!
+[2018.04.25-13.05.38:670][307]LogTemp: Warning: Hit location X=350.217 Y=-117.809 Z=20.000!
+[2018.04.25-13.05.38:703][308]LogTemp: Warning: Hit location X=350.217 Y=-118.451 Z=20.000!
+[2018.04.25-13.05.38:736][309]LogTemp: Warning: Hit location X=350.217 Y=-118.451 Z=20.000!
+[2018.04.25-13.05.38:772][310]LogTemp: Warning: Hit location X=350.217 Y=-118.451 Z=20.000!
+[2018.04.25-13.05.38:836][311]LogTemp: Warning: Hit location X=350.217 Y=-118.451 Z=20.000!
+[2018.04.25-13.05.38:845][312]LogTemp: Warning: Hit location X=350.217 Y=-118.451 Z=20.000!
+[2018.04.25-13.05.38:869][313]LogTemp: Warning: Hit location X=350.217 Y=-121.019 Z=20.000!
+[2018.04.25-13.05.38:903][314]LogTemp: Warning: Hit location X=358.656 Y=-141.687 Z=20.000!
+[2018.04.25-13.05.38:936][315]LogTemp: Warning: Hit location X=365.257 Y=-167.061 Z=20.000!
+[2018.04.25-13.05.38:969][316]LogTemp: Warning: Hit location X=358.656 Y=-177.849 Z=20.000!
+[2018.04.25-13.05.39:004][317]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:036][318]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:069][319]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:103][320]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:136][321]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:169][322]LogTemp: Warning: Hit location X=350.217 Y=-176.874 Z=20.000!
+[2018.04.25-13.05.39:203][323]LogTemp: Warning: Hit location X=356.509 Y=-186.587 Z=20.000!
+[2018.04.25-13.05.39:236][324]LogTemp: Warning: Hit location X=369.795 Y=-203.709 Z=20.000!
+[2018.04.25-13.05.39:271][325]LogTemp: Warning: Hit location X=381.647 Y=-211.638 Z=20.000!
+[2018.04.25-13.05.39:303][326]LogTemp: Warning: Hit location X=386.603 Y=-215.803 Z=20.000!
+[2018.04.25-13.05.39:336][327]LogTemp: Warning: Hit location X=396.913 Y=-223.014 Z=20.000!
+[2018.04.25-13.05.39:370][328]LogTemp: Warning: Hit location X=402.276 Y=-226.764 Z=20.000!
+[2018.04.25-13.05.39:404][329]LogTemp: Warning: Hit location X=402.276 Y=-226.764 Z=20.000!
+[2018.04.25-13.05.39:436][330]LogTemp: Warning: Hit location X=402.276 Y=-226.764 Z=20.000!
+[2018.04.25-13.05.39:469][331]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:502][332]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:537][333]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:569][334]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:603][335]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:636][336]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:669][337]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:702][338]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:736][339]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:769][340]LogTemp: Warning: Hit location X=402.276 Y=-227.502 Z=20.000!
+[2018.04.25-13.05.39:803][341]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.39:836][342]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.39:871][343]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.39:903][344]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.39:936][345]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.39:969][346]LogTemp: Warning: Hit location X=396.913 Y=-224.469 Z=20.000!
+[2018.04.25-13.05.40:003][347]LogTemp: Warning: Hit location X=394.286 Y=-222.260 Z=20.000!
+[2018.04.25-13.05.40:037][348]LogTemp: Warning: Hit location X=394.286 Y=-222.260 Z=20.000!
+[2018.04.25-13.05.40:069][349]LogTemp: Warning: Hit location X=394.286 Y=-222.260 Z=20.000!
+[2018.04.25-13.05.40:102][350]LogTemp: Warning: Hit location X=389.131 Y=-215.788 Z=20.000!
+[2018.04.25-13.05.40:136][351]LogTemp: Warning: Hit location X=367.513 Y=-183.588 Z=20.000!
+[2018.04.25-13.05.40:170][352]LogTemp: Warning: Hit location X=363.031 Y=-176.691 Z=20.000!
+[2018.04.25-13.05.40:203][353]LogTemp: Warning: Hit location X=356.509 Y=-65.681 Z=20.000!
+[2018.04.25-13.05.40:236][354]LogTemp: Warning: Hit location X=352.291 Y=-25.510 Z=20.000!
+[2018.04.25-13.05.40:271][355]LogTemp: Warning: Hit location X=350.217 Y=-23.433 Z=20.000!
+[2018.04.25-13.05.40:303][356]LogTemp: Warning: Hit location X=350.217 Y=-23.433 Z=20.000!
+[2018.04.25-13.05.40:337][357]LogTemp: Warning: Hit location X=340.212 Y=-19.022 Z=20.000!
+[2018.04.25-13.05.40:370][358]LogTemp: Warning: Hit location X=336.368 Y=-0.308 Z=20.000!
+[2018.04.25-13.05.40:403][359]LogTemp: Warning: Hit location X=348.170 Y=43.721 Z=20.000!
+[2018.04.25-13.05.40:436][360]LogTemp: Warning: Hit location X=367.513 Y=95.331 Z=20.000!
+[2018.04.25-13.05.40:469][361]LogTemp: Warning: Hit location X=376.817 Y=113.632 Z=20.000!
+[2018.04.25-13.05.40:505][362]LogTemp: Warning: Hit location X=376.817 Y=113.632 Z=20.000!
+[2018.04.25-13.05.40:536][363]LogTemp: Warning: Hit location X=379.217 Y=115.051 Z=20.000!
+[2018.04.25-13.05.40:570][364]LogTemp: Warning: Hit location X=402.276 Y=137.534 Z=20.000!
+[2018.04.25-13.05.40:603][365]LogTemp: Warning: Hit location X=444.308 Y=182.854 Z=20.000!
+[2018.04.25-13.05.40:636][366]LogTemp: Warning: Hit location X=457.976 Y=212.827 Z=20.000!
+[2018.04.25-13.05.40:671][367]LogTemp: Warning: Hit location X=447.646 Y=217.874 Z=20.000!
+[2018.04.25-13.05.40:703][368]LogTemp: Warning: Hit location X=431.428 Y=224.216 Z=20.000!
+[2018.04.25-13.05.40:737][369]LogTemp: Warning: Hit location X=422.247 Y=244.214 Z=20.000!
+[2018.04.25-13.05.40:770][370]LogTemp: Warning: Hit location X=422.247 Y=289.109 Z=20.000!
+[2018.04.25-13.05.40:803][371]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.40:836][372]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.40:872][373]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.40:903][374]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.40:936][375]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.40:969][376]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.41:003][377]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.41:036][378]LogTemp: Warning: Hit location X=425.264 Y=306.767 Z=20.000!
+[2018.04.25-13.05.41:070][379]LogTemp: Warning: Hit location X=407.789 Y=294.161 Z=20.000!
+[2018.04.25-13.05.41:105][380]LogTemp: Warning: Hit location X=386.603 Y=279.587 Z=20.000!
+[2018.04.25-13.05.41:136][381]LogTemp: Warning: Hit location X=372.107 Y=270.468 Z=20.000!
+[2018.04.25-13.05.41:170][382]LogTemp: Warning: Hit location X=354.387 Y=260.187 Z=20.000!
+[2018.04.25-13.05.41:203][383]LogTemp: Warning: Hit location X=346.145 Y=255.405 Z=20.000!
+[2018.04.25-13.05.41:237][384]LogTemp: Warning: Hit location X=340.212 Y=256.640 Z=20.000!
+[2018.04.25-13.05.41:270][385]LogTemp: Warning: Hit location X=340.212 Y=256.640 Z=20.000!
+[2018.04.25-13.05.41:305][386]LogTemp: Warning: Hit location X=340.212 Y=256.640 Z=20.000!
+[2018.04.25-13.05.41:337][387]LogTemp: Warning: Hit location X=340.212 Y=256.640 Z=20.000!
+[2018.04.25-13.05.41:370][388]LogTemp: Warning: Hit location X=340.212 Y=256.640 Z=20.000!
+[2018.04.25-13.05.41:404][389]LogTemp: Warning: Hit location X=342.167 Y=253.724 Z=20.000!
+[2018.04.25-13.05.41:437][390]LogTemp: Warning: Hit location X=344.145 Y=238.157 Z=20.000!
+[2018.04.25-13.05.41:473][391]LogTemp: Warning: Hit location X=227.854 Y=133.455 Z=57.298!
+[2018.04.25-13.05.41:504][392]LogTemp: Warning: Hit location X=352.291 Y=156.610 Z=20.000!
+[2018.04.25-13.05.41:538][393]LogTemp: Warning: Hit location X=334.478 Y=105.157 Z=20.000!
+[2018.04.25-13.05.41:570][394]LogTemp: Warning: Hit location X=330.762 Y=90.042 Z=20.000!
+[2018.04.25-13.05.41:604][395]LogTemp: Warning: Hit location X=334.478 Y=89.214 Z=20.000!
+[2018.04.25-13.05.41:637][396]LogTemp: Warning: Hit location X=340.212 Y=85.755 Z=20.000!
+[2018.04.25-13.05.41:671][397]LogTemp: Warning: Hit location X=340.212 Y=78.894 Z=20.000!
+[2018.04.25-13.05.41:705][398]LogTemp: Warning: Hit location X=334.478 Y=71.433 Z=20.000!
+[2018.04.25-13.05.41:737][399]LogTemp: Warning: Hit location X=330.762 Y=66.395 Z=20.000!
+[2018.04.25-13.05.41:771][400]LogTemp: Warning: Hit location X=328.933 Y=59.395 Z=20.000!
+[2018.04.25-13.05.41:804][401]LogTemp: Warning: Hit location X=332.609 Y=48.474 Z=20.000!
+[2018.04.25-13.05.41:837][402]LogTemp: Warning: Hit location X=336.368 Y=24.357 Z=20.000!
+[2018.04.25-13.05.41:872][403]LogTemp: Warning: Hit location X=330.762 Y=16.068 Z=20.000!
+[2018.04.25-13.05.41:904][404]LogTemp: Warning: Hit location X=330.762 Y=13.643 Z=20.000!
+[2018.04.25-13.05.41:937][405]LogTemp: Warning: Hit location X=328.933 Y=-0.904 Z=20.000!
+[2018.04.25-13.05.41:970][406]LogTemp: Warning: Hit location X=330.762 Y=-20.919 Z=20.000!
+[2018.04.25-13.05.42:004][407]LogTemp: Warning: Hit location X=332.609 Y=-25.914 Z=20.000!
+[2018.04.25-13.05.42:037][408]LogTemp: Warning: Hit location X=334.478 Y=-40.775 Z=20.000!
+[2018.04.25-13.05.42:071][409]LogTemp: Warning: Hit location X=338.278 Y=-49.300 Z=20.000!
+[2018.04.25-13.05.42:106][410]LogTemp: Warning: Hit location X=344.145 Y=-72.867 Z=20.000!
+[2018.04.25-13.05.42:137][411]LogTemp: Warning: Hit location X=348.170 Y=-100.526 Z=20.000!
+[2018.04.25-13.05.42:171][412]LogTemp: Warning: Hit location X=344.145 Y=-119.552 Z=20.000!
+[2018.04.25-13.05.42:204][413]LogTemp: Warning: Hit location X=340.212 Y=-132.530 Z=20.000!
+[2018.04.25-13.05.42:236][414]LogTemp: Warning: Hit location X=340.212 Y=-137.519 Z=20.000!
+[2018.04.25-13.05.42:272][415]LogTemp: Warning: Hit location X=338.278 Y=-140.458 Z=20.000!
+[2018.04.25-13.05.42:303][416]LogTemp: Warning: Hit location X=334.478 Y=-141.946 Z=20.000!
+[2018.04.25-13.05.42:336][417]LogTemp: Warning: Hit location X=330.762 Y=-144.007 Z=20.000!
+[2018.04.25-13.05.42:370][418]LogTemp: Warning: Hit location X=328.933 Y=-152.256 Z=20.000!
+[2018.04.25-13.05.42:403][419]LogTemp: Warning: Hit location X=328.933 Y=-174.567 Z=20.000!
+[2018.04.25-13.05.42:437][420]LogTemp: Warning: Hit location X=328.933 Y=-192.657 Z=20.000!
+[2018.04.25-13.05.42:472][421]LogTemp: Warning: Hit location X=328.933 Y=-210.746 Z=20.000!
+[2018.04.25-13.05.42:503][422]LogTemp: Warning: Hit location X=315.011 Y=-217.996 Z=20.000!
+[2018.04.25-13.05.42:536][423]LogTemp: Warning: Hit location X=310.089 Y=-225.390 Z=20.000!
+[2018.04.25-13.05.42:570][424]LogTemp: Warning: Hit location X=310.089 Y=-231.643 Z=20.000!
+[2018.04.25-13.05.42:603][425]LogTemp: Warning: Hit location X=315.011 Y=-244.559 Z=20.000!
+[2018.04.25-13.05.42:636][426]LogTemp: Warning: Hit location X=318.380 Y=-259.431 Z=20.000!
+[2018.04.25-13.05.42:672][427]LogTemp: Warning: Hit location X=318.380 Y=-264.684 Z=20.000!
+[2018.04.25-13.05.42:703][428]LogTemp: Warning: Hit location X=320.092 Y=-267.281 Z=20.000!
+[2018.04.25-13.05.42:736][429]LogTemp: Warning: Hit location X=320.092 Y=-267.281 Z=20.000!
+[2018.04.25-13.05.42:770][430]LogTemp: Warning: Hit location X=320.092 Y=-267.281 Z=20.000!
+[2018.04.25-13.05.42:804][431]LogTemp: Warning: Hit location X=320.092 Y=-267.281 Z=20.000!
+[2018.04.25-13.05.42:836][432]LogTemp: Warning: Hit location X=320.092 Y=-266.695 Z=20.000!
+[2018.04.25-13.05.42:870][433]LogTemp: Warning: Hit location X=318.380 Y=-265.268 Z=20.000!
+[2018.04.25-13.05.42:903][434]LogTemp: Warning: Hit location X=318.380 Y=-265.268 Z=20.000!
+[2018.04.25-13.05.42:937][435]LogTemp: Warning: Hit location X=311.712 Y=-257.427 Z=20.000!
+[2018.04.25-13.05.42:970][436]LogTemp: Warning: Hit location X=286.236 Y=-223.794 Z=20.000!
+[2018.04.25-13.05.43:003][437]LogTemp: Warning: Hit location X=255.523 Y=-181.044 Z=20.000!
+[2018.04.25-13.05.43:036][438]LogTemp: Warning: Hit location X=228.989 Y=-144.613 Z=20.000!
+[2018.04.25-13.05.43:071][439]LogTemp: Warning: Hit location X=213.394 Y=-127.332 Z=20.000!
+[2018.04.25-13.05.43:103][440]LogTemp: Warning: Hit location X=206.726 Y=-122.216 Z=20.000!
+[2018.04.25-13.05.43:137][441]LogTemp: Warning: Hit location X=201.820 Y=-118.946 Z=20.000!
+[2018.04.25-13.05.43:170][442]LogTemp: Warning: Hit location X=196.492 Y=-114.725 Z=20.000!
+[2018.04.25-13.05.43:203][443]LogTemp: Warning: Hit location X=192.676 Y=-109.672 Z=20.000!
+[2018.04.25-13.05.43:236][444]LogTemp: Warning: Hit location X=189.007 Y=-101.346 Z=20.000!
+[2018.04.25-13.05.43:270][445]LogTemp: Warning: Hit location X=184.898 Y=-92.025 Z=20.000!
+[2018.04.25-13.05.43:303][446]LogTemp: Warning: Hit location X=182.070 Y=-82.608 Z=20.000!
+[2018.04.25-13.05.43:336][447]LogTemp: Warning: Hit location X=181.515 Y=-71.042 Z=20.000!
+[2018.04.25-13.05.43:370][448]LogTemp: Warning: Hit location X=184.325 Y=-59.302 Z=20.000!
+[2018.04.25-13.05.43:403][449]LogTemp: Warning: Hit location X=190.824 Y=-43.202 Z=20.000!
+[2018.04.25-13.05.43:436][450]LogTemp: Warning: Hit location X=191.437 Y=-35.269 Z=20.000!
+[2018.04.25-13.05.43:471][451]LogTemp: Warning: Hit location X=188.408 Y=-32.639 Z=20.000!
+[2018.04.25-13.05.43:503][452]LogTemp: Warning: Hit location X=184.898 Y=-23.557 Z=20.000!
+[2018.04.25-13.05.43:537][453]LogTemp: Warning: Hit location X=182.070 Y=-2.837 Z=20.000!
+[2018.04.25-13.05.43:570][454]LogTemp: Warning: Hit location X=183.191 Y=25.019 Z=20.000!
+[2018.04.25-13.05.43:603][455]LogTemp: Warning: Hit location X=187.223 Y=54.399 Z=20.000!
+[2018.04.25-13.05.43:636][456]LogTemp: Warning: Hit location X=187.223 Y=64.009 Z=20.000!
+[2018.04.25-13.05.43:672][457]LogTemp: Warning: Hit location X=186.053 Y=64.291 Z=20.000!
+[2018.04.25-13.05.43:704][458]LogTemp: Warning: Hit location X=183.756 Y=67.203 Z=20.000!
+[2018.04.25-13.05.43:737][459]LogTemp: Warning: Hit location X=184.898 Y=80.501 Z=20.000!
+[2018.04.25-13.05.43:770][460]LogTemp: Warning: Hit location X=189.608 Y=94.022 Z=20.000!
+[2018.04.25-13.05.43:803][461]LogTemp: Warning: Hit location X=199.120 Y=117.355 Z=20.000!
+[2018.04.25-13.05.43:836][462]LogTemp: Warning: Hit location X=199.120 Y=117.720 Z=20.000!
+[2018.04.25-13.05.43:871][463]LogTemp: Warning: Hit location X=199.120 Y=117.720 Z=20.000!
+[2018.04.25-13.05.43:904][464]LogTemp: Warning: Hit location X=203.198 Y=120.131 Z=20.000!
+[2018.04.25-13.05.43:937][465]LogTemp: Warning: Hit location X=222.153 Y=130.115 Z=20.000!
+[2018.04.25-13.05.43:970][466]LogTemp: Warning: Hit location X=170.270 Y=97.854 Z=56.102!
+[2018.04.25-13.05.44:003][467]LogTemp: Warning: Hit location X=204.083 Y=112.049 Z=47.209!
+[2018.04.25-13.05.44:036][468]LogTemp: Warning: Hit location X=269.399 Y=142.478 Z=20.000!
+[2018.04.25-13.05.44:071][469]LogTemp: Warning: Hit location X=257.736 Y=130.167 Z=20.000!
+[2018.04.25-13.05.44:103][470]LogTemp: Warning: Hit location X=250.155 Y=123.129 Z=20.000!
+[2018.04.25-13.05.44:137][471]LogTemp: Warning: Hit location X=246.020 Y=116.132 Z=20.000!
+[2018.04.25-13.05.44:170][472]LogTemp: Warning: Hit location X=245.009 Y=103.079 Z=20.000!
+[2018.04.25-13.05.44:203][473]LogTemp: Warning: Hit location X=252.276 Y=80.238 Z=20.000!
+[2018.04.25-13.05.44:236][474]LogTemp: Warning: Hit location X=256.625 Y=56.688 Z=20.000!
+[2018.04.25-13.05.44:271][475]LogTemp: Warning: Hit location X=254.432 Y=42.677 Z=20.000!
+[2018.04.25-13.05.44:303][476]LogTemp: Warning: Hit location X=250.155 Y=34.623 Z=20.000!
+[2018.04.25-13.05.44:336][477]LogTemp: Warning: Hit location X=249.109 Y=22.605 Z=20.000!
+[2018.04.25-13.05.44:370][478]LogTemp: Warning: Hit location X=249.109 Y=10.732 Z=20.000!
+[2018.04.25-13.05.44:403][479]LogTemp: Warning: Hit location X=254.432 Y=1.632 Z=20.000!
+[2018.04.25-13.05.44:436][480]LogTemp: Warning: Hit location X=255.523 Y=-11.476 Z=20.000!
+[2018.04.25-13.05.44:470][481]LogTemp: Warning: Hit location X=255.523 Y=-26.934 Z=20.000!
+[2018.04.25-13.05.44:504][482]LogTemp: Warning: Hit location X=254.432 Y=-42.677 Z=20.000!
+[2018.04.25-13.05.44:536][483]LogTemp: Warning: Hit location X=254.432 Y=-56.670 Z=20.000!
+[2018.04.25-13.05.44:570][484]LogTemp: Warning: Hit location X=257.736 Y=-72.998 Z=20.000!
+[2018.04.25-13.05.44:603][485]LogTemp: Warning: Hit location X=261.127 Y=-93.106 Z=20.000!
+[2018.04.25-13.05.44:636][486]LogTemp: Warning: Hit location X=266.982 Y=-122.112 Z=20.000!
+[2018.04.25-13.05.44:670][487]LogTemp: Warning: Hit location X=278.210 Y=-156.828 Z=20.000!
+[2018.04.25-13.05.44:704][488]LogTemp: Warning: Hit location X=293.286 Y=-197.047 Z=20.000!
+[2018.04.25-13.05.44:737][489]LogTemp: Warning: Hit location X=305.319 Y=-228.080 Z=20.000!
+[2018.04.25-13.05.44:770][490]LogTemp: Warning: Hit location X=308.482 Y=-234.401 Z=20.000!
+[2018.04.25-13.05.44:803][491]LogTemp: Warning: Hit location X=310.089 Y=-235.053 Z=20.000!
+[2018.04.25-13.05.44:836][492]LogTemp: Warning: Hit location X=310.089 Y=-235.053 Z=20.000!
+[2018.04.25-13.05.44:871][493]LogTemp: Warning: Hit location X=290.424 Y=-216.953 Z=20.000!
+[2018.04.25-13.05.44:903][494]LogTemp: Warning: Hit location X=261.127 Y=-189.323 Z=20.000!
+[2018.04.25-13.05.44:936][495]LogTemp: Warning: Hit location X=224.668 Y=-152.593 Z=20.000!
+[2018.04.25-13.05.44:970][496]LogTemp: Warning: Hit location X=195.846 Y=-121.887 Z=20.000!
+[2018.04.25-13.05.45:004][497]LogTemp: Warning: Hit location X=189.608 Y=-113.834 Z=20.000!
+[2018.04.25-13.05.45:036][498]LogTemp: Warning: Hit location X=183.756 Y=-91.457 Z=20.000!
+[2018.04.25-13.05.45:071][499]LogTemp: Warning: Hit location X=182.629 Y=-88.553 Z=20.000!
+[2018.04.25-13.05.45:103][500]LogTemp: Warning: Hit location X=181.515 Y=-83.354 Z=20.000!
+[2018.04.25-13.05.45:136][501]LogTemp: Warning: Hit location X=181.515 Y=-74.037 Z=20.000!
+[2018.04.25-13.05.45:170][502]LogTemp: Warning: Hit location X=182.629 Y=-61.100 Z=20.000!
+[2018.04.25-13.05.45:203][503]LogTemp: Warning: Hit location X=180.963 Y=-47.604 Z=20.000!
+[2018.04.25-13.05.45:236][504]LogTemp: Warning: Hit location X=175.109 Y=-41.570 Z=20.000!
+[2018.04.25-13.05.45:270][505]LogTemp: Warning: Hit location X=171.577 Y=-36.643 Z=20.000!
+[2018.04.25-13.05.45:303][506]LogTemp: Warning: Hit location X=167.239 Y=-26.212 Z=20.000!
+[2018.04.25-13.05.45:336][507]LogTemp: Warning: Hit location X=165.380 Y=-14.098 Z=20.000!
+[2018.04.25-13.05.45:370][508]LogTemp: Warning: Hit location X=163.115 Y=5.532 Z=20.000!
+[2018.04.25-13.05.45:405][509]LogTemp: Warning: Hit location X=161.785 Y=9.046 Z=20.000!
+[2018.04.25-13.05.45:436][510]LogTemp: Warning: Hit location X=161.785 Y=9.342 Z=20.000!
+[2018.04.25-13.05.45:470][511]LogTemp: Warning: Hit location X=161.347 Y=14.049 Z=20.000!
+[2018.04.25-13.05.45:503][512]LogTemp: Warning: Hit location X=163.563 Y=26.236 Z=20.000!
+[2018.04.25-13.05.45:536][513]LogTemp: Warning: Hit location X=165.841 Y=35.722 Z=20.000!
+[2018.04.25-13.05.45:570][514]LogTemp: Warning: Hit location X=166.305 Y=42.834 Z=20.000!
+[2018.04.25-13.05.45:604][515]LogTemp: Warning: Hit location X=166.305 Y=43.139 Z=20.000!
+[2018.04.25-13.05.45:636][516]LogTemp: Warning: Hit location X=165.841 Y=43.018 Z=20.000!
+[2018.04.25-13.05.45:670][517]LogTemp: Warning: Hit location X=165.380 Y=43.202 Z=20.000!
+[2018.04.25-13.05.45:703][518]LogTemp: Warning: Hit location X=163.066 Y=42.896 Z=21.528!
+[2018.04.25-13.05.45:736][519]LogTemp: Warning: Hit location X=168.660 Y=44.677 Z=20.000!
+[2018.04.25-13.05.45:770][520]LogTemp: Warning: Hit location X=174.085 Y=46.114 Z=20.000!
+[2018.04.25-13.05.45:804][521]LogTemp: Warning: Hit location X=228.111 Y=54.989 Z=20.000!
+[2018.04.25-13.05.45:837][522]LogTemp: Warning: Hit location X=247.042 Y=57.288 Z=20.000!
+[2018.04.25-13.05.45:870][523]LogTemp: Warning: Hit location X=249.109 Y=57.311 Z=20.000!
+[2018.04.25-13.05.45:903][524]LogTemp: Warning: Hit location X=248.071 Y=56.617 Z=20.000!
+[2018.04.25-13.05.45:936][525]LogTemp: Warning: Hit location X=236.258 Y=53.055 Z=20.000!
+[2018.04.25-13.05.45:970][526]LogTemp: Warning: Hit location X=228.111 Y=50.389 Z=20.000!
+[2018.04.25-13.05.46:003][527]LogTemp: Warning: Hit location X=218.886 Y=47.148 Z=20.000!
+[2018.04.25-13.05.46:036][528]LogTemp: Warning: Hit location X=210.378 Y=42.230 Z=20.000!
+[2018.04.25-13.05.46:070][529]LogTemp: Warning: Hit location X=208.172 Y=41.024 Z=20.000!
+[2018.04.25-13.05.46:103][530]LogTemp: Warning: Hit location X=208.172 Y=40.642 Z=20.000!
+[2018.04.25-13.05.46:137][531]LogTemp: Warning: Hit location X=208.172 Y=40.260 Z=20.000!
+[2018.04.25-13.05.46:170][532]LogTemp: Warning: Hit location X=208.172 Y=39.879 Z=20.000!
+[2018.04.25-13.05.46:203][533]LogTemp: Warning: Hit location X=208.172 Y=39.879 Z=20.000!
+[2018.04.25-13.05.46:236][534]LogTemp: Warning: Hit location X=208.172 Y=39.497 Z=20.000!
+[2018.04.25-13.05.46:270][535]LogTemp: Warning: Hit location X=207.446 Y=34.796 Z=20.000!
+[2018.04.25-13.05.46:303][536]LogTemp: Warning: Hit location X=203.894 Y=22.987 Z=20.000!
+[2018.04.25-13.05.46:337][537]LogTemp: Warning: Hit location X=202.507 Y=8.353 Z=20.000!
+[2018.04.25-13.05.46:370][538]LogTemp: Warning: Hit location X=201.138 Y=-0.184 Z=20.000!
+[2018.04.25-13.05.46:405][539]LogTemp: Warning: Hit location X=201.138 Y=-6.453 Z=20.000!
+[2018.04.25-13.05.46:436][540]LogTemp: Warning: Hit location X=200.461 Y=-13.046 Z=20.000!
+[2018.04.25-13.05.46:470][541]LogTemp: Warning: Hit location X=201.820 Y=-23.493 Z=20.000!
+[2018.04.25-13.05.46:503][542]LogTemp: Warning: Hit location X=206.726 Y=-38.844 Z=20.000!
+[2018.04.25-13.05.46:536][543]LogTemp: Warning: Hit location X=209.637 Y=-53.995 Z=20.000!
+[2018.04.25-13.05.46:570][544]LogTemp: Warning: Hit location X=215.714 Y=-71.773 Z=20.000!
+[2018.04.25-13.05.46:603][545]LogTemp: Warning: Hit location X=220.507 Y=-83.878 Z=20.000!
+[2018.04.25-13.05.46:636][546]LogTemp: Warning: Hit location X=230.764 Y=-93.701 Z=20.000!
+[2018.04.25-13.05.46:669][547]LogTemp: Warning: Hit location X=244.004 Y=-106.235 Z=20.000!
+[2018.04.25-13.05.46:703][548]LogTemp: Warning: Hit location X=253.349 Y=-116.805 Z=20.000!
+[2018.04.25-13.05.46:736][549]LogTemp: Warning: Hit location X=254.432 Y=-118.237 Z=20.000!
+[2018.04.25-13.05.46:770][550]LogTemp: Warning: Hit location X=256.625 Y=-119.727 Z=20.000!
+[2018.04.25-13.05.46:803][551]LogTemp: Warning: Hit location X=266.982 Y=-131.900 Z=20.000!
+[2018.04.25-13.05.46:836][552]LogTemp: Warning: Hit location X=284.866 Y=-157.446 Z=20.000!
+[2018.04.25-13.05.46:869][553]LogTemp: Warning: Hit location X=316.686 Y=-189.547 Z=20.000!
+[2018.04.25-13.05.46:904][554]LogTemp: Warning: Hit location X=384.110 Y=-248.210 Z=20.000!
+[2018.04.25-13.05.46:937][555]LogTemp: Warning: Hit location X=444.308 Y=-285.481 Z=20.000!
+[2018.04.25-13.05.46:970][556]LogTemp: Warning: Hit location X=472.516 Y=-277.619 Z=20.000!
+[2018.04.25-13.05.47:003][557]LogTemp: Warning: Hit location X=472.516 Y=-236.908 Z=20.000!
+[2018.04.25-13.05.47:036][558]LogTemp: Warning: Hit location X=457.976 Y=-205.271 Z=20.000!
+[2018.04.25-13.05.47:070][559]LogTemp: Warning: Hit location X=451.039 Y=-200.508 Z=20.000!
+[2018.04.25-13.05.47:103][560]LogTemp: Warning: Hit location X=451.039 Y=-200.508 Z=20.000!
+[2018.04.25-13.05.47:136][561]LogTemp: Warning: Hit location X=468.795 Y=-210.120 Z=20.000!
+[2018.04.25-13.05.49:670][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-13.06.23:559][485]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.25-13.06.23:571][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-13.06.23:572][485]PIE: New page: PIE session: New (25. apr. 2018, 17.06.23)
+[2018.04.25-13.06.23:572][485]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_New
+[2018.04.25-13.06.23:574][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002080s)
+[2018.04.25-13.06.23:575][485]LogAIModule: Creating AISystem for world New
+[2018.04.25-13.06.23:575][485]LogPlayLevel: PIE: World Init took: (0.000796s)
+[2018.04.25-13.06.23:575][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/New.New to /Game/Maps/UEDPIE_0_New.New (0.003220s)
+[2018.04.25-13.06.23:589][485]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-13.06.23:632][485]LogInit: FAudioDevice initialized.
+[2018.04.25-13.06.23:667][485]LogLoad: Game class is 'FurryGameGameModeBase_BP_C'
+[2018.04.25-13.06.23:668][485]LogWorld: Bringing World /Game/Maps/UEDPIE_0_New.New up for play (max tick rate 0) at 2018.04.25-15.06.23
+[2018.04.25-13.06.23:668][485]LogWorld: Bringing up level for play took: 0.000601
+[2018.04.25-13.06.23:669][485]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.25-13.06.23:670][485]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_New −0,69
+[2018.04.25-13.06.25:013][558]LogTemp: Warning: Hit location X=492.043 Y=-172.734 Z=20.000!
+[2018.04.25-13.06.25:030][559]LogTemp: Warning: Hit location X=472.516 Y=-177.139 Z=20.000!
+[2018.04.25-13.06.25:047][560]LogTemp: Warning: Hit location X=468.795 Y=-187.776 Z=20.000!
+[2018.04.25-13.06.25:064][561]LogTemp: Warning: Hit location X=468.795 Y=-198.948 Z=20.000!
+[2018.04.25-13.06.25:080][562]LogTemp: Warning: Hit location X=472.516 Y=-213.520 Z=20.000!
+[2018.04.25-13.06.25:097][563]LogTemp: Warning: Hit location X=472.516 Y=-223.915 Z=20.000!
+[2018.04.25-13.06.25:113][564]LogTemp: Warning: Hit location X=468.795 Y=-228.167 Z=20.000!
+[2018.04.25-13.06.25:130][565]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:147][566]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:163][567]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:180][568]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:196][569]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:213][570]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:230][571]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:247][572]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:263][573]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:280][574]LogTemp: Warning: Hit location X=465.131 Y=-228.942 Z=20.000!
+[2018.04.25-13.06.25:297][575]LogTemp: Warning: Hit location X=461.528 Y=-227.168 Z=20.000!
+[2018.04.25-13.06.25:313][576]LogTemp: Warning: Hit location X=457.976 Y=-225.420 Z=20.000!
+[2018.04.25-13.06.25:330][577]LogTemp: Warning: Hit location X=457.976 Y=-225.420 Z=20.000!
+[2018.04.25-13.06.25:347][578]LogTemp: Warning: Hit location X=447.646 Y=-220.335 Z=20.000!
+[2018.04.25-13.06.25:363][579]LogTemp: Warning: Hit location X=437.772 Y=-215.475 Z=20.000!
+[2018.04.25-13.06.25:380][580]LogTemp: Warning: Hit location X=431.428 Y=-211.562 Z=20.000!
+[2018.04.25-13.06.25:397][581]LogTemp: Warning: Hit location X=419.275 Y=-205.603 Z=20.000!
+[2018.04.25-13.06.25:413][582]LogTemp: Warning: Hit location X=410.600 Y=-200.596 Z=20.000!
+[2018.04.25-13.06.25:430][583]LogTemp: Warning: Hit location X=399.577 Y=-194.478 Z=20.000!
+[2018.04.25-13.06.25:447][584]LogTemp: Warning: Hit location X=384.110 Y=-186.246 Z=20.000!
+[2018.04.25-13.06.25:464][585]LogTemp: Warning: Hit location X=379.217 Y=-183.873 Z=20.000!
+[2018.04.25-13.06.25:480][586]LogTemp: Warning: Hit location X=376.817 Y=-182.710 Z=20.000!
+[2018.04.25-13.06.25:497][587]LogTemp: Warning: Hit location X=376.817 Y=-182.710 Z=20.000!
+[2018.04.25-13.06.25:513][588]LogTemp: Warning: Hit location X=374.446 Y=-181.560 Z=20.000!
+[2018.04.25-13.06.25:530][589]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:547][590]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:563][591]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:580][592]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:596][593]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:613][594]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:630][595]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:647][596]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:663][597]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:680][598]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:697][599]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:713][600]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:730][601]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:747][602]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:763][603]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:780][604]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:797][605]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:813][606]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:830][607]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:847][608]LogTemp: Warning: Hit location X=374.446 Y=-180.873 Z=20.000!
+[2018.04.25-13.06.25:864][609]LogTemp: Warning: Hit location X=374.446 Y=-182.246 Z=20.000!
+[2018.04.25-13.06.25:880][610]LogTemp: Warning: Hit location X=379.217 Y=-185.264 Z=20.000!
+[2018.04.25-13.06.25:897][611]LogTemp: Warning: Hit location X=379.217 Y=-186.654 Z=20.000!
+[2018.04.25-13.06.25:913][612]LogTemp: Warning: Hit location X=379.217 Y=-186.654 Z=20.000!
+[2018.04.25-13.06.25:930][613]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.25:947][614]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.25:963][615]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.25:980][616]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.25:997][617]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:013][618]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:030][619]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:047][620]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:063][621]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:080][622]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:097][623]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:113][624]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:130][625]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:146][626]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:163][627]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:180][628]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:197][629]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:214][630]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:230][631]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:247][632]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:263][633]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:280][634]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:296][635]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:313][636]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:330][637]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:346][638]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:363][639]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:380][640]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:397][641]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:413][642]LogTemp: Warning: Hit location X=381.647 Y=-187.850 Z=20.000!
+[2018.04.25-13.06.26:430][643]LogTemp: Warning: Hit location X=379.217 Y=-186.654 Z=20.000!
+[2018.04.25-13.06.26:447][644]LogTemp: Warning: Hit location X=367.513 Y=-180.893 Z=20.000!
+[2018.04.25-13.06.26:463][645]LogTemp: Warning: Hit location X=352.291 Y=-172.755 Z=20.000!
+[2018.04.25-13.06.26:480][646]LogTemp: Warning: Hit location X=336.368 Y=-163.714 Z=20.000!
+[2018.04.25-13.06.26:497][647]LogTemp: Warning: Hit location X=323.570 Y=-156.298 Z=20.000!
+[2018.04.25-13.06.26:513][648]LogTemp: Warning: Hit location X=315.011 Y=-151.009 Z=20.000!
+[2018.04.25-13.06.26:530][649]LogTemp: Warning: Hit location X=310.089 Y=-148.081 Z=20.000!
+[2018.04.25-13.06.26:547][650]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:563][651]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:580][652]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:597][653]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:613][654]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:630][655]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:647][656]LogTemp: Warning: Hit location X=308.482 Y=-147.314 Z=20.000!
+[2018.04.25-13.06.26:663][657]LogTemp: Warning: Hit location X=308.482 Y=-146.183 Z=20.000!
+[2018.04.25-13.06.26:682][658]LogTemp: Warning: Hit location X=308.482 Y=-146.183 Z=20.000!
+[2018.04.25-13.06.26:713][659]LogTemp: Warning: Hit location X=308.482 Y=-145.617 Z=20.000!
+[2018.04.25-13.06.26:721][660]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:730][661]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:747][662]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:764][663]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:780][664]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:797][665]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:813][666]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:830][667]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:846][668]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:863][669]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:880][670]LogTemp: Warning: Hit location X=261.008 Y=-123.207 Z=36.318!
+[2018.04.25-13.06.26:897][671]LogTemp: Warning: Hit location X=275.997 Y=-130.283 Z=30.987!
+[2018.04.25-13.06.26:913][672]LogTemp: Warning: Hit location X=291.603 Y=-137.649 Z=25.437!
+[2018.04.25-13.06.26:930][673]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:947][674]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:964][675]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:980][676]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.26:997][677]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:013][678]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:030][679]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:048][680]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:063][681]LogTemp: Warning: Hit location X=228.000 Y=-107.626 Z=48.057!
+[2018.04.25-13.06.27:080][682]LogTemp: Warning: Hit location X=242.242 Y=-114.349 Z=42.992!
+[2018.04.25-13.06.27:096][683]LogTemp: Warning: Hit location X=259.291 Y=-122.397 Z=36.928!
+[2018.04.25-13.06.27:113][684]LogTemp: Warning: Hit location X=277.184 Y=-130.843 Z=30.565!
+[2018.04.25-13.06.27:130][685]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:147][686]LogTemp: Warning: Hit location X=306.892 Y=-144.866 Z=20.000!
+[2018.04.25-13.06.27:164][687]LogTemp: Warning: Hit location X=325.339 Y=-151.785 Z=20.000!
+[2018.04.25-13.06.27:180][688]LogTemp: Warning: Hit location X=369.795 Y=-172.526 Z=20.000!
+[2018.04.25-13.06.27:197][689]LogTemp: Warning: Hit location X=492.043 Y=-239.482 Z=20.000!
+[2018.04.25-13.06.28:064][715]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-13.24.49:188][916]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.25-13.24.49:202][916]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.25-13.24.49:202][916]PIE: New page: PIE session: New (25. apr. 2018, 17.24.49)
+[2018.04.25-13.24.49:202][916]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_New
+[2018.04.25-13.24.49:205][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002463s)
+[2018.04.25-13.24.49:206][916]LogAIModule: Creating AISystem for world New
+[2018.04.25-13.24.49:206][916]LogPlayLevel: PIE: World Init took: (0.001076s)
+[2018.04.25-13.24.49:206][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/New.New to /Game/Maps/UEDPIE_0_New.New (0.003916s)
+[2018.04.25-13.24.49:221][916]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.25-13.24.49:269][916]LogInit: FAudioDevice initialized.
+[2018.04.25-13.24.49:307][916]LogLoad: Game class is 'FurryGameGameModeBase_BP_C'
+[2018.04.25-13.24.49:308][916]LogWorld: Bringing World /Game/Maps/UEDPIE_0_New.New up for play (max tick rate 0) at 2018.04.25-15.24.49
+[2018.04.25-13.24.49:308][916]LogWorld: Bringing up level for play took: 0.000904
+[2018.04.25-13.24.49:309][916]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2018.04.25-13.24.49:311][916]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_New 0,95
+[2018.04.25-13.24.50:409][955]LogTemp: Warning: Hit location X=488.390 Y=-107.124 Z=20.000!
+[2018.04.25-13.24.50:441][956]LogTemp: Warning: Hit location X=391.172 Y=-76.490 Z=20.000!
+[2018.04.25-13.24.50:476][957]LogTemp: Warning: Hit location X=354.029 Y=-64.136 Z=20.000!
+[2018.04.25-13.24.50:508][958]LogTemp: Warning: Hit location X=338.961 Y=-59.605 Z=20.000!
+[2018.04.25-13.24.50:542][959]LogTemp: Warning: Hit location X=334.190 Y=-58.170 Z=20.000!
+[2018.04.25-13.24.50:575][960]LogTemp: Warning: Hit location X=334.190 Y=-58.170 Z=20.000!
+[2018.04.25-13.24.50:608][961]LogTemp: Warning: Hit location X=329.539 Y=-56.772 Z=20.000!
+[2018.04.25-13.24.50:641][962]LogTemp: Warning: Hit location X=236.828 Y=-40.544 Z=46.347!
+[2018.04.25-13.24.50:675][963]LogTemp: Warning: Hit location X=270.846 Y=-43.793 Z=35.042!
+[2018.04.25-13.24.50:708][964]LogTemp: Warning: Hit location X=307.915 Y=-43.887 Z=20.000!
+[2018.04.25-13.24.50:742][965]LogTemp: Warning: Hit location X=307.915 Y=-43.887 Z=20.000!
+[2018.04.25-13.24.50:775][966]LogTemp: Warning: Hit location X=307.915 Y=-43.887 Z=20.000!
+[2018.04.25-13.24.50:808][967]LogTemp: Warning: Hit location X=305.890 Y=-42.998 Z=20.000!
+[2018.04.25-13.24.50:843][968]LogTemp: Warning: Hit location X=305.890 Y=-42.998 Z=20.000!
+[2018.04.25-13.24.50:875][969]LogTemp: Warning: Hit location X=305.890 Y=-42.363 Z=20.000!
+[2018.04.25-13.24.50:908][970]LogTemp: Warning: Hit location X=305.890 Y=-33.480 Z=20.000!
+[2018.04.25-13.24.50:942][971]LogTemp: Warning: Hit location X=314.133 Y=-24.528 Z=20.000!
+[2018.04.25-13.24.50:975][972]LogTemp: Warning: Hit location X=325.004 Y=-6.528 Z=20.000!
+[2018.04.25-13.24.51:008][973]LogTemp: Warning: Hit location X=325.004 Y=-0.502 Z=20.000!
+[2018.04.25-13.24.51:043][974]LogTemp: Warning: Hit location X=320.577 Y=3.472 Z=20.000!
+[2018.04.25-13.24.51:076][975]LogTemp: Warning: Hit location X=320.578 Y=12.071 Z=20.000!
+[2018.04.25-13.24.51:109][976]LogTemp: Warning: Hit location X=329.543 Y=28.644 Z=20.000!
+[2018.04.25-13.24.51:142][977]LogTemp: Warning: Hit location X=338.966 Y=37.720 Z=20.000!
+[2018.04.25-13.24.51:175][978]LogTemp: Warning: Hit location X=346.352 Y=51.923 Z=20.000!
+[2018.04.25-13.24.51:208][979]LogTemp: Warning: Hit location X=346.352 Y=53.340 Z=20.000!
+[2018.04.25-13.24.51:243][980]LogTemp: Warning: Hit location X=343.859 Y=55.108 Z=20.000!
+[2018.04.25-13.24.51:275][981]LogTemp: Warning: Hit location X=346.353 Y=61.845 Z=20.000!
+[2018.04.25-13.24.51:309][982]LogTemp: Warning: Hit location X=348.881 Y=64.390 Z=20.000!
+[2018.04.25-13.24.51:342][983]LogTemp: Warning: Hit location X=356.664 Y=77.323 Z=20.000!
+[2018.04.25-13.24.51:376][984]LogTemp: Warning: Hit location X=356.664 Y=78.050 Z=20.000!
+[2018.04.25-13.24.51:408][985]LogTemp: Warning: Hit location X=356.664 Y=78.050 Z=20.000!
+[2018.04.25-13.24.51:442][986]LogTemp: Warning: Hit location X=356.664 Y=79.505 Z=20.000!
+[2018.04.25-13.24.51:475][987]LogTemp: Warning: Hit location X=362.027 Y=87.219 Z=20.000!
+[2018.04.25-13.24.51:509][988]LogTemp: Warning: Hit location X=364.766 Y=89.298 Z=20.000!
+[2018.04.25-13.24.51:542][989]LogTemp: Warning: Hit location X=394.327 Y=100.607 Z=20.000!
+[2018.04.25-13.24.51:575][990]LogTemp: Warning: Hit location X=410.791 Y=103.597 Z=20.000!
+[2018.04.25-13.24.51:608][991]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.51:642][992]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.51:675][993]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.51:708][994]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.51:741][995]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.51:775][996]LogTemp: Warning: Hit location X=376.094 Y=101.722 Z=20.000!
+[2018.04.25-13.24.55:209][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.25-13.24.55:361][ 82]LogSlate: Window 'FurryGame - Unreal Editor' being destroyed
+[2018.04.25-13.24.55:654][ 83]Cmd: QUIT_EDITOR
+[2018.04.25-13.24.55:862][ 83]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.25-13.24.55:875][ 83]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.25-13.24.55:875][ 83]LogExit: Preparing to exit.
+[2018.04.25-13.24.55:937][ 83]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/' was aborted.
+[2018.04.25-13.24.55:954][ 83]LogExit: Editor shut down
+[2018.04.25-13.24.55:959][ 83]LogExit: Transaction tracking system shut down
+[2018.04.25-13.24.56:095][ 83]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.25-13.24.56:095][ 83]LogDirectoryWatcher: A directory notification for '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/' was aborted.
+[2018.04.25-13.24.56:095][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.25-13.24.56:096][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.25-13.24.56:096][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.25-13.24.56:096][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.25-13.24.56:096][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.25-13.24.56:096][ 83]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.25-13.24.56:166][ 83]LogExit: Object subsystem successfully closed.
+[2018.04.25-13.24.56:207][ 83]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.25-13.24.56:213][ 83]LogD3D11RHI: Shutdown
+[2018.04.25-13.24.56:213][ 83]LogD3D11RHI: CleanupD3DDevice
+[2018.04.25-13.24.56:215][ 83]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.25-13.24.56:237][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
+[2018.04.25-13.24.56:238][ 83]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
+[2018.04.25-13.24.56:238][ 83]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (576)
+[2018.04.25-13.24.56:238][ 83]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
+[2018.04.25-13.24.56:238][ 83]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
+[2018.04.25-13.24.56:238][ 83]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.25-13.24.56:239][ 83]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
+[2018.04.25-13.24.56:239][ 83]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
+[2018.04.25-13.24.56:239][ 83]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
+[2018.04.25-13.24.56:240][ 83]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Collections/' was aborted.
+[2018.04.25-13.24.56:240][ 83]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Developers/benesl/Collections/' was aborted.
+[2018.04.25-13.24.56:240][ 83]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Saved/Collections/' was aborted.
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.25-13.24.56:240][ 83]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.25-13.24.56:241][ 83]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.25-13.24.56:242][ 83]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.25-13.24.56:243][ 83]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.25-13.24.56:835][ 83]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.25-13.24.56:835][ 83]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.25-13.24.56:835][ 83]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.25-13.24.56:836][ 83]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.25-13.24.56:837][ 83]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.25-13.24.56:893][ 83]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.25-13.24.56:894][ 83]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.25-13.24.56:895][ 83]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.04.25-13.24.57:078][ 83]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.04.25-13.24.57:079][ 83]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.04.25-13.24.57:093][ 83]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.04.25-13.24.57:094][ 83]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module FurryGame (290)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.25-13.24.57:095][ 83]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.25-13.24.57:196][ 83]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.25-13.24.57:296][ 83]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.25-13.24.57:297][ 83]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.25-13.24.57:297][ 83]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.25-13.24.57:298][ 83]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.25-13.24.57:298][ 83]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.25-13.24.57:298][ 83]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Binaries/Win64' was aborted.
+[2018.04.25-13.24.57:299][ 83]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.25-13.24.57:300][ 83]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.25-13.24.57:300][ 83]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.25-13.24.57:300][ 83]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.25-13.24.57:300][ 83]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.25-13.24.57:642][ 83]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.25-13.24.57:642][ 83]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.25-13.24.57:642][ 83]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.25-13.24.57:645][ 83]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.25-13.24.57:653][ 83]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.25-13.24.57:654][ 83]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.25-13.24.57:657][ 83]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.25-13.24.57:658][ 83]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.25-13.24.57:659][ 83]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.25-13.24.57:704][ 83]LogDerivedDataCache: Shutdown
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.25-13.24.57:704][ 83]LogXGEController: Cleaning working directory: C:/Users/benes/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.25-13.24.57:704][ 83]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.25-13.24.57:705][ 83]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.25-13.24.57:705][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.25-13.24.57:705][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.25-13.24.57:705][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.25-13.24.57:705][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.25-13.24.57:706][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.25-13.24.57:707][ 83]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.25-13.24.57:708][ 83]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.25-13.24.57:709][ 83]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.25-13.24.57:710][ 83]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.25-13.24.57:710][ 83]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF27507FB-4DE5-45B1-EDE0-D89F63F56431%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=876af5974c90d438251e3a9ab09fc1b9%7C756576264a604d4597d7e5cd72188243%7C69df6532-06e7-4a82-80a8-8abfb4ceaaf1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.25-13.24.57:714][ 83]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.25-13.24.57:715][ 83]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.25-13.24.57:715][ 83]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.25-13.24.57:715][ 83]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.25-13.24.57:715][ 83]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.25-13.24.57:717][ 83]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.25-13.24.57:717][ 83]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.25-13.24.57:717][ 83]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.25-13.24.57:718][ 83]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.25-13.24.57:718][ 83]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.25-13.24.57:718][ 83]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.25-13.24.57:718][ 83]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.25-13.24.57:718][ 83]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.25-13.24.57:719][ 83]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.25-13.24.57:742][ 83]LogExit: Exiting.
+[2018.04.25-13.24.57:753][ 83]Log file closed, 04/25/18 15:24:57
