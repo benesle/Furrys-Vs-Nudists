@@ -1,0 +1,1535 @@
+﻿Log file open, 04/16/18 23:45:19
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: FurryVSNudist
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(47916561) SRandInit(47916561).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.264427
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.119s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Binaries/Win64/UE4Editor-FurryVSNudist.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am MSI (192.168.0.191:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.16-21.45.21:354][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-21.45.21:354][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.16-21.45.21:365][  0]LogInit: Computer: MSI
+[2018.04.16-21.45.21:365][  0]LogInit: User: benesl
+[2018.04.16-21.45.21:365][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.16-21.45.21:365][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.04.16-21.45.21:365][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.04.16-21.45.21:365][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.16-21.45.21:365][  0]LogMemory: Process Physical Memory: 276.76 MB used, 276.76 MB peak
+[2018.04.16-21.45.21:365][  0]LogMemory: Process Virtual Memory: 264.98 MB used, 264.98 MB peak
+[2018.04.16-21.45.21:365][  0]LogMemory: Physical Memory: 8287.60 MB used,  8053.80 MB free, 16341.40 MB total
+[2018.04.16-21.45.21:365][  0]LogMemory: Virtual Memory: 698.11 MB used,  8053.80 MB free, 134217728.00 MB total
+[2018.04.16-21.45.21:382][  0]LogInit: Using OS detected language (nb-NO).
+[2018.04.16-21.45.21:382][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.04.16-21.45.21:393][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.04.16-21.45.21:826][  0]LogStreaming: Display: Took  0.444s to EndInitTextLocalization.
+[2018.04.16-21.45.21:826][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.16-21.45.21:854][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.16-21.45.21:854][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.16-21.45.22:051][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.16-21.45.22:092][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.04.16-21.45.22:092][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.16-21.45.22:094][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.16-21.45.22:094][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.16-21.45.22:094][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.16-21.45.22:101][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.16-21.45.22:101][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.16-21.45.22:101][  0]LogWindows: EnumDisplayDevices:
+[2018.04.16-21.45.22:101][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.04.16-21.45.22:101][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.16-21.45.22:102][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.16-21.45.22:102][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.04.16-21.45.22:102][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.16-21.45.22:102][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.04.16-21.45.22:102][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.16-21.45.22:102][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.16-21.45.22:102][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.04.16-21.45.22:131][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-21.45.22:131][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.16-21.45.22:131][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.16-21.45.22:151][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.16-21.45.22:193][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Intermediate/Shaders/WorkingDirectory/14152/).
+[2018.04.16-21.45.22:193][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benes/AppData/Local/Temp/UnrealShaderWorkingDir/B539084F49CE5C3FF0FD7B896DE1F800/'.
+[2018.04.16-21.45.22:424][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.16-21.45.22:437][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.16-21.45.22:449][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.16-21.45.22:462][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.16-21.45.22:478][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.16-21.45.22:490][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.16-21.45.22:503][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.16-21.45.22:516][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.16-21.45.22:522][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.16-21.45.22:534][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.16-21.45.22:546][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.16-21.45.22:558][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.16-21.45.22:569][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.16-21.45.22:581][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.16-21.45.22:593][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.16-21.45.22:615][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.16-21.45.22:615][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.16-21.45.22:627][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.16-21.45.22:628][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.16-21.45.22:663][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.16-21.45.22:674][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.16-21.45.22:685][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.16-21.45.22:696][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.16-21.45.22:707][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.16-21.45.22:718][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.16-21.45.22:718][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.16-21.45.22:820][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.16-21.45.22:820][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.16-21.45.22:820][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.16-21.45.23:500][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.16-21.45.23:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.16-21.45.23:578][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.16-21.45.23:590][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.16-21.45.23:604][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.16-21.45.23:604][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.16-21.45.23:612][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-21.45.23:612][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.16-21.45.23:760][  0]LogAssetRegistry: FAssetRegistry took 0.0251 seconds to start up
+[2018.04.16-21.45.24:096][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.16-21.45.24:246][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.16-21.45.24:249][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.16-21.45.24:249][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.16-21.45.24:249][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.16-21.45.24:249][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.16-21.45.24:249][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.16-21.45.24:278][  0]LogNetVersion: FurryVSNudist , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 816875037)
+[2018.04.16-21.45.24:713][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.038805 seconds
+[2018.04.16-21.45.24:719][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.16-21.45.24:719][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.16-21.45.24:719][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.16-21.45.26:449][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.16-21.45.26:483][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.16-21.45.26:818][  0]SourceControl: Source control is disabled
+[2018.04.16-21.45.26:818][  0]SourceControl: Source control is disabled
+[2018.04.16-21.45.26:834][  0]SourceControl: Source control is disabled
+[2018.04.16-21.45.26:849][  0]SourceControl: Source control is disabled
+[2018.04.16-21.45.27:270][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.16-21.45.27:389][  0]LogOcInput: OculusInput pre-init called
+[2018.04.16-21.45.27:497][  0]LogEngine: Initializing Engine...
+[2018.04.16-21.45.27:499][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.16-21.45.27:500][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-21.45.27:500][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-21.45.27:711][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-21.45.27:766][  0]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.16-21.45.27:810][  0]LogInit: FAudioDevice initialized.
+[2018.04.16-21.45.27:885][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.16-21.45.27:897][  0]LogInit: Texture streaming: Enabled
+[2018.04.16-21.45.27:920][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.16-21.45.27:935][  0]LogInit: Transaction tracking system initialized
+[2018.04.16-21.45.27:958][  0]BlueprintLog: New page: Editor Load
+[2018.04.16-21.45.28:077][  0]LocalizationService: Localization service is disabled
+[2018.04.16-21.45.28:200][  0]LogConsoleResponse: Display: 
+[2018.04.16-21.45.28:336][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/' took 0.01s
+[2018.04.16-21.45.28:336][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.16-21.45.28:336][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.16-21.45.28:336][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.16-21.45.28:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.16-21.45.28:336][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.16-21.45.28:672][  0]SourceControl: Source control is disabled
+[2018.04.16-21.45.28:673][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-21.45.28:673][  0]LightingResults: New page: Lighting Build
+[2018.04.16-21.45.28:676][  0]MapCheck: New page: Map Check
+[2018.04.16-21.45.28:676][  0]LightingResults: New page: Lighting Build
+[2018.04.16-21.45.28:859][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.04.16-21.45.28:865][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-21.45.28:877][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-21.45.28:932][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55,307ms to complete.
+[2018.04.16-21.45.28:932][  0]LogFileHelpers: Loading map 'Template_Default' took 0.260
+[2018.04.16-21.45.28:993][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-21.45.31:127][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.04.16-21.45.31:157][  0]LogCollectionManager: Loaded 0 collections in 0.001558 seconds
+[2018.04.16-21.45.31:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Collections/' took 0.01s
+[2018.04.16-21.45.31:200][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FurryVSNudist
+[2018.04.16-21.45.31:200][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.16-21.45.31:200][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.04.16-21.45.31:200][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.04.16-21.45.31:200][  0]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.04.16-21.45.31:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Developers/benesl/Collections/' took 0.01s
+[2018.04.16-21.45.31:200][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benes\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.04.16-21.45.31:200][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Collections/' took 0.01s
+[2018.04.16-21.45.31:200][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.04.16-21.45.31:210][  0]LogContentBrowser: Native class hierarchy populated in 0.0089 seconds. Added 2454 classes and 562 folders.
+[2018.04.16-21.45.31:217][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.16-21.45.31:320][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.16-21.45.31:324][  0]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.16-21.45.31:329][  0]LogSlate: Took 0.000236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.16-21.45.31:458][  0]LogRenderer: Reallocating scene render targets to support 1424x888 Format 10 NumSamples 1 (Frame:1).
+[2018.04.16-21.45.31:583][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.04.16-21.45.31:583][  0]LogLoad: (Engine Initialization) Total time: 12.76 seconds
+[2018.04.16-21.45.31:583][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.16-21.45.31:620][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.04.16-21.45.31:682][  1]LogRenderer: Reallocating scene render targets to support 1424x904 Format 10 NumSamples 1 (Frame:3).
+[2018.04.16-21.45.31:694][  1]LogAssetRegistry: Asset discovery search completed in 7.9550 seconds
+[2018.04.16-21.45.31:696][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.04.16-21.45.31:696][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2018.04.16-21.45.43:780][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.16-21.46.17:326][146]LogSlate: Took 0.001301 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.16-21.46.31:451][775]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.16-21.46.31:482][775]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/benes/Desktop/FurryNudist/Park.fbx)
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: NodeAttribute, ItemCount : 1
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: Model, ItemCount : 85
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: Geometry, ItemCount : 84
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: Material, ItemCount : 16
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.04.16-21.46.31:514][775]LogFbx: ItemName: Video, ItemCount : 2
+[2018.04.16-21.46.31:527][775]LogFbx: Loading FBX Scene from ../../../../../../Users/benes/Desktop/FurryNudist/Park.fbx
+[2018.04.16-21.46.31:622][775]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-21.52.26:271][775]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.16-21.52.26:327][775]LogFbx: Loading FBX Scene from ../../../../../../Users/benes/Desktop/FurryNudist/Park.fbx
+[2018.04.16-21.52.26:408][775]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-21.52.26:419][775]LogMaterial: Missing cached shader map for material lambert14, compiling. 
+[2018.04.16-21.52.26:451][775]LogMaterial: Missing cached shader map for material lambert15, compiling. 
+[2018.04.16-21.52.26:458][775]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.16-21.52.26:458][775]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.16-21.52.26:458][775]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-21.52.26:459][775]LogFbx: Warning: Triangulating static mesh Tre13
+[2018.04.16-21.52.26:475][775]LogStaticMesh: Building static mesh Park_Tre13...
+[2018.04.16-21.52.26:484][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre13.Park_Tre13
+[2018.04.16-21.52.26:496][775]LogFbx: Warning: Triangulating static mesh Tre12
+[2018.04.16-21.52.26:514][775]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.16-21.52.26:516][775]LogStaticMesh: Building static mesh Park_Tre12...
+[2018.04.16-21.52.26:529][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre12.Park_Tre12
+[2018.04.16-21.52.26:538][775]LogFbx: Warning: Triangulating static mesh Tre11
+[2018.04.16-21.52.26:555][775]LogStaticMesh: Building static mesh Park_Tre11...
+[2018.04.16-21.52.26:565][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre11.Park_Tre11
+[2018.04.16-21.52.26:573][775]LogFbx: Warning: Triangulating static mesh Tre10
+[2018.04.16-21.52.26:590][775]LogStaticMesh: Building static mesh Park_Tre10...
+[2018.04.16-21.52.26:600][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre10.Park_Tre10
+[2018.04.16-21.52.26:606][775]LogFbx: Warning: Triangulating static mesh Tre9
+[2018.04.16-21.52.26:619][775]LogStaticMesh: Building static mesh Park_Tre9...
+[2018.04.16-21.52.26:628][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre9.Park_Tre9
+[2018.04.16-21.52.26:634][775]LogFbx: Warning: Triangulating static mesh Tre8
+[2018.04.16-21.52.26:647][775]LogStaticMesh: Building static mesh Park_Tre8...
+[2018.04.16-21.52.26:656][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre8.Park_Tre8
+[2018.04.16-21.52.26:666][775]LogMaterial: Missing cached shader map for material lambert16, compiling. 
+[2018.04.16-21.52.26:676][775]LogMaterial: Missing cached shader map for material lambert17, compiling. 
+[2018.04.16-21.52.26:685][775]LogFbx: Warning: Triangulating static mesh Tre7
+[2018.04.16-21.52.26:697][775]LogStaticMesh: Building static mesh Park_Tre7...
+[2018.04.16-21.52.26:707][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre7.Park_Tre7
+[2018.04.16-21.52.26:720][775]LogMaterial: Missing cached shader map for material lambert8, compiling. 
+[2018.04.16-21.52.26:733][775]LogMaterial: Missing cached shader map for material lambert9, compiling. 
+[2018.04.16-21.52.26:743][775]LogFbx: Warning: Triangulating static mesh Tre5
+[2018.04.16-21.52.26:759][775]LogStaticMesh: Building static mesh Park_Tre5...
+[2018.04.16-21.52.26:770][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre5.Park_Tre5
+[2018.04.16-21.52.26:778][775]LogFbx: Warning: Triangulating static mesh Tre4
+[2018.04.16-21.52.26:798][775]LogStaticMesh: Building static mesh Park_Tre4...
+[2018.04.16-21.52.26:816][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Tre4.Park_Tre4
+[2018.04.16-21.52.26:826][775]LogFbx: Warning: Triangulating static mesh Tre3
+[2018.04.16-21.52.26:844][775]LogStaticMesh: Building static mesh Park_Tre3...
+[2018.04.16-21.52.26:858][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre3.Park_Tre3
+[2018.04.16-21.52.26:867][775]LogFbx: Warning: Triangulating static mesh Tre2
+[2018.04.16-21.52.26:884][775]LogStaticMesh: Building static mesh Park_Tre2...
+[2018.04.16-21.52.26:895][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre2.Park_Tre2
+[2018.04.16-21.52.26:904][775]LogFbx: Warning: Triangulating static mesh Tre
+[2018.04.16-21.52.26:925][775]LogStaticMesh: Building static mesh Park_Tre...
+[2018.04.16-21.52.26:940][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre.Park_Tre
+[2018.04.16-21.52.26:955][775]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.04.16-21.52.26:970][775]LogMaterial: Missing cached shader map for material lambert3, compiling. 
+[2018.04.16-21.52.26:981][775]LogFbx: Warning: Triangulating static mesh Fuglefontene2
+[2018.04.16-21.52.26:997][775]LogStaticMesh: Building static mesh Park_Fuglefontene2...
+[2018.04.16-21.52.27:003][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Fuglefontene2.Park_Fuglefontene2
+[2018.04.16-21.52.27:016][775]LogMaterial: Missing cached shader map for material lambert10, compiling. 
+[2018.04.16-21.52.27:032][775]LogMaterial: Missing cached shader map for material lambert11, compiling. 
+[2018.04.16-21.52.27:042][775]LogFbx: Warning: Triangulating static mesh Søppelkasse3
+[2018.04.16-21.52.27:057][775]LogStaticMesh: Building static mesh Park_Søppelkasse3...
+[2018.04.16-21.52.27:067][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse3.Park_Søppelkasse3
+[2018.04.16-21.52.27:076][775]LogFbx: Warning: Triangulating static mesh Søppelkasse2
+[2018.04.16-21.52.27:089][775]LogStaticMesh: Building static mesh Park_Søppelkasse2...
+[2018.04.16-21.52.27:097][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse2.Park_Søppelkasse2
+[2018.04.16-21.52.27:107][775]LogFbx: Warning: Triangulating static mesh Søppelkasse1
+[2018.04.16-21.52.27:122][775]LogStaticMesh: Building static mesh Park_Søppelkasse1...
+[2018.04.16-21.52.27:131][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse1.Park_Søppelkasse1
+[2018.04.16-21.52.27:141][775]LogFbx: Warning: Triangulating static mesh Søppelkasse
+[2018.04.16-21.52.27:157][775]LogShaderCompilers: Display: Shaders left to compile 188
+[2018.04.16-21.52.27:158][775]LogStaticMesh: Building static mesh Park_Søppelkasse...
+[2018.04.16-21.52.27:166][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse.Park_Søppelkasse
+[2018.04.16-21.52.27:180][775]LogMaterial: Missing cached shader map for material lambert13, compiling. 
+[2018.04.16-21.52.27:191][775]LogFbx: Warning: Triangulating static mesh Bord3
+[2018.04.16-21.52.27:205][775]LogStaticMesh: Building static mesh Park_Bord3...
+[2018.04.16-21.52.27:221][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Bord3.Park_Bord3
+[2018.04.16-21.52.27:229][775]LogFbx: Warning: Triangulating static mesh Bord2
+[2018.04.16-21.52.27:244][775]LogStaticMesh: Building static mesh Park_Bord2...
+[2018.04.16-21.52.27:259][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Bord2.Park_Bord2
+[2018.04.16-21.52.27:268][775]LogFbx: Warning: Triangulating static mesh Bord1
+[2018.04.16-21.52.27:280][775]LogStaticMesh: Building static mesh Park_Bord1...
+[2018.04.16-21.52.27:293][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Bord1.Park_Bord1
+[2018.04.16-21.52.27:303][775]LogFbx: Warning: Triangulating static mesh Bord
+[2018.04.16-21.52.27:317][775]LogStaticMesh: Building static mesh Park_Bord...
+[2018.04.16-21.52.27:332][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Bord.Park_Bord
+[2018.04.16-21.52.27:345][775]LogMaterial: Missing cached shader map for material lambert5, compiling. 
+[2018.04.16-21.52.27:358][775]LogFbx: Warning: Triangulating static mesh Benk8
+[2018.04.16-21.52.27:367][775]LogStaticMesh: Building static mesh Park_Benk8...
+[2018.04.16-21.52.27:376][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk8.Park_Benk8
+[2018.04.16-21.52.27:390][775]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.16-21.52.27:401][775]LogFbx: Warning: Triangulating static mesh Fontene1
+[2018.04.16-21.52.27:434][775]LogStaticMesh: Building static mesh Park_Fontene1...
+[2018.04.16-21.52.27:444][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Fontene1.Park_Fontene1
+[2018.04.16-21.52.27:456][775]LogFbx: Warning: Triangulating static mesh Benk13
+[2018.04.16-21.52.27:462][775]LogStaticMesh: Building static mesh Park_Benk13...
+[2018.04.16-21.52.27:469][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk13.Park_Benk13
+[2018.04.16-21.52.27:477][775]LogFbx: Warning: Triangulating static mesh Benk7
+[2018.04.16-21.52.27:483][775]LogStaticMesh: Building static mesh Park_Benk7...
+[2018.04.16-21.52.27:492][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk7.Park_Benk7
+[2018.04.16-21.52.27:499][775]LogFbx: Warning: Triangulating static mesh Benk6
+[2018.04.16-21.52.27:505][775]LogStaticMesh: Building static mesh Park_Benk6...
+[2018.04.16-21.52.27:513][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk6.Park_Benk6
+[2018.04.16-21.52.27:521][775]LogFbx: Warning: Triangulating static mesh Benk5
+[2018.04.16-21.52.27:527][775]LogStaticMesh: Building static mesh Park_Benk5...
+[2018.04.16-21.52.27:537][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk5.Park_Benk5
+[2018.04.16-21.52.27:545][775]LogFbx: Warning: Triangulating static mesh Benk4
+[2018.04.16-21.52.27:552][775]LogStaticMesh: Building static mesh Park_Benk4...
+[2018.04.16-21.52.27:559][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk4.Park_Benk4
+[2018.04.16-21.52.27:566][775]LogFbx: Warning: Triangulating static mesh Benk3
+[2018.04.16-21.52.27:572][775]LogStaticMesh: Building static mesh Park_Benk3...
+[2018.04.16-21.52.27:581][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk3.Park_Benk3
+[2018.04.16-21.52.27:588][775]LogFbx: Warning: Triangulating static mesh Benk2
+[2018.04.16-21.52.27:595][775]LogStaticMesh: Building static mesh Park_Benk2...
+[2018.04.16-21.52.27:602][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk2.Park_Benk2
+[2018.04.16-21.52.27:610][775]LogFbx: Warning: Triangulating static mesh Benk1
+[2018.04.16-21.52.27:615][775]LogStaticMesh: Building static mesh Park_Benk1...
+[2018.04.16-21.52.27:624][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk1.Park_Benk1
+[2018.04.16-21.52.27:632][775]LogFbx: Warning: Triangulating static mesh Fontene:Fontene
+[2018.04.16-21.52.27:679][775]LogStaticMesh: Building static mesh Park_Fontene...
+[2018.04.16-21.52.27:696][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Fontene.Park_Fontene
+[2018.04.16-21.52.27:710][775]LogFbx: Warning: Triangulating static mesh Fuglefontene1
+[2018.04.16-21.52.27:723][775]LogStaticMesh: Building static mesh Park_Fuglefontene1...
+[2018.04.16-21.52.27:730][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Fuglefontene1.Park_Fuglefontene1
+[2018.04.16-21.52.27:740][775]LogFbx: Warning: Triangulating static mesh Benk9
+[2018.04.16-21.52.27:747][775]LogStaticMesh: Building static mesh Park_Benk9...
+[2018.04.16-21.52.27:754][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk9.Park_Benk9
+[2018.04.16-21.52.27:761][775]LogFbx: Warning: Triangulating static mesh Benk10
+[2018.04.16-21.52.27:768][775]LogStaticMesh: Building static mesh Park_Benk10...
+[2018.04.16-21.52.27:777][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk10.Park_Benk10
+[2018.04.16-21.52.27:784][775]LogFbx: Warning: Triangulating static mesh Benk11
+[2018.04.16-21.52.27:791][775]LogStaticMesh: Building static mesh Park_Benk11...
+[2018.04.16-21.52.27:799][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk11.Park_Benk11
+[2018.04.16-21.52.27:808][775]LogFbx: Warning: Triangulating static mesh Benk12
+[2018.04.16-21.52.27:814][775]LogStaticMesh: Building static mesh Park_Benk12...
+[2018.04.16-21.52.27:820][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk12.Park_Benk12
+[2018.04.16-21.52.27:832][775]LogFbx: Warning: Triangulating static mesh Benk14
+[2018.04.16-21.52.27:838][775]LogStaticMesh: Building static mesh Park_Benk14...
+[2018.04.16-21.52.27:846][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk14.Park_Benk14
+[2018.04.16-21.52.27:855][775]LogFbx: Warning: Triangulating static mesh Søppelkasse4
+[2018.04.16-21.52.27:874][775]LogStaticMesh: Building static mesh Park_Søppelkasse4...
+[2018.04.16-21.52.27:883][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse4.Park_Søppelkasse4
+[2018.04.16-21.52.27:903][775]LogFbx: Warning: Triangulating static mesh Tre14
+[2018.04.16-21.52.27:925][775]LogStaticMesh: Building static mesh Park_Tre14...
+[2018.04.16-21.52.27:937][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre14.Park_Tre14
+[2018.04.16-21.52.27:947][775]LogFbx: Warning: Triangulating static mesh Tre15
+[2018.04.16-21.52.27:968][775]LogStaticMesh: Building static mesh Park_Tre15...
+[2018.04.16-21.52.27:983][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Tre15.Park_Tre15
+[2018.04.16-21.52.27:995][775]LogFbx: Warning: Triangulating static mesh Tre16
+[2018.04.16-21.52.28:013][775]LogStaticMesh: Building static mesh Park_Tre16...
+[2018.04.16-21.52.28:026][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre16.Park_Tre16
+[2018.04.16-21.52.28:037][775]LogLinker: Can't find file '/Game/Bakke__park'
+[2018.04.16-21.52.28:037][775]LogLinker: Can't find file '/Game/Bakke__park'
+[2018.04.16-21.52.28:269][775]LogTexture: Display: Building textures: Bakke__park (AutoDXT, 2048X2048)
+[2018.04.16-21.52.28:743][775]LogShaderCompilers: Display: Shaders left to compile 244
+[2018.04.16-21.52.28:743][775]LogShaderCompilers: Display: Shaders left to compile 234
+[2018.04.16-21.52.28:752][775]LogMaterial: Missing cached shader map for material lambert22, compiling. 
+[2018.04.16-21.52.28:769][775]LogMaterial: Missing cached shader map for material lambert28, compiling. 
+[2018.04.16-21.52.28:782][775]LogFbx: Warning: Triangulating static mesh Bakke
+[2018.04.16-21.52.28:792][775]LogStaticMesh: Building static mesh Park_Bakke...
+[2018.04.16-21.52.28:810][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Bakke.Park_Bakke
+[2018.04.16-21.52.28:812][775]LogStaticMesh: Warning: Park_Bakke has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.04.16-21.52.28:812][775]LogStaticMesh: Warning: Park_Bakke has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.04.16-21.52.28:821][775]LogLinker: Can't find file '/Game/Hekk'
+[2018.04.16-21.52.28:822][775]LogLinker: Can't find file '/Game/Hekk'
+[2018.04.16-21.52.29:061][775]LogTexture: Display: Building textures: Hekk (AutoDXT, 2048X2048)
+[2018.04.16-21.52.29:693][775]LogShaderCompilers: Display: Shaders left to compile 268
+[2018.04.16-21.52.29:702][775]LogMaterial: Missing cached shader map for material lambert31, compiling. 
+[2018.04.16-21.52.29:714][775]LogFbx: Warning: Triangulating static mesh Hekk
+[2018.04.16-21.52.29:729][775]LogStaticMesh: Building static mesh Park_Hekk...
+[2018.04.16-21.52.29:741][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Hekk.Park_Hekk
+[2018.04.16-21.52.29:751][775]LogFbx: Warning: Triangulating static mesh Tre17
+[2018.04.16-21.52.29:769][775]LogStaticMesh: Building static mesh Park_Tre17...
+[2018.04.16-21.52.29:783][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre17.Park_Tre17
+[2018.04.16-21.52.29:794][775]LogFbx: Warning: Triangulating static mesh Benk15
+[2018.04.16-21.52.29:810][775]LogStaticMesh: Building static mesh Park_Benk15...
+[2018.04.16-21.52.29:819][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk15.Park_Benk15
+[2018.04.16-21.52.29:826][775]LogFbx: Warning: Triangulating static mesh Søppelkasse5
+[2018.04.16-21.52.29:839][775]LogStaticMesh: Building static mesh Park_Søppelkasse5...
+[2018.04.16-21.52.29:848][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse5.Park_Søppelkasse5
+[2018.04.16-21.52.29:857][775]LogFbx: Warning: Triangulating static mesh Benk16
+[2018.04.16-21.52.29:863][775]LogStaticMesh: Building static mesh Park_Benk16...
+[2018.04.16-21.52.29:872][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk16.Park_Benk16
+[2018.04.16-21.52.29:881][775]LogFbx: Warning: Triangulating static mesh Søppelkasse6
+[2018.04.16-21.52.29:894][775]LogShaderCompilers: Display: Shaders left to compile 280
+[2018.04.16-21.52.29:896][775]LogStaticMesh: Building static mesh Park_Søppelkasse6...
+[2018.04.16-21.52.29:906][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse6.Park_Søppelkasse6
+[2018.04.16-21.52.29:914][775]LogFbx: Warning: Triangulating static mesh Benk17
+[2018.04.16-21.52.29:921][775]LogStaticMesh: Building static mesh Park_Benk17...
+[2018.04.16-21.52.29:930][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk17.Park_Benk17
+[2018.04.16-21.52.29:937][775]LogFbx: Warning: Triangulating static mesh Søppelkasse7
+[2018.04.16-21.52.29:951][775]LogStaticMesh: Building static mesh Park_Søppelkasse7...
+[2018.04.16-21.52.29:961][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse7.Park_Søppelkasse7
+[2018.04.16-21.52.29:969][775]LogFbx: Warning: Triangulating static mesh Benk18
+[2018.04.16-21.52.29:976][775]LogStaticMesh: Building static mesh Park_Benk18...
+[2018.04.16-21.52.29:984][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk18.Park_Benk18
+[2018.04.16-21.52.29:993][775]LogFbx: Warning: Triangulating static mesh Benk19
+[2018.04.16-21.52.29:998][775]LogStaticMesh: Building static mesh Park_Benk19...
+[2018.04.16-21.52.30:007][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk19.Park_Benk19
+[2018.04.16-21.52.30:015][775]LogFbx: Warning: Triangulating static mesh Benk20
+[2018.04.16-21.52.30:021][775]LogStaticMesh: Building static mesh Park_Benk20...
+[2018.04.16-21.52.30:030][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk20.Park_Benk20
+[2018.04.16-21.52.30:038][775]LogFbx: Warning: Triangulating static mesh Benk21
+[2018.04.16-21.52.30:044][775]LogStaticMesh: Building static mesh Park_Benk21...
+[2018.04.16-21.52.30:052][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk21.Park_Benk21
+[2018.04.16-21.52.30:060][775]LogFbx: Warning: Triangulating static mesh Benk22
+[2018.04.16-21.52.30:067][775]LogStaticMesh: Building static mesh Park_Benk22...
+[2018.04.16-21.52.30:075][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk22.Park_Benk22
+[2018.04.16-21.52.30:083][775]LogFbx: Warning: Triangulating static mesh Søppelkasse8
+[2018.04.16-21.52.30:101][775]LogStaticMesh: Building static mesh Park_Søppelkasse8...
+[2018.04.16-21.52.30:111][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse8.Park_Søppelkasse8
+[2018.04.16-21.52.30:118][775]LogShaderCompilers: Display: Shaders left to compile 270
+[2018.04.16-21.52.30:119][775]LogFbx: Warning: Triangulating static mesh Tre18
+[2018.04.16-21.52.30:135][775]LogStaticMesh: Building static mesh Park_Tre18...
+[2018.04.16-21.52.30:148][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre18.Park_Tre18
+[2018.04.16-21.52.30:157][775]LogFbx: Warning: Triangulating static mesh Tre19
+[2018.04.16-21.52.30:175][775]LogStaticMesh: Building static mesh Park_Tre19...
+[2018.04.16-21.52.30:189][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre19.Park_Tre19
+[2018.04.16-21.52.30:198][775]LogFbx: Warning: Triangulating static mesh Benk23
+[2018.04.16-21.52.30:205][775]LogStaticMesh: Building static mesh Park_Benk23...
+[2018.04.16-21.52.30:215][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk23.Park_Benk23
+[2018.04.16-21.52.30:222][775]LogFbx: Warning: Triangulating static mesh Benk24
+[2018.04.16-21.52.30:228][775]LogStaticMesh: Building static mesh Park_Benk24...
+[2018.04.16-21.52.30:238][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk24.Park_Benk24
+[2018.04.16-21.52.30:246][775]LogFbx: Warning: Triangulating static mesh Søppelkasse9
+[2018.04.16-21.52.30:258][775]LogStaticMesh: Building static mesh Park_Søppelkasse9...
+[2018.04.16-21.52.30:272][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse9.Park_Søppelkasse9
+[2018.04.16-21.52.30:280][775]LogFbx: Warning: Triangulating static mesh Bord4
+[2018.04.16-21.52.30:293][775]LogStaticMesh: Building static mesh Park_Bord4...
+[2018.04.16-21.52.30:307][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Bord4.Park_Bord4
+[2018.04.16-21.52.30:317][775]LogFbx: Warning: Triangulating static mesh Tre20
+[2018.04.16-21.52.30:334][775]LogStaticMesh: Building static mesh Park_Tre20...
+[2018.04.16-21.52.30:345][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre20.Park_Tre20
+[2018.04.16-21.52.30:355][775]LogFbx: Warning: Triangulating static mesh Tre21
+[2018.04.16-21.52.30:380][775]LogStaticMesh: Building static mesh Park_Tre21...
+[2018.04.16-21.52.30:395][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Tre21.Park_Tre21
+[2018.04.16-21.52.30:405][775]LogFbx: Warning: Triangulating static mesh Tre22
+[2018.04.16-21.52.30:421][775]LogStaticMesh: Building static mesh Park_Tre22...
+[2018.04.16-21.52.30:435][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre22.Park_Tre22
+[2018.04.16-21.52.30:446][775]LogFbx: Warning: Triangulating static mesh Tre23
+[2018.04.16-21.52.30:462][775]LogStaticMesh: Building static mesh Park_Tre23...
+[2018.04.16-21.52.30:475][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre23.Park_Tre23
+[2018.04.16-21.52.30:485][775]LogFbx: Warning: Triangulating static mesh Fontene2
+[2018.04.16-21.52.30:529][775]LogStaticMesh: Building static mesh Park_Fontene2...
+[2018.04.16-21.52.30:547][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Fontene2.Park_Fontene2
+[2018.04.16-21.52.30:560][775]LogFbx: Warning: Triangulating static mesh Benk25
+[2018.04.16-21.52.30:565][775]LogStaticMesh: Building static mesh Park_Benk25...
+[2018.04.16-21.52.30:574][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk25.Park_Benk25
+[2018.04.16-21.52.30:583][775]LogFbx: Warning: Triangulating static mesh Benk26
+[2018.04.16-21.52.30:590][775]LogStaticMesh: Building static mesh Park_Benk26...
+[2018.04.16-21.52.30:596][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk26.Park_Benk26
+[2018.04.16-21.52.30:604][775]LogFbx: Warning: Triangulating static mesh Søppelkasse10
+[2018.04.16-21.52.30:616][775]LogStaticMesh: Building static mesh Park_Søppelkasse10...
+[2018.04.16-21.52.30:625][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Søppelkasse10.Park_Søppelkasse10
+[2018.04.16-21.52.30:633][775]LogFbx: Warning: Triangulating static mesh Benk27
+[2018.04.16-21.52.30:640][775]LogStaticMesh: Building static mesh Park_Benk27...
+[2018.04.16-21.52.30:646][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Benk27.Park_Benk27
+[2018.04.16-21.52.30:654][775]LogFbx: Warning: Triangulating static mesh Tre24
+[2018.04.16-21.52.30:669][775]LogStaticMesh: Building static mesh Park_Tre24...
+[2018.04.16-21.52.30:682][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre24.Park_Tre24
+[2018.04.16-21.52.30:693][775]LogFbx: Warning: Triangulating static mesh Tre25
+[2018.04.16-21.52.30:708][775]LogStaticMesh: Building static mesh Park_Tre25...
+[2018.04.16-21.52.30:723][775]LogStaticMesh: Built static mesh [0.02s] /Game/Park_Tre25.Park_Tre25
+[2018.04.16-21.52.30:735][775]LogFbx: Warning: Triangulating static mesh Tre26
+[2018.04.16-21.52.30:753][775]LogStaticMesh: Building static mesh Park_Tre26...
+[2018.04.16-21.52.30:764][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre26.Park_Tre26
+[2018.04.16-21.52.30:775][775]LogFbx: Warning: Triangulating static mesh Fuglefontene3
+[2018.04.16-21.52.30:787][775]LogStaticMesh: Building static mesh Park_Fuglefontene3...
+[2018.04.16-21.52.30:794][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Fuglefontene3.Park_Fuglefontene3
+[2018.04.16-21.52.30:805][775]LogFbx: Warning: Triangulating static mesh Tre27
+[2018.04.16-21.52.30:823][775]LogStaticMesh: Building static mesh Park_Tre27...
+[2018.04.16-21.52.30:834][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre27.Park_Tre27
+[2018.04.16-21.52.30:845][775]LogFbx: Warning: Triangulating static mesh Tre28
+[2018.04.16-21.52.30:863][775]LogStaticMesh: Building static mesh Park_Tre28...
+[2018.04.16-21.52.30:877][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre28.Park_Tre28
+[2018.04.16-21.52.30:887][775]LogFbx: Warning: Triangulating static mesh Tre29
+[2018.04.16-21.52.30:903][775]LogStaticMesh: Building static mesh Park_Tre29...
+[2018.04.16-21.52.30:917][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre29.Park_Tre29
+[2018.04.16-21.52.30:928][775]LogFbx: Warning: Triangulating static mesh Tre30
+[2018.04.16-21.52.30:947][775]LogStaticMesh: Building static mesh Park_Tre30...
+[2018.04.16-21.52.30:960][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre30.Park_Tre30
+[2018.04.16-21.52.30:970][775]LogFbx: Warning: Triangulating static mesh Tre31
+[2018.04.16-21.52.30:989][775]LogStaticMesh: Building static mesh Park_Tre31...
+[2018.04.16-21.52.31:001][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre31.Park_Tre31
+[2018.04.16-21.52.31:012][775]LogFbx: Warning: Triangulating static mesh Tre32
+[2018.04.16-21.52.31:031][775]LogStaticMesh: Building static mesh Park_Tre32...
+[2018.04.16-21.52.31:044][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre32.Park_Tre32
+[2018.04.16-21.52.31:054][775]LogFbx: Warning: Triangulating static mesh Tre33
+[2018.04.16-21.52.31:078][775]LogStaticMesh: Building static mesh Park_Tre33...
+[2018.04.16-21.52.31:093][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre33.Park_Tre33
+[2018.04.16-21.52.31:103][775]LogFbx: Warning: Triangulating static mesh Tre34
+[2018.04.16-21.52.31:126][775]LogStaticMesh: Building static mesh Park_Tre34...
+[2018.04.16-21.52.31:139][775]LogStaticMesh: Built static mesh [0.01s] /Game/Park_Tre34.Park_Tre34
+[2018.04.16-21.52.31:161][775]FBXImport: Warning: Park_Bakke has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.04.16-21.52.31:161][775]FBXImport: Warning: Park_Bakke has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.04.16-21.52.31:184][775]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/benes/Desktop/FurryNudist/Ulv.fbx)
+[2018.04.16-21.52.31:206][775]LogFbx: Loading FBX Scene from ../../../../../../Users/benes/Desktop/FurryNudist/Ulv.fbx
+[2018.04.16-21.52.31:220][775]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.16-21.52.31:223][775]LogLinker: Can't find file '/Game/Ulv'
+[2018.04.16-21.52.31:467][775]LogShaderCompilers: Display: Shaders left to compile 260
+[2018.04.16-21.52.31:475][775]LogTexture: Display: Building textures: Ulv (AutoDXT, 2048X2048)
+[2018.04.16-21.52.31:970][775]LogShaderCompilers: Display: Shaders left to compile 250
+[2018.04.16-21.52.31:978][775]LogMaterial: Missing cached shader map for material lambert24, compiling. 
+[2018.04.16-21.52.31:991][775]LogFbx: Warning: Triangulating static mesh Ulv
+[2018.04.16-21.52.32:033][775]LogStaticMesh: Building static mesh Ulv_Ulv...
+[2018.04.16-21.52.32:062][775]LogStaticMesh: Built static mesh [0.03s] /Game/Ulv_Ulv.Ulv_Ulv
+[2018.04.16-21.52.32:065][775]LogStaticMesh: Warning: Ulv_Ulv has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.04.16-21.52.32:065][775]LogStaticMesh: Warning: Ulv_Ulv has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.04.16-21.52.32:079][775]FBXImport: Warning: Ulv_Ulv has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.04.16-21.52.32:079][775]FBXImport: Warning: Ulv_Ulv has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.04.16-21.52.32:137][775]LogSlate: Took 0.000237 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.16-21.52.32:303][775]LogShaderCompilers: Display: Shaders left to compile 262
+[2018.04.16-21.52.32:308][775]LogShaderCompilers: Display: Shaders left to compile 252
+[2018.04.16-21.52.33:420][779]LogShaderCompilers: Display: Shaders left to compile 242
+[2018.04.16-21.52.33:940][788]LogShaderCompilers: Display: Shaders left to compile 232
+[2018.04.16-21.52.34:128][807]LogShaderCompilers: Display: Shaders left to compile 222
+[2018.04.16-21.52.35:031][910]LogShaderCompilers: Display: Shaders left to compile 212
+[2018.04.16-21.52.35:280][939]LogShaderCompilers: Display: Shaders left to compile 202
+[2018.04.16-21.52.35:845][  4]LogShaderCompilers: Display: Shaders left to compile 192
+[2018.04.16-21.52.36:914][126]LogShaderCompilers: Display: Shaders left to compile 182
+[2018.04.16-21.52.37:329][174]LogShaderCompilers: Display: Shaders left to compile 172
+[2018.04.16-21.52.37:875][236]LogSlate: Window 'Message Log' being destroyed
+[2018.04.16-21.52.37:880][236]LogSlate: Window 'Message Log' being destroyed
+[2018.04.16-21.52.37:897][238]LogShaderCompilers: Display: Shaders left to compile 162
+[2018.04.16-21.52.38:413][296]LogShaderCompilers: Display: Shaders left to compile 152
+[2018.04.16-21.52.39:407][384]LogShaderCompilers: Display: Shaders left to compile 142
+[2018.04.16-21.52.39:786][423]LogShaderCompilers: Display: Shaders left to compile 132
+[2018.04.16-21.52.40:514][504]LogShaderCompilers: Display: Shaders left to compile 122
+[2018.04.16-21.52.40:647][520]LogShaderCompilers: Display: Shaders left to compile 112
+[2018.04.16-21.52.41:669][604]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.04.16-21.52.42:144][653]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.04.16-21.52.42:263][667]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.04.16-21.52.43:549][819]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.04.16-21.52.44:327][907]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.04.16-21.52.44:576][937]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.04.16-21.52.45:047][993]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.04.16-21.52.46:043][111]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.04.16-21.52.46:795][191]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.04.16-21.52.47:295][238]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.04.16-21.52.47:320][241]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.04.16-21.53.27:682][231]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-21.53.30:403][349]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-21.53.33:201][483]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-21.53.33:218][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Bakke__park" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Bakke__park.uasset" SILENT=true
+[2018.04.16-21.53.33:367][483]LogSavePackage: Save=146.30ms
+[2018.04.16-21.53.33:367][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Bakke__park2A08DA2A42CCE5BD703CDE9988C72586.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Bakke__park.uasset'
+[2018.04.16-21.53.33:371][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Bakke__park.uasset
+[2018.04.16-21.53.33:378][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Hekk" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Hekk.uasset" SILENT=true
+[2018.04.16-21.53.33:524][483]LogSavePackage: Save=143.68ms
+[2018.04.16-21.53.33:524][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Hekk34400F0948F27756EA26598C0509A78B.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Hekk.uasset'
+[2018.04.16-21.53.33:526][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Hekk.uasset
+[2018.04.16-21.53.33:536][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert1.uasset" SILENT=true
+[2018.04.16-21.53.33:547][483]LogSavePackage: Save=9.93ms
+[2018.04.16-21.53.33:547][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert1C1EB6F2744B1A49243F96F8A7215B493.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert1.uasset'
+[2018.04.16-21.53.33:550][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert1.uasset
+[2018.04.16-21.53.33:560][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert10" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert10.uasset" SILENT=true
+[2018.04.16-21.53.33:571][483]LogSavePackage: Save=10.46ms
+[2018.04.16-21.53.33:571][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert10DCEDAF164A57BCB51E16C08204EF45E4.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert10.uasset'
+[2018.04.16-21.53.33:574][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert10.uasset
+[2018.04.16-21.53.33:584][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert11" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert11.uasset" SILENT=true
+[2018.04.16-21.53.33:596][483]LogSavePackage: Save=10.79ms
+[2018.04.16-21.53.33:596][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert11C72C36C244AB570BDEE339914477E558.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert11.uasset'
+[2018.04.16-21.53.33:599][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert11.uasset
+[2018.04.16-21.53.33:610][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert13" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert13.uasset" SILENT=true
+[2018.04.16-21.53.33:621][483]LogSavePackage: Save=10.48ms
+[2018.04.16-21.53.33:622][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert13908CEEB848BCBA6C5DA6198F252A8143.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert13.uasset'
+[2018.04.16-21.53.33:624][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert13.uasset
+[2018.04.16-21.53.33:635][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert14" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert14.uasset" SILENT=true
+[2018.04.16-21.53.33:647][483]LogSavePackage: Save=10.49ms
+[2018.04.16-21.53.33:647][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert14814E876A43506B0FDC836B863D9B28C6.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert14.uasset'
+[2018.04.16-21.53.33:649][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert14.uasset
+[2018.04.16-21.53.33:659][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert15" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert15.uasset" SILENT=true
+[2018.04.16-21.53.33:671][483]LogSavePackage: Save=10.49ms
+[2018.04.16-21.53.33:671][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert15A13D2E414C6D89F3D6204992BF2F3BA2.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert15.uasset'
+[2018.04.16-21.53.33:673][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert15.uasset
+[2018.04.16-21.53.33:684][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert16" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert16.uasset" SILENT=true
+[2018.04.16-21.53.33:696][483]LogSavePackage: Save=10.52ms
+[2018.04.16-21.53.33:696][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert1678E1E6AA492A7F1EF0DA7A883DDC4778.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert16.uasset'
+[2018.04.16-21.53.33:698][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert16.uasset
+[2018.04.16-21.53.33:709][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert17" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert17.uasset" SILENT=true
+[2018.04.16-21.53.33:721][483]LogSavePackage: Save=11.24ms
+[2018.04.16-21.53.33:721][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert17EEC0DB6A45C0660A2418FDA7E3FDF037.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert17.uasset'
+[2018.04.16-21.53.33:724][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert17.uasset
+[2018.04.16-21.53.33:734][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert2.uasset" SILENT=true
+[2018.04.16-21.53.33:745][483]LogSavePackage: Save=10.20ms
+[2018.04.16-21.53.33:745][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert2ECE128FF460E865D7DD7349EC05B42BF.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert2.uasset'
+[2018.04.16-21.53.33:747][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert2.uasset
+[2018.04.16-21.53.33:758][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert22" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert22.uasset" SILENT=true
+[2018.04.16-21.53.33:770][483]LogSavePackage: Save=10.88ms
+[2018.04.16-21.53.33:770][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert22A482EE584DF0C8EB3D1E938907A54C65.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert22.uasset'
+[2018.04.16-21.53.33:772][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert22.uasset
+[2018.04.16-21.53.33:782][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert24" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert24.uasset" SILENT=true
+[2018.04.16-21.53.33:794][483]LogSavePackage: Save=10.58ms
+[2018.04.16-21.53.33:794][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert24454AD27342610F96CE3E3D852F6E79BE.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert24.uasset'
+[2018.04.16-21.53.33:797][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert24.uasset
+[2018.04.16-21.53.33:807][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert28" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert28.uasset" SILENT=true
+[2018.04.16-21.53.33:819][483]LogSavePackage: Save=10.72ms
+[2018.04.16-21.53.33:819][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert2883F1BED24EA99CEE5ADA28BC3C10D128.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert28.uasset'
+[2018.04.16-21.53.33:821][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert28.uasset
+[2018.04.16-21.53.33:832][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert3.uasset" SILENT=true
+[2018.04.16-21.53.33:843][483]LogSavePackage: Save=10.10ms
+[2018.04.16-21.53.33:843][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert3BAF59DF7466AA29D514A8BA882D0D1FB.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert3.uasset'
+[2018.04.16-21.53.33:846][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert3.uasset
+[2018.04.16-21.53.33:856][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert31" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert31.uasset" SILENT=true
+[2018.04.16-21.53.33:869][483]LogSavePackage: Save=10.82ms
+[2018.04.16-21.53.33:869][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert318200CA03471A03B05FA527B98506D618.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert31.uasset'
+[2018.04.16-21.53.33:871][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert31.uasset
+[2018.04.16-21.53.33:882][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert5" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert5.uasset" SILENT=true
+[2018.04.16-21.53.33:894][483]LogSavePackage: Save=10.68ms
+[2018.04.16-21.53.33:894][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert5F4B16A87497EBCAB2A5FB389E16603D3.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert5.uasset'
+[2018.04.16-21.53.33:896][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert5.uasset
+[2018.04.16-21.53.33:907][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert8" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert8.uasset" SILENT=true
+[2018.04.16-21.53.33:919][483]LogSavePackage: Save=10.53ms
+[2018.04.16-21.53.33:919][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert835DD71D34714BFBD12EFFE90E123C63A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert8.uasset'
+[2018.04.16-21.53.33:922][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert8.uasset
+[2018.04.16-21.53.33:934][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert9" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert9.uasset" SILENT=true
+[2018.04.16-21.53.33:946][483]LogSavePackage: Save=10.66ms
+[2018.04.16-21.53.33:946][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/lambert970301AD4456A4EAC931C71922E559AFE.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert9.uasset'
+[2018.04.16-21.53.33:949][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/lambert9.uasset
+[2018.04.16-21.53.34:020][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.04.16-21.53.34:035][483]LogSavePackage: Save=3.37ms
+[2018.04.16-21.53.34:035][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park647743D64DFB9319D614F0B069E3A00B.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park.umap'
+[2018.04.16-21.53.34:037][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park.umap
+[2018.04.16-21.53.34:037][483]LogFileHelpers: Saving map 'Park' took 0.088
+[2018.04.16-21.53.34:047][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bakke" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bakke.uasset" SILENT=true
+[2018.04.16-21.53.34:058][483]LogSavePackage: Save=9.95ms
+[2018.04.16-21.53.34:058][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bakke952E4B7042F95D1C02AA93AC19E71560.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bakke.uasset'
+[2018.04.16-21.53.34:060][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bakke.uasset
+[2018.04.16-21.53.34:070][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk1.uasset" SILENT=true
+[2018.04.16-21.53.34:082][483]LogSavePackage: Save=10.69ms
+[2018.04.16-21.53.34:083][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk133142B1A43B3A6FE8680D4828108D1DD.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk1.uasset'
+[2018.04.16-21.53.34:084][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk1.uasset
+[2018.04.16-21.53.34:095][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk10" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk10.uasset" SILENT=true
+[2018.04.16-21.53.34:106][483]LogSavePackage: Save=10.55ms
+[2018.04.16-21.53.34:106][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk1085E7CD8F41B508FE7F3E01B3ACB680E6.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk10.uasset'
+[2018.04.16-21.53.34:109][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk10.uasset
+[2018.04.16-21.53.34:119][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk11" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk11.uasset" SILENT=true
+[2018.04.16-21.53.34:132][483]LogSavePackage: Save=11.77ms
+[2018.04.16-21.53.34:132][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk11EE06E1F943AEA32A8645488B0C27A8A1.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk11.uasset'
+[2018.04.16-21.53.34:134][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk11.uasset
+[2018.04.16-21.53.34:144][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk12" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk12.uasset" SILENT=true
+[2018.04.16-21.53.34:156][483]LogSavePackage: Save=10.47ms
+[2018.04.16-21.53.34:156][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk1266ABCE004CCB4C9D062DC6B01A205591.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk12.uasset'
+[2018.04.16-21.53.34:158][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk12.uasset
+[2018.04.16-21.53.34:168][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk13" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk13.uasset" SILENT=true
+[2018.04.16-21.53.34:181][483]LogSavePackage: Save=10.71ms
+[2018.04.16-21.53.34:181][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk13E157DD66472385E579640199F0947E06.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk13.uasset'
+[2018.04.16-21.53.34:183][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk13.uasset
+[2018.04.16-21.53.34:193][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk14" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk14.uasset" SILENT=true
+[2018.04.16-21.53.34:205][483]LogSavePackage: Save=10.47ms
+[2018.04.16-21.53.34:205][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk140717F52D46EFD3ABD22A078C696613CF.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk14.uasset'
+[2018.04.16-21.53.34:207][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk14.uasset
+[2018.04.16-21.53.34:217][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk15" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk15.uasset" SILENT=true
+[2018.04.16-21.53.34:229][483]LogSavePackage: Save=10.65ms
+[2018.04.16-21.53.34:229][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk15E682090A4B2ECF189887AAA7ED0D8C60.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk15.uasset'
+[2018.04.16-21.53.34:231][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk15.uasset
+[2018.04.16-21.53.34:241][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk16" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk16.uasset" SILENT=true
+[2018.04.16-21.53.34:253][483]LogSavePackage: Save=10.36ms
+[2018.04.16-21.53.34:253][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk164615CCF44846A90BAD21ECB9333DB504.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk16.uasset'
+[2018.04.16-21.53.34:255][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk16.uasset
+[2018.04.16-21.53.34:265][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk17" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk17.uasset" SILENT=true
+[2018.04.16-21.53.34:277][483]LogSavePackage: Save=10.63ms
+[2018.04.16-21.53.34:277][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk1742E1858649546089C12BD9865DF212FC.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk17.uasset'
+[2018.04.16-21.53.34:279][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk17.uasset
+[2018.04.16-21.53.34:289][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk18" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk18.uasset" SILENT=true
+[2018.04.16-21.53.34:302][483]LogSavePackage: Save=10.71ms
+[2018.04.16-21.53.34:302][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk186614B2F04CA394ECE5ADD18160427FA0.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk18.uasset'
+[2018.04.16-21.53.34:304][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk18.uasset
+[2018.04.16-21.53.34:314][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk19" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk19.uasset" SILENT=true
+[2018.04.16-21.53.34:329][483]LogSavePackage: Save=13.73ms
+[2018.04.16-21.53.34:329][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk19331CE7BE42D18A632FA0EDAC7A665062.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk19.uasset'
+[2018.04.16-21.53.34:331][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk19.uasset
+[2018.04.16-21.53.34:341][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk2.uasset" SILENT=true
+[2018.04.16-21.53.34:353][483]LogSavePackage: Save=10.53ms
+[2018.04.16-21.53.34:353][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk20EB0C814492C8458F193CC8DE469BA22.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk2.uasset'
+[2018.04.16-21.53.34:355][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk2.uasset
+[2018.04.16-21.53.34:365][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk20" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk20.uasset" SILENT=true
+[2018.04.16-21.53.34:377][483]LogSavePackage: Save=10.60ms
+[2018.04.16-21.53.34:377][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk20BAECF30446D24EDE0A8182BF16B876ED.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk20.uasset'
+[2018.04.16-21.53.34:379][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk20.uasset
+[2018.04.16-21.53.34:389][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk21" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk21.uasset" SILENT=true
+[2018.04.16-21.53.34:401][483]LogSavePackage: Save=10.79ms
+[2018.04.16-21.53.34:401][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk21405DA2984985743E6389E9B9B3E0D48A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk21.uasset'
+[2018.04.16-21.53.34:403][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk21.uasset
+[2018.04.16-21.53.34:413][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk22" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk22.uasset" SILENT=true
+[2018.04.16-21.53.34:426][483]LogSavePackage: Save=10.54ms
+[2018.04.16-21.53.34:426][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk228402EB814E6F3A13954C1CA8264E19CF.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk22.uasset'
+[2018.04.16-21.53.34:428][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk22.uasset
+[2018.04.16-21.53.34:437][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk23" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk23.uasset" SILENT=true
+[2018.04.16-21.53.34:449][483]LogSavePackage: Save=10.14ms
+[2018.04.16-21.53.34:449][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk233854D18043A2CF57A5A80792C5303591.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk23.uasset'
+[2018.04.16-21.53.34:451][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk23.uasset
+[2018.04.16-21.53.34:461][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk24" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk24.uasset" SILENT=true
+[2018.04.16-21.53.34:473][483]LogSavePackage: Save=10.80ms
+[2018.04.16-21.53.34:473][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk24CF2E637B47015C0F4906BFB86CFF6551.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk24.uasset'
+[2018.04.16-21.53.34:475][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk24.uasset
+[2018.04.16-21.53.34:485][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk25" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk25.uasset" SILENT=true
+[2018.04.16-21.53.34:497][483]LogSavePackage: Save=10.68ms
+[2018.04.16-21.53.34:497][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk25C4B34F5A4945FBC5E2B1EE95BA81BA69.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk25.uasset'
+[2018.04.16-21.53.34:499][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk25.uasset
+[2018.04.16-21.53.34:510][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk26" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk26.uasset" SILENT=true
+[2018.04.16-21.53.34:522][483]LogSavePackage: Save=10.61ms
+[2018.04.16-21.53.34:522][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk264D4F076E46529921312CE18C84335FFB.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk26.uasset'
+[2018.04.16-21.53.34:524][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk26.uasset
+[2018.04.16-21.53.34:534][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk27" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk27.uasset" SILENT=true
+[2018.04.16-21.53.34:547][483]LogSavePackage: Save=11.43ms
+[2018.04.16-21.53.34:547][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk27A1034E5546E7A81D7710C6B4BE38CA22.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk27.uasset'
+[2018.04.16-21.53.34:550][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk27.uasset
+[2018.04.16-21.53.34:560][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk3.uasset" SILENT=true
+[2018.04.16-21.53.34:572][483]LogSavePackage: Save=10.54ms
+[2018.04.16-21.53.34:572][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk34AFCE541452BB077C9AE1F824E055EEB.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk3.uasset'
+[2018.04.16-21.53.34:574][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk3.uasset
+[2018.04.16-21.53.34:584][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk4" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk4.uasset" SILENT=true
+[2018.04.16-21.53.34:596][483]LogSavePackage: Save=10.64ms
+[2018.04.16-21.53.34:596][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk4464EBA624F1F11452D7D838914841830.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk4.uasset'
+[2018.04.16-21.53.34:598][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk4.uasset
+[2018.04.16-21.53.34:608][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk5" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk5.uasset" SILENT=true
+[2018.04.16-21.53.34:620][483]LogSavePackage: Save=11.02ms
+[2018.04.16-21.53.34:620][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk50AB2A5F14A356D04D7160993EA784C45.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk5.uasset'
+[2018.04.16-21.53.34:622][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk5.uasset
+[2018.04.16-21.53.34:632][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk6" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk6.uasset" SILENT=true
+[2018.04.16-21.53.34:644][483]LogSavePackage: Save=10.66ms
+[2018.04.16-21.53.34:644][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk633218F5746F2BCC741E834A1D4193E80.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk6.uasset'
+[2018.04.16-21.53.34:646][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk6.uasset
+[2018.04.16-21.53.34:656][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk7" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk7.uasset" SILENT=true
+[2018.04.16-21.53.34:669][483]LogSavePackage: Save=10.94ms
+[2018.04.16-21.53.34:669][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk777009ECF4D1D908151E9569746F6AAA2.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk7.uasset'
+[2018.04.16-21.53.34:671][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk7.uasset
+[2018.04.16-21.53.34:682][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk8" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk8.uasset" SILENT=true
+[2018.04.16-21.53.34:694][483]LogSavePackage: Save=10.58ms
+[2018.04.16-21.53.34:694][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk8B51E0D3F43F119AC2EC0B298F8C197D9.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk8.uasset'
+[2018.04.16-21.53.34:696][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk8.uasset
+[2018.04.16-21.53.34:707][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Benk9" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk9.uasset" SILENT=true
+[2018.04.16-21.53.34:719][483]LogSavePackage: Save=11.46ms
+[2018.04.16-21.53.34:719][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Benk977842E6144EF6CEB528E3991DC5F88CD.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk9.uasset'
+[2018.04.16-21.53.34:721][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Benk9.uasset
+[2018.04.16-21.53.34:732][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bord" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord.uasset" SILENT=true
+[2018.04.16-21.53.34:747][483]LogSavePackage: Save=13.25ms
+[2018.04.16-21.53.34:747][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bord9D67981847B8F75AFBD847B242A26D0D.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord.uasset'
+[2018.04.16-21.53.34:749][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord.uasset
+[2018.04.16-21.53.34:760][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bord1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord1.uasset" SILENT=true
+[2018.04.16-21.53.34:772][483]LogSavePackage: Save=10.86ms
+[2018.04.16-21.53.34:772][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bord18952C30942EBDF53820FBCAE90D77ABF.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord1.uasset'
+[2018.04.16-21.53.34:775][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord1.uasset
+[2018.04.16-21.53.34:786][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bord2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord2.uasset" SILENT=true
+[2018.04.16-21.53.34:798][483]LogSavePackage: Save=10.77ms
+[2018.04.16-21.53.34:798][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bord275C06C0A40D8E57353A90FB58CD05C0C.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord2.uasset'
+[2018.04.16-21.53.34:800][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord2.uasset
+[2018.04.16-21.53.34:810][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bord3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord3.uasset" SILENT=true
+[2018.04.16-21.53.34:822][483]LogSavePackage: Save=10.73ms
+[2018.04.16-21.53.34:823][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bord31BE52CA24DA8A635FBB33CA5FDF02411.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord3.uasset'
+[2018.04.16-21.53.34:825][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord3.uasset
+[2018.04.16-21.53.34:835][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Bord4" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord4.uasset" SILENT=true
+[2018.04.16-21.53.34:847][483]LogSavePackage: Save=10.89ms
+[2018.04.16-21.53.34:847][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Bord4CEAA51FF4D09AA1D800429B25064AF99.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord4.uasset'
+[2018.04.16-21.53.34:850][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Bord4.uasset
+[2018.04.16-21.53.34:860][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fontene" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene.uasset" SILENT=true
+[2018.04.16-21.53.34:873][483]LogSavePackage: Save=10.76ms
+[2018.04.16-21.53.34:873][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fontene7463BF144D5C9D4C2C22FF87328AF8E5.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene.uasset'
+[2018.04.16-21.53.34:875][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene.uasset
+[2018.04.16-21.53.34:885][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fontene1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene1.uasset" SILENT=true
+[2018.04.16-21.53.34:897][483]LogSavePackage: Save=10.61ms
+[2018.04.16-21.53.34:897][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fontene1A68B287443CF4CE49FC6009096EF721C.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene1.uasset'
+[2018.04.16-21.53.34:899][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene1.uasset
+[2018.04.16-21.53.34:910][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fontene2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene2.uasset" SILENT=true
+[2018.04.16-21.53.34:922][483]LogSavePackage: Save=10.79ms
+[2018.04.16-21.53.34:922][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fontene219346C72479167AF44659EA919C51840.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene2.uasset'
+[2018.04.16-21.53.34:925][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fontene2.uasset
+[2018.04.16-21.53.34:935][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fuglefontene1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene1.uasset" SILENT=true
+[2018.04.16-21.53.34:947][483]LogSavePackage: Save=10.63ms
+[2018.04.16-21.53.34:948][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fuglefontene169FDDF9A4B7604C6314A41804557E855.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene1.uasset'
+[2018.04.16-21.53.34:950][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene1.uasset
+[2018.04.16-21.53.34:960][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fuglefontene2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene2.uasset" SILENT=true
+[2018.04.16-21.53.34:972][483]LogSavePackage: Save=10.36ms
+[2018.04.16-21.53.34:972][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fuglefontene286DE073A47F086E90449D89D39F9FD47.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene2.uasset'
+[2018.04.16-21.53.34:975][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene2.uasset
+[2018.04.16-21.53.34:985][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Fuglefontene3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene3.uasset" SILENT=true
+[2018.04.16-21.53.34:997][483]LogSavePackage: Save=10.52ms
+[2018.04.16-21.53.34:997][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Fuglefontene30BCC35274A251DE282897B86244CB921.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene3.uasset'
+[2018.04.16-21.53.35:000][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Fuglefontene3.uasset
+[2018.04.16-21.53.35:009][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Hekk" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Hekk.uasset" SILENT=true
+[2018.04.16-21.53.35:021][483]LogSavePackage: Save=10.18ms
+[2018.04.16-21.53.35:021][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_HekkA20A610547C40E5AAF06B084A8FD6F75.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Hekk.uasset'
+[2018.04.16-21.53.35:024][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Hekk.uasset
+[2018.04.16-21.53.35:035][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse.uasset" SILENT=true
+[2018.04.16-21.53.35:056][483]LogSavePackage: Save=17.46ms
+[2018.04.16-21.53.35:056][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_SøppelkasseE0426F4F48B62C5D50A35098CB69D49A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse.uasset'
+[2018.04.16-21.53.35:059][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse.uasset
+[2018.04.16-21.53.35:069][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse1" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse1.uasset" SILENT=true
+[2018.04.16-21.53.35:082][483]LogSavePackage: Save=11.14ms
+[2018.04.16-21.53.35:082][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse16994D3954A24398FBC73848AE244AEB0.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse1.uasset'
+[2018.04.16-21.53.35:084][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse1.uasset
+[2018.04.16-21.53.35:094][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse10" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse10.uasset" SILENT=true
+[2018.04.16-21.53.35:107][483]LogSavePackage: Save=10.82ms
+[2018.04.16-21.53.35:107][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse109DCAC3FC4EDB6D9435AA81817DF3369C.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse10.uasset'
+[2018.04.16-21.53.35:109][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse10.uasset
+[2018.04.16-21.53.35:120][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse2.uasset" SILENT=true
+[2018.04.16-21.53.35:132][483]LogSavePackage: Save=10.85ms
+[2018.04.16-21.53.35:132][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse27E607A2D40306A998A11749224A16DBE.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse2.uasset'
+[2018.04.16-21.53.35:135][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse2.uasset
+[2018.04.16-21.53.35:145][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse3.uasset" SILENT=true
+[2018.04.16-21.53.35:158][483]LogSavePackage: Save=11.08ms
+[2018.04.16-21.53.35:158][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse356A7DB5A45E49EE8065F8598B5A4BFB2.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse3.uasset'
+[2018.04.16-21.53.35:161][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse3.uasset
+[2018.04.16-21.53.35:171][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse4" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse4.uasset" SILENT=true
+[2018.04.16-21.53.35:183][483]LogSavePackage: Save=10.89ms
+[2018.04.16-21.53.35:184][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse4BCDF225945115B6786C75CAB6FC99844.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse4.uasset'
+[2018.04.16-21.53.35:186][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse4.uasset
+[2018.04.16-21.53.35:196][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse5" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse5.uasset" SILENT=true
+[2018.04.16-21.53.35:208][483]LogSavePackage: Save=10.76ms
+[2018.04.16-21.53.35:208][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse5FB4D9055463CC4B6ED980B93487810CB.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse5.uasset'
+[2018.04.16-21.53.35:211][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse5.uasset
+[2018.04.16-21.53.35:221][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse6" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse6.uasset" SILENT=true
+[2018.04.16-21.53.35:233][483]LogSavePackage: Save=10.88ms
+[2018.04.16-21.53.35:233][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse6D3D018304A28C916E894B2AC0BD8C720.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse6.uasset'
+[2018.04.16-21.53.35:235][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse6.uasset
+[2018.04.16-21.53.35:246][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse7" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse7.uasset" SILENT=true
+[2018.04.16-21.53.35:258][483]LogSavePackage: Save=10.78ms
+[2018.04.16-21.53.35:258][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse7D750E63C4D43FB0899022D8892A7DB6A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse7.uasset'
+[2018.04.16-21.53.35:260][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse7.uasset
+[2018.04.16-21.53.35:271][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse8" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse8.uasset" SILENT=true
+[2018.04.16-21.53.35:283][483]LogSavePackage: Save=10.94ms
+[2018.04.16-21.53.35:283][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse8339F30A14084830A19C1019D0393A1DC.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse8.uasset'
+[2018.04.16-21.53.35:286][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse8.uasset
+[2018.04.16-21.53.35:296][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Søppelkasse9" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse9.uasset" SILENT=true
+[2018.04.16-21.53.35:309][483]LogSavePackage: Save=11.07ms
+[2018.04.16-21.53.35:309][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Søppelkasse917BAC62542E094D046629EBBFEEFC23F.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse9.uasset'
+[2018.04.16-21.53.35:312][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Søppelkasse9.uasset
+[2018.04.16-21.53.35:322][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre.uasset" SILENT=true
+[2018.04.16-21.53.35:335][483]LogSavePackage: Save=11.33ms
+[2018.04.16-21.53.35:335][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre90E48BA04D49E8A5760650A3B094BE3A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre.uasset'
+[2018.04.16-21.53.35:337][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre.uasset
+[2018.04.16-21.53.35:347][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre10" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre10.uasset" SILENT=true
+[2018.04.16-21.53.35:361][483]LogSavePackage: Save=11.93ms
+[2018.04.16-21.53.35:361][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre10F2862DA248206E913A4495B877E7445B.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre10.uasset'
+[2018.04.16-21.53.35:364][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre10.uasset
+[2018.04.16-21.53.35:374][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre11" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre11.uasset" SILENT=true
+[2018.04.16-21.53.35:386][483]LogSavePackage: Save=11.19ms
+[2018.04.16-21.53.35:386][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre115A539FA34EE33A1E69E2BEA4209EA057.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre11.uasset'
+[2018.04.16-21.53.35:389][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre11.uasset
+[2018.04.16-21.53.35:402][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre12" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre12.uasset" SILENT=true
+[2018.04.16-21.53.35:418][483]LogSavePackage: Save=13.18ms
+[2018.04.16-21.53.35:418][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre129665C1FC44A61D6224C5BC9000E4D727.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre12.uasset'
+[2018.04.16-21.53.35:422][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre12.uasset
+[2018.04.16-21.53.35:434][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre13" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre13.uasset" SILENT=true
+[2018.04.16-21.53.35:449][483]LogSavePackage: Save=13.02ms
+[2018.04.16-21.53.35:449][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre139F67269B4C2A7E27EB824281A751A947.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre13.uasset'
+[2018.04.16-21.53.35:451][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre13.uasset
+[2018.04.16-21.53.35:461][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre14" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre14.uasset" SILENT=true
+[2018.04.16-21.53.35:474][483]LogSavePackage: Save=11.33ms
+[2018.04.16-21.53.35:474][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre14CF3DDFAE49E455E1F486CBA31CBB690C.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre14.uasset'
+[2018.04.16-21.53.35:476][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre14.uasset
+[2018.04.16-21.53.35:486][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre15" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre15.uasset" SILENT=true
+[2018.04.16-21.53.35:500][483]LogSavePackage: Save=11.33ms
+[2018.04.16-21.53.35:500][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre15AFC86B68416139DBE2F100A734C12569.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre15.uasset'
+[2018.04.16-21.53.35:502][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre15.uasset
+[2018.04.16-21.53.35:512][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre16" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre16.uasset" SILENT=true
+[2018.04.16-21.53.35:524][483]LogSavePackage: Save=11.23ms
+[2018.04.16-21.53.35:524][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre16D25CF9C24858459C48FE3BBCED055B75.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre16.uasset'
+[2018.04.16-21.53.35:526][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre16.uasset
+[2018.04.16-21.53.35:536][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre17" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre17.uasset" SILENT=true
+[2018.04.16-21.53.35:550][483]LogSavePackage: Save=12.26ms
+[2018.04.16-21.53.35:550][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre1764B6A67D428B97060D601296F8A18998.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre17.uasset'
+[2018.04.16-21.53.35:552][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre17.uasset
+[2018.04.16-21.53.35:562][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre18" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre18.uasset" SILENT=true
+[2018.04.16-21.53.35:575][483]LogSavePackage: Save=11.18ms
+[2018.04.16-21.53.35:575][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre180680FFAD41AF6271CA1CFEA3630D7DD3.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre18.uasset'
+[2018.04.16-21.53.35:577][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre18.uasset
+[2018.04.16-21.53.35:587][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre19" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre19.uasset" SILENT=true
+[2018.04.16-21.53.35:599][483]LogSavePackage: Save=11.40ms
+[2018.04.16-21.53.35:599][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre19F9AAE4B647C9A86ACA73B48FDFB5A3CE.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre19.uasset'
+[2018.04.16-21.53.35:601][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre19.uasset
+[2018.04.16-21.53.35:612][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre2" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre2.uasset" SILENT=true
+[2018.04.16-21.53.35:624][483]LogSavePackage: Save=11.36ms
+[2018.04.16-21.53.35:624][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre28390E2824ED3918DDB83EBB21E9EECCC.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre2.uasset'
+[2018.04.16-21.53.35:626][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre2.uasset
+[2018.04.16-21.53.35:636][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre20" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre20.uasset" SILENT=true
+[2018.04.16-21.53.35:649][483]LogSavePackage: Save=11.28ms
+[2018.04.16-21.53.35:649][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre206E5BD82F4657549BE6087E9BA8EBFC98.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre20.uasset'
+[2018.04.16-21.53.35:651][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre20.uasset
+[2018.04.16-21.53.35:661][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre21" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre21.uasset" SILENT=true
+[2018.04.16-21.53.35:674][483]LogSavePackage: Save=11.26ms
+[2018.04.16-21.53.35:674][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre2171AA74B1419F6CA17AB73FA4E9BA0636.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre21.uasset'
+[2018.04.16-21.53.35:677][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre21.uasset
+[2018.04.16-21.53.35:687][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre22" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre22.uasset" SILENT=true
+[2018.04.16-21.53.35:699][483]LogSavePackage: Save=11.32ms
+[2018.04.16-21.53.35:700][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre222744C4EC4BDA5EF3C0B51CA7A4CEEAD1.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre22.uasset'
+[2018.04.16-21.53.35:702][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre22.uasset
+[2018.04.16-21.53.35:712][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre23" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre23.uasset" SILENT=true
+[2018.04.16-21.53.35:724][483]LogSavePackage: Save=11.31ms
+[2018.04.16-21.53.35:724][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre234EC200E84C0AC8D222AB6299AD9C1C45.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre23.uasset'
+[2018.04.16-21.53.35:726][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre23.uasset
+[2018.04.16-21.53.35:736][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre24" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre24.uasset" SILENT=true
+[2018.04.16-21.53.35:750][483]LogSavePackage: Save=12.35ms
+[2018.04.16-21.53.35:750][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre2421146FBE4F849109A583918EA6B61D4B.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre24.uasset'
+[2018.04.16-21.53.35:752][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre24.uasset
+[2018.04.16-21.53.35:762][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre25" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre25.uasset" SILENT=true
+[2018.04.16-21.53.35:775][483]LogSavePackage: Save=11.24ms
+[2018.04.16-21.53.35:775][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre25349178394775A9546D7E50922A05FF1C.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre25.uasset'
+[2018.04.16-21.53.35:777][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre25.uasset
+[2018.04.16-21.53.35:787][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre26" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre26.uasset" SILENT=true
+[2018.04.16-21.53.35:801][483]LogSavePackage: Save=12.30ms
+[2018.04.16-21.53.35:801][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre264A1960DB4F816685CD98E9844F3C0CE0.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre26.uasset'
+[2018.04.16-21.53.35:803][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre26.uasset
+[2018.04.16-21.53.35:813][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre27" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre27.uasset" SILENT=true
+[2018.04.16-21.53.35:826][483]LogSavePackage: Save=11.39ms
+[2018.04.16-21.53.35:826][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre2732A1BE6D4892E5058B192C84C3D49656.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre27.uasset'
+[2018.04.16-21.53.35:828][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre27.uasset
+[2018.04.16-21.53.35:838][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre28" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre28.uasset" SILENT=true
+[2018.04.16-21.53.35:851][483]LogSavePackage: Save=11.41ms
+[2018.04.16-21.53.35:851][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre28422C7AD0488D691056ADA5AFBF367E19.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre28.uasset'
+[2018.04.16-21.53.35:853][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre28.uasset
+[2018.04.16-21.53.35:863][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre29" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre29.uasset" SILENT=true
+[2018.04.16-21.53.35:876][483]LogSavePackage: Save=11.23ms
+[2018.04.16-21.53.35:876][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre29597D41514B622A03A513B680AE4E8A72.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre29.uasset'
+[2018.04.16-21.53.35:878][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre29.uasset
+[2018.04.16-21.53.35:888][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre3" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre3.uasset" SILENT=true
+[2018.04.16-21.53.35:901][483]LogSavePackage: Save=11.29ms
+[2018.04.16-21.53.35:901][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre3EB12BBE5438BFB142301ACA8DC4EA81D.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre3.uasset'
+[2018.04.16-21.53.35:903][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre3.uasset
+[2018.04.16-21.53.35:912][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre30" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre30.uasset" SILENT=true
+[2018.04.16-21.53.35:925][483]LogSavePackage: Save=11.42ms
+[2018.04.16-21.53.35:925][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre300213908A4E7A4539A1B3EE8878D7CE33.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre30.uasset'
+[2018.04.16-21.53.35:927][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre30.uasset
+[2018.04.16-21.53.35:938][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre31" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre31.uasset" SILENT=true
+[2018.04.16-21.53.35:951][483]LogSavePackage: Save=12.09ms
+[2018.04.16-21.53.35:951][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre31774C18C34BC087574F8F8A9AA5DB256F.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre31.uasset'
+[2018.04.16-21.53.35:953][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre31.uasset
+[2018.04.16-21.53.35:963][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre32" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre32.uasset" SILENT=true
+[2018.04.16-21.53.35:976][483]LogSavePackage: Save=11.45ms
+[2018.04.16-21.53.35:976][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre32BEA6BE724F9D89A6BC9803B949458C7E.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre32.uasset'
+[2018.04.16-21.53.35:978][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre32.uasset
+[2018.04.16-21.53.35:988][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre33" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre33.uasset" SILENT=true
+[2018.04.16-21.53.36:001][483]LogSavePackage: Save=11.21ms
+[2018.04.16-21.53.36:001][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre330A2947C341D2EEC30317358DF7E03539.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre33.uasset'
+[2018.04.16-21.53.36:003][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre33.uasset
+[2018.04.16-21.53.36:013][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre34" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre34.uasset" SILENT=true
+[2018.04.16-21.53.36:026][483]LogSavePackage: Save=11.47ms
+[2018.04.16-21.53.36:026][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre348541B60B4647D9FBD01B5C8B2A13F049.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre34.uasset'
+[2018.04.16-21.53.36:028][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre34.uasset
+[2018.04.16-21.53.36:038][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre4" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre4.uasset" SILENT=true
+[2018.04.16-21.53.36:050][483]LogSavePackage: Save=11.31ms
+[2018.04.16-21.53.36:050][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre4C1558B434B071F09551FA1A6D535D6D8.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre4.uasset'
+[2018.04.16-21.53.36:053][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre4.uasset
+[2018.04.16-21.53.36:063][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre5" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre5.uasset" SILENT=true
+[2018.04.16-21.53.36:076][483]LogSavePackage: Save=11.58ms
+[2018.04.16-21.53.36:076][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre565BA8FDC41332EFD8B7FCB8E4C4B4B4E.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre5.uasset'
+[2018.04.16-21.53.36:079][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre5.uasset
+[2018.04.16-21.53.36:090][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre7" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre7.uasset" SILENT=true
+[2018.04.16-21.53.36:102][483]LogSavePackage: Save=11.27ms
+[2018.04.16-21.53.36:102][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre7D94947AD4FA5B240D23FF09968587ECE.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre7.uasset'
+[2018.04.16-21.53.36:104][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre7.uasset
+[2018.04.16-21.53.36:115][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre8" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre8.uasset" SILENT=true
+[2018.04.16-21.53.36:129][483]LogSavePackage: Save=12.49ms
+[2018.04.16-21.53.36:129][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre895378FBE45D3F7569561069134DFA735.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre8.uasset'
+[2018.04.16-21.53.36:132][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre8.uasset
+[2018.04.16-21.53.36:142][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Park_Tre9" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre9.uasset" SILENT=true
+[2018.04.16-21.53.36:156][483]LogSavePackage: Save=12.03ms
+[2018.04.16-21.53.36:156][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Park_Tre931F5BDCF41326249B91860AF9A174887.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre9.uasset'
+[2018.04.16-21.53.36:158][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park_Tre9.uasset
+[2018.04.16-21.53.36:164][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ulv" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv.uasset" SILENT=true
+[2018.04.16-21.53.36:312][483]LogSavePackage: Save=147.04ms
+[2018.04.16-21.53.36:312][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/UlvAEAFEA8043621502FBFBB39B240A88FC.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv.uasset'
+[2018.04.16-21.53.36:314][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv.uasset
+[2018.04.16-21.53.36:324][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ulv_Ulv" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv_Ulv.uasset" SILENT=true
+[2018.04.16-21.53.36:336][483]LogSavePackage: Save=10.82ms
+[2018.04.16-21.53.36:336][483]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Ulv_Ulv452158FC469F14BE54230EBEB170EF6A.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv_Ulv.uasset'
+[2018.04.16-21.53.36:339][483]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Ulv_Ulv.uasset
+[2018.04.16-21.53.36:340][483]Cmd: MAP LOAD FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Park.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.16-21.53.36:340][483]LightingResults: New page: Lighting Build
+[2018.04.16-21.53.36:341][483]LoadErrors: New page: Loading map: Park.umap
+[2018.04.16-21.53.36:342][483]MapCheck: New page: Map Check
+[2018.04.16-21.53.36:342][483]LightingResults: New page: Lighting Build
+[2018.04.16-21.53.36:354][483]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.16-21.53.36:354][483]LogAIModule: Creating AISystem for world Park
+[2018.04.16-21.53.36:373][483]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.16-21.53.36:436][483]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 61,817ms to complete.
+[2018.04.16-21.53.36:436][483]LogFileHelpers: Loading map 'Park' took 0.097
+[2018.04.16-21.53.55:448][445]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.16-21.53.55:455][445]LightingResults: New page: Lighting Build
+[2018.04.16-21.53.55:455][445]MapCheck: New page: Map Check
+[2018.04.16-21.53.55:456][445]LightingResults: New page: Lighting Build
+[2018.04.16-21.53.55:467][445]LogAIModule: Creating AISystem for world Untitled
+[2018.04.16-21.53.55:474][445]LoadErrors: New page: New Map
+[2018.04.16-21.53.55:477][445]LogAIModule: Creating AISystem for world Park
+[2018.04.16-21.56.08:076][449]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2018.04.16-21.56.08:094][449]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-21.56.08:094][449]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.16-21.56.08:115][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.16-21.56.08:115][449]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.16-21.56.08:115][449]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2018.04.16-21.56.08:142][449]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.16-21.56.08:143][449]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.16-21.56.08:165][449]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2018.04.16-21.56.08:197][449]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.16-21.56.08:207][449]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.16-21.56.08:220][449]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.16-21.56.08:233][449]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.16-21.56.08:251][449]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2018.04.16-21.56.08:265][449]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2018.04.16-21.56.08:279][449]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2018.04.16-21.56.08:289][449]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2018.04.16-21.56.10:255][665]LogShaderCompilers: Display: Shaders left to compile 178
+[2018.04.16-21.56.11:219][777]LogShaderCompilers: Display: Shaders left to compile 168
+[2018.04.16-21.56.11:403][799]LogShaderCompilers: Display: Shaders left to compile 158
+[2018.04.16-21.56.11:423][800]LogShaderCompilers: Display: Shaders left to compile 148
+[2018.04.16-21.56.13:071][995]LogShaderCompilers: Display: Shaders left to compile 138
+[2018.04.16-21.56.13:765][ 74]LogShaderCompilers: Display: Shaders left to compile 128
+[2018.04.16-21.56.14:095][113]LogShaderCompilers: Display: Shaders left to compile 118
+[2018.04.16-21.56.14:252][132]LogShaderCompilers: Display: Shaders left to compile 108
+[2018.04.16-21.56.16:195][348]LogShaderCompilers: Display: Shaders left to compile 98
+[2018.04.16-21.56.16:824][422]LogShaderCompilers: Display: Shaders left to compile 88
+[2018.04.16-21.56.17:116][454]LogShaderCompilers: Display: Shaders left to compile 78
+[2018.04.16-21.56.17:275][470]LogShaderCompilers: Display: Shaders left to compile 68
+[2018.04.16-21.56.19:208][698]LogShaderCompilers: Display: Shaders left to compile 58
+[2018.04.16-21.56.19:803][766]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.04.16-21.56.20:150][807]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.04.16-21.56.20:166][809]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.04.16-21.56.22:121][ 36]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.04.16-21.56.22:606][ 93]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.04.16-21.56.33:600][409]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2018.04.16-21.57.35:195][424]LogSlate: Window 'Save Content' being destroyed
+[2018.04.16-21.57.35:232][424]LogSlate: Window 'FurryVSNudist - Unreal Editor' being destroyed
+[2018.04.16-21.57.35:460][425]Cmd: QUIT_EDITOR
+[2018.04.16-21.57.35:500][425]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.04.16-21.57.35:509][425]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.04.16-21.57.35:509][425]LogExit: Preparing to exit.
+[2018.04.16-21.57.36:615][425]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/' was aborted.
+[2018.04.16-21.57.36:627][425]LogExit: Editor shut down
+[2018.04.16-21.57.36:628][425]LogExit: Transaction tracking system shut down
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../../../../../Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.04.16-21.57.36:705][425]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.04.16-21.57.36:767][425]LogExit: Object subsystem successfully closed.
+[2018.04.16-21.57.36:785][425]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.04.16-21.57.36:789][425]LogD3D11RHI: Shutdown
+[2018.04.16-21.57.36:789][425]LogD3D11RHI: CleanupD3DDevice
+[2018.04.16-21.57.36:795][425]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.04.16-21.57.36:814][425]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (580)
+[2018.04.16-21.57.36:814][425]LogModuleManager: Shutting down and abandoning module AddContentDialog (578)
+[2018.04.16-21.57.36:814][425]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module WidgetCarousel (577)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module EditorWidgets (574)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module CollectionManager (572)
+[2018.04.16-21.57.36:815][425]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Collections/' was aborted.
+[2018.04.16-21.57.36:815][425]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Content/Developers/benesl/Collections/' was aborted.
+[2018.04.16-21.57.36:815][425]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Saved/Collections/' was aborted.
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (570)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module DesktopPlatform (568)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module SceneOutliner (566)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (564)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.04.16-21.57.36:815][425]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.04.16-21.57.36:816][425]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.04.16-21.57.36:817][425]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.04.16-21.57.36:817][425]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.04.16-21.57.36:817][425]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.04.16-21.57.37:247][425]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.04.16-21.57.37:248][425]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.04.16-21.57.37:302][425]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.04.16-21.57.37:303][425]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.04.16-21.57.37:470][425]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.04.16-21.57.37:475][425]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module FurryVSNudist (290)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.04.16-21.57.37:476][425]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.04.16-21.57.37:577][425]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.04.16-21.57.37:677][425]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.04.16-21.57.37:678][425]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.04.16-21.57.37:678][425]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.04.16-21.57.37:678][425]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryVSNudist/Binaries/Win64' was aborted.
+[2018.04.16-21.57.37:678][425]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.04.16-21.57.37:679][425]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.04.16-21.57.37:679][425]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.04.16-21.57.37:679][425]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.04.16-21.57.37:679][425]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.04.16-21.57.38:295][425]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.04.16-21.57.38:295][425]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.04.16-21.57.38:295][425]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.04.16-21.57.38:298][425]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.04.16-21.57.38:304][425]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.04.16-21.57.38:305][425]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.04.16-21.57.38:306][425]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.04.16-21.57.38:307][425]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.04.16-21.57.38:338][425]LogDerivedDataCache: Shutdown
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.04.16-21.57.38:338][425]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.04.16-21.57.38:339][425]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.04.16-21.57.38:340][425]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.04.16-21.57.38:340][425]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.04.16-21.57.38:340][425]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.04.16-21.57.38:340][425]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.04.16-21.57.38:340][425]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.04.16-21.57.38:340][425]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD6AB7CFA-47C3-DD8B-F425-27924BBC4A8F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.1-3989454%2B%2B%2BUE4%2BRelease-4.19&UserID=876af5974c90d438251e3a9ab09fc1b9%7C756576264a604d4597d7e5cd72188243%7C69df6532-06e7-4a82-80a8-8abfb4ceaaf1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.04.16-21.57.38:368][425]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.04.16-21.57.38:370][425]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.04.16-21.57.38:371][425]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.04.16-21.57.38:377][425]LogExit: Exiting.
+[2018.04.16-21.57.38:385][425]Log file closed, 04/16/18 23:57:38
