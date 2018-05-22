@@ -1,4 +1,4 @@
-﻿Log file open, 05/20/18 17:44:04
+﻿Log file open, 05/23/18 01:11:02
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -7,12 +7,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: FurryGame
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(187481959) SRandInit(187481959).
+LogInit: Display: RandInit(75443541) SRandInit(75443541).
 LogInit: Read version file with build ID '3944462'
 LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
 LogInit: Registered custom module enumerator with build ID '3944462'
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.268269
+LogStats: Stats thread started at 0.271608
 LogD3D11RHI: Aftermath initialized
 LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -84,7 +84,7 @@ LogPluginManager: Mounting plugin ProceduralMeshComponent
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogStreaming: Display: Took  0.097s to configure plugins.
+LogStreaming: Display: Took  0.095s to configure plugins.
 LogModuleManager: Display: Found up-to-date module file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Binaries/Win64/UE4Editor-FurryGame.dll (API version 3944462).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
@@ -220,1165 +220,194 @@ LogInit: Branch Name: ++UE4+Release-4.19
 LogInit: Command Line:  
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
-LogStreaming: Display: Took  0.001s to delete old logs.
+LogStreaming: Display: Took  0.002s to delete old logs.
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2018.05.20-15.44.05:929][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.20-15.44.05:929][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2018.05.20-15.44.05:941][  0]LogInit: Computer: MSI
-[2018.05.20-15.44.05:941][  0]LogInit: User: benesl
-[2018.05.20-15.44.05:941][  0]LogInit: CPU Page size=4096, Cores=4
-[2018.05.20-15.44.05:941][  0]LogInit: High frequency timer resolution =2.742192 MHz
-[2018.05.20-15.44.05:942][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
-[2018.05.20-15.44.05:942][  0]LogMemory: Platform Memory Stats for Windows
-[2018.05.20-15.44.05:942][  0]LogMemory: Process Physical Memory: 274.92 MB used, 274.92 MB peak
-[2018.05.20-15.44.05:942][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
-[2018.05.20-15.44.05:942][  0]LogMemory: Physical Memory: 6663.92 MB used,  9677.48 MB free, 16341.40 MB total
-[2018.05.20-15.44.05:942][  0]LogMemory: Virtual Memory: 697.62 MB used,  9677.48 MB free, 134217728.00 MB total
-[2018.05.20-15.44.05:958][  0]LogInit: Using OS detected language (nb-NO).
-[2018.05.20-15.44.05:958][  0]LogInit: Using OS detected locale (nb-NO).
-[2018.05.20-15.44.05:961][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
-[2018.05.20-15.44.06:349][  0]LogStreaming: Display: Took  0.391s to EndInitTextLocalization.
-[2018.05.20-15.44.06:349][  0]LogInit: Setting process to per monitor DPI aware
-[2018.05.20-15.44.06:371][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2018.05.20-15.44.06:371][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2018.05.20-15.44.06:535][  0]LogD3D11RHI: D3D11 adapters:
-[2018.05.20-15.44.06:578][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2018.05.20-15.44.06:578][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2018.05.20-15.44.06:580][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2018.05.20-15.44.06:580][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2018.05.20-15.44.06:580][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2018.05.20-15.44.06:587][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2018.05.20-15.44.06:587][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
-[2018.05.20-15.44.06:587][  0]LogWindows: EnumDisplayDevices:
-[2018.05.20-15.44.06:587][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
-[2018.05.20-15.44.06:587][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.05.20-15.44.06:587][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.05.20-15.44.06:587][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2018.05.20-15.44.06:587][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
-[2018.05.20-15.44.06:587][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2018.05.20-15.44.06:587][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
-[2018.05.20-15.44.06:587][  0]LogD3D11RHI:      Driver Date: Unknown
-[2018.05.20-15.44.06:587][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
-[2018.05.20-15.44.06:615][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.05.20-15.44.06:615][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
-[2018.05.20-15.44.06:615][  0]LogD3D11RHI: Async texture creation enabled
-[2018.05.20-15.44.06:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2018.05.20-15.44.06:720][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Intermediate/Shaders/WorkingDirectory/6884/).
-[2018.05.20-15.44.06:720][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benes/AppData/Local/Temp/UnrealShaderWorkingDir/A60509474B9CAA6897F3D7BD994064D1/'.
-[2018.05.20-15.44.06:907][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2018.05.20-15.44.06:920][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2018.05.20-15.44.06:934][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2018.05.20-15.44.06:947][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2018.05.20-15.44.06:960][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2018.05.20-15.44.06:973][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2018.05.20-15.44.06:986][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2018.05.20-15.44.07:000][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2018.05.20-15.44.07:006][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2018.05.20-15.44.07:017][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2018.05.20-15.44.07:029][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2018.05.20-15.44.07:041][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2018.05.20-15.44.07:052][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
-[2018.05.20-15.44.07:064][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2018.05.20-15.44.07:076][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2018.05.20-15.44.07:100][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2018.05.20-15.44.07:100][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2018.05.20-15.44.07:112][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2018.05.20-15.44.07:113][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2018.05.20-15.44.07:150][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2018.05.20-15.44.07:161][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2018.05.20-15.44.07:173][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2018.05.20-15.44.07:184][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2018.05.20-15.44.07:196][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2018.05.20-15.44.07:209][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2018.05.20-15.44.07:209][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2018.05.20-15.44.07:305][  0]LogXGEController: Cleaning working directory: C:/Users/benes/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.05.20-15.44.07:306][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2018.05.20-15.44.07:306][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2018.05.20-15.44.07:306][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2018.05.20-15.44.07:948][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2018.05.20-15.44.08:009][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2018.05.20-15.44.08:024][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2018.05.20-15.44.08:036][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2018.05.20-15.44.08:036][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2018.05.20-15.44.08:036][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2018.05.20-15.44.08:046][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2018.05.20-15.44.08:046][  0]LogSlate: Using Freetype 2.6.0
-[2018.05.20-15.44.08:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.20-15.44.08:047][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2018.05.20-15.44.08:161][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
-[2018.05.20-15.44.08:434][  0]LogInit: Selected Device Profile: [Windows]
-[2018.05.20-15.44.08:564][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2018.05.20-15.44.08:567][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2018.05.20-15.44.08:567][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2018.05.20-15.44.08:567][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2018.05.20-15.44.08:567][  0]LogMeshReduction: No automatic mesh merging module available
-[2018.05.20-15.44.08:567][  0]LogMeshMerging: No automatic mesh merging module available
-[2018.05.20-15.44.08:592][  0]LogNetVersion: FurryGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 453475365)
-[2018.05.20-15.44.08:973][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.037542 seconds
-[2018.05.20-15.44.08:978][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
-[2018.05.20-15.44.08:978][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
-[2018.05.20-15.44.08:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2018.05.20-15.44.10:506][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2018.05.20-15.44.10:532][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2018.05.20-15.44.10:733][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
-[2018.05.20-15.44.10:733][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
-[2018.05.20-15.44.10:733][  0]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
-[2018.05.20-15.44.10:733][  0]Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+[2018.05.22-23.11.04:522][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-23.11.04:522][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.22-23.11.04:548][  0]LogInit: Computer: MSI
+[2018.05.22-23.11.04:548][  0]LogInit: User: benesl
+[2018.05.22-23.11.04:548][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.05.22-23.11.04:548][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.05.22-23.11.04:549][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2018.05.22-23.11.04:549][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.22-23.11.04:549][  0]LogMemory: Process Physical Memory: 274.73 MB used, 274.73 MB peak
+[2018.05.22-23.11.04:549][  0]LogMemory: Process Virtual Memory: 264.73 MB used, 264.73 MB peak
+[2018.05.22-23.11.04:549][  0]LogMemory: Physical Memory: 4953.83 MB used,  11387.57 MB free, 16341.40 MB total
+[2018.05.22-23.11.04:549][  0]LogMemory: Virtual Memory: 4794.16 MB used,  11387.57 MB free, 134217728.00 MB total
+[2018.05.22-23.11.04:577][  0]LogInit: Using OS detected language (nb-NO).
+[2018.05.22-23.11.04:577][  0]LogInit: Using OS detected locale (nb-NO).
+[2018.05.22-23.11.04:581][  0]LogTextLocalizationManager: No localization for 'nb-NO' exists, so 'en' will be used for the language.
+[2018.05.22-23.11.04:977][  0]LogStreaming: Display: Took  0.400s to EndInitTextLocalization.
+[2018.05.22-23.11.04:977][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.22-23.11.05:000][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.22-23.11.05:000][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.22-23.11.05:182][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.22-23.11.05:226][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.05.22-23.11.05:226][  0]LogD3D11RHI:       6052/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.05.22-23.11.05:228][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.22-23.11.05:228][  0]LogD3D11RHI:       0/0/8170 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.22-23.11.05:228][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.22-23.11.05:233][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.22-23.11.05:233][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.22-23.11.05:233][  0]LogWindows: EnumDisplayDevices:
+[2018.05.22-23.11.05:233][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2018.05.22-23.11.05:234][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.22-23.11.05:234][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.22-23.11.05:234][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.05.22-23.11.05:234][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.22-23.11.05:234][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.05.22-23.11.05:234][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.22-23.11.05:234][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.22-23.11.05:234][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.05.22-23.11.05:263][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.22-23.11.05:263][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.22-23.11.05:264][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.22-23.11.05:321][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.22-23.11.05:363][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Intermediate/Shaders/WorkingDirectory/11392/).
+[2018.05.22-23.11.05:363][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/benes/AppData/Local/Temp/UnrealShaderWorkingDir/0FE4319C44EF1294AB735A849C103D76/'.
+[2018.05.22-23.11.05:556][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.22-23.11.05:569][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.22-23.11.05:583][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.22-23.11.05:596][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.22-23.11.05:609][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.22-23.11.05:622][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.22-23.11.05:635][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.22-23.11.05:648][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.22-23.11.05:654][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.22-23.11.05:666][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.22-23.11.05:677][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.22-23.11.05:689][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.22-23.11.05:700][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.22-23.11.05:712][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.22-23.11.05:724][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.22-23.11.05:747][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.22-23.11.05:747][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.22-23.11.05:759][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.22-23.11.05:760][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.22-23.11.05:797][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.22-23.11.05:808][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.22-23.11.05:820][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.22-23.11.05:832][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.22-23.11.05:845][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.22-23.11.05:857][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.22-23.11.05:857][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.22-23.11.05:958][  0]LogXGEController: Cleaning working directory: C:/Users/benes/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.22-23.11.05:958][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.22-23.11.05:958][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.22-23.11.05:958][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.22-23.11.06:590][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.22-23.11.06:648][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.22-23.11.06:662][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.22-23.11.06:674][  0]LogDerivedDataCache: Using Local data cache path C:/Users/benes/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.22-23.11.06:674][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.22-23.11.06:674][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.22-23.11.06:684][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.22-23.11.06:684][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.22-23.11.06:685][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-23.11.06:685][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.22-23.11.06:800][  0]LogAssetRegistry: FAssetRegistry took 0.0262 seconds to start up
+[2018.05.22-23.11.07:074][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.22-23.11.07:206][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.22-23.11.07:209][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.22-23.11.07:209][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.22-23.11.07:209][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.22-23.11.07:209][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.22-23.11.07:209][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.22-23.11.07:235][  0]LogNetVersion: FurryGame , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 453475365)
+[2018.05.22-23.11.07:590][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.037958 seconds
+[2018.05.22-23.11.07:595][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.22-23.11.07:595][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.22-23.11.07:595][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.22-23.11.09:104][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.22-23.11.09:131][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.22-23.11.09:379][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
+[2018.05.22-23.11.09:379][  0]LogLinker: Warning: Can't find file '/Game/Materials/M_Cursor_Decal'
+[2018.05.22-23.11.09:379][  0]LogUObjectGlobals: Warning: Failed to find object 'Material /Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+[2018.05.22-23.11.09:379][  0]Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
 
-[2018.05.20-15.44.10:733][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
-[2018.05.20-15.44.10:733][  0]LogUObjectBase: Warning: Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
+[2018.05.22-23.11.09:380][  0]LogUObjectBase: Warning: -------------- Default Property warnings and errors:
+[2018.05.22-23.11.09:380][  0]LogUObjectBase: Warning: Error: CDO Constructor (FCharacter): Failed to find Material'/Game/Materials/M_Cursor_Decal.M_Cursor_Decal'
 
-[2018.05.20-15.44.21:480][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.05.20-15.44.21:595][  0]SourceControl: Source control is disabled
-[2018.05.20-15.44.21:595][  0]SourceControl: Source control is disabled
-[2018.05.20-15.44.21:609][  0]SourceControl: Source control is disabled
-[2018.05.20-15.44.21:624][  0]SourceControl: Source control is disabled
-[2018.05.20-15.44.22:037][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2018.05.20-15.44.22:153][  0]LogOcInput: OculusInput pre-init called
-[2018.05.20-15.44.22:247][  0]LogEngine: Initializing Engine...
-[2018.05.20-15.44.22:248][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2018.05.20-15.44.22:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.20-15.44.22:250][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.20-15.44.22:442][  0]LogAIModule: Creating AISystem for world Untitled
-[2018.05.20-15.44.22:492][  0]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.05.20-15.44.22:638][  0]LogInit: FAudioDevice initialized.
-[2018.05.20-15.44.22:708][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
-[2018.05.20-15.44.22:720][  0]LogInit: Texture streaming: Enabled
-[2018.05.20-15.44.22:736][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2018.05.20-15.44.22:750][  0]LogInit: Transaction tracking system initialized
-[2018.05.20-15.44.22:773][  0]BlueprintLog: New page: Editor Load
-[2018.05.20-15.44.22:845][  0]LocalizationService: Localization service is disabled
-[2018.05.20-15.44.22:936][  0]LogConsoleResponse: Display: 
-[2018.05.20-15.44.23:062][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2018.05.20-15.44.23:062][  0]LogCook: Display: Mobile HDR setting 1
-[2018.05.20-15.44.23:063][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2018.05.20-15.44.23:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2018.05.20-15.44.23:063][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2018.05.20-15.44.23:368][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/' took 0.01s
-[2018.05.20-15.44.23:368][  0]SourceControl: Source control is disabled
-[2018.05.20-15.44.23:368][  0]Cmd: MAP LOAD FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2018.05.20-15.44.23:369][  0]LightingResults: New page: Lighting Build
-[2018.05.20-15.44.23:371][  0]MapCheck: New page: Map Check
-[2018.05.20-15.44.23:371][  0]LightingResults: New page: Lighting Build
-[2018.05.20-15.44.23:461][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021981220f10, Size=16, Default__New_C Function /Game/Maps/New.New_C:ExecuteUbergraph_New
-[2018.05.20-15.44.23:462][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021981220f10, Size=16
-[2018.05.20-15.44.23:462][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021981220f10, Size=16, Default__New_C Function /Engine/Transient.REINST_New_C_5:ExecuteUbergraph_New
-[2018.05.20-15.44.23:463][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021981223f80, Size=16, Default__New_C Function /Game/Maps/New.New_C:ExecuteUbergraph_New
-[2018.05.20-15.44.23:535][  0]LogAIModule: Creating AISystem for world New
-[2018.05.20-15.44.23:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2018.05.20-15.44.23:550][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021981220f10, Size=16
-[2018.05.20-15.44.23:551][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2018.05.20-15.44.23:596][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45,519ms to complete.
-[2018.05.20-15.44.23:596][  0]LogFileHelpers: Loading map 'New' took 0.228
-[2018.05.20-15.44.23:643][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.05.20-15.44.23:721][  0]LogCollectionManager: Loaded 0 collections in 0.001826 seconds
-[2018.05.20-15.44.23:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Saved/Collections/' took 0.01s
-[2018.05.20-15.44.23:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Developers/benesl/Collections/' took 0.01s
-[2018.05.20-15.44.23:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Collections/' took 0.01s
-[2018.05.20-15.44.23:759][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2018.05.20-15.44.23:768][  0]LogContentBrowser: Native class hierarchy populated in 0.0087 seconds. Added 2456 classes and 562 folders.
-[2018.05.20-15.44.23:774][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.05.20-15.44.23:810][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2018.05.20-15.44.24:893][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2018.05.20-15.44.24:941][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FurryGame
-[2018.05.20-15.44.24:941][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.05.20-15.44.24:941][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
-[2018.05.20-15.44.24:941][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
-[2018.05.20-15.44.24:941][  0]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
-[2018.05.20-15.44.24:941][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2018.05.20-15.44.24:941][  0]LogLoad: (Engine Initialization) Total time: 21.49 seconds
-[2018.05.20-15.44.24:941][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2018.05.20-15.44.24:960][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benes\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
-[2018.05.20-15.44.24:987][  0]LogAssetRegistry: Asset discovery search completed in 16.8484 seconds
-[2018.05.20-15.44.24:989][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2018.05.20-15.44.24:989][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
-[2018.05.20-15.44.24:990][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2018.05.20-15.44.24:997][  0]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2018.05.20-15.44.25:000][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2018.05.20-15.44.25:000][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2018.05.20-15.44.25:024][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
-[2018.05.20-15.44.25:088][  0]LogRenderer: Reallocating scene render targets to support 988x572 Format 10 NumSamples 1 (Frame:1).
-[2018.05.20-15.44.27:170][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.20-15.44.27:256][126]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.05.20-15.44.27:286][126]LogRenderer: Reallocating scene render targets to support 1488x904 Format 10 NumSamples 1 (Frame:4).
-[2018.05.20-15.44.34:088][532]LogMaterial: Warning: Material /Game/Ammo/Ammo_tekstur.Ammo_tekstur needed to have new flag set bUsedWithStaticLighting !
-[2018.05.20-15.44.34:090][532]LogMaterial: Missing cached shader map for material Ammo_tekstur, compiling. 
-[2018.05.20-15.44.34:146][532]LogShaderCompilers: Display: Shaders left to compile 69
-[2018.05.20-15.44.34:146][532]LogShaderCompilers: Display: Shaders left to compile 59
-[2018.05.20-15.44.34:146][532]LogShaderCompilers: Display: Shaders left to compile 49
-[2018.05.20-15.44.34:146][532]LogShaderCompilers: Display: Shaders left to compile 39
-[2018.05.20-15.44.36:289][661]LogShaderCompilers: Display: Shaders left to compile 29
-[2018.05.20-15.44.36:654][683]LogShaderCompilers: Display: Shaders left to compile 19
-[2018.05.20-15.44.37:016][704]Cmd: TRANSACTION UNDO
-[2018.05.20-15.44.37:016][704]LogEditorTransaction: Undo Create Actors
-[2018.05.20-15.44.37:023][704]LogSlate: Took 0.000229 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2018.05.20-15.44.37:090][709]LogShaderCompilers: Display: Shaders left to compile 9
-[2018.05.20-15.44.41:534][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.20-15.44.43:712][104]Cmd: TRANSACTION UNDO
-[2018.05.20-15.44.43:712][104]LogEditorTransaction: Undo Create Actors
-[2018.05.20-15.44.46:598][277]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.20-15.44.50:848][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.20-15.44.50:943][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/New" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
-[2018.05.20-15.44.50:965][537]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021981223f80, Size=16
-[2018.05.20-15.44.50:965][537]LogUObjectGlobals: Created PersistentFrame Addr=0x00000219e3e9c940, Size=16, Default__New_C Function /Engine/Transient.REINST_New_C_9:ExecuteUbergraph_New
-[2018.05.20-15.44.50:966][537]LogUObjectGlobals: Created PersistentFrame Addr=0x00000219e3e9cdc0, Size=16, Default__New_C Function /Game/Maps/New.New_C:ExecuteUbergraph_New
-[2018.05.20-15.44.51:032][537]LogSavePackage: Save=69.61ms
-[2018.05.20-15.44.51:032][537]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Saved/New504EF6D84F77287FDDDF8C82BE176260.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap'
-[2018.05.20-15.44.51:037][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap
-[2018.05.20-15.44.51:069][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/New_BuiltData" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New_BuiltData.uasset" SILENT=true
-[2018.05.20-15.44.51:090][537]LogSavePackage: Save=13.85ms
-[2018.05.20-15.44.51:090][537]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Saved/New_BuiltData36A59D2946652B835BD8298C351FEE7F.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New_BuiltData.uasset'
-[2018.05.20-15.44.51:091][537]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New_BuiltData.uasset
-[2018.05.20-15.44.52:354][613]LogTemp: Repeating last play command: Selected Viewport
-[2018.05.20-15.44.52:369][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/New.New:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/New.New:PersistentLevel.New' with GeneratedClass '/Game/Maps/New.New_C' with ClassGeneratedBy '/Game/Maps/New.New:PersistentLevel.New'
-[2018.05.20-15.44.52:369][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2018.05.20-15.44.52:370][613]PIE: New page: PIE session: New (20. mai 2018, 19.44.52)
-[2018.05.20-15.44.52:370][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_New
-[2018.05.20-15.44.52:372][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001759s)
-[2018.05.20-15.44.52:372][613]LogAIModule: Creating AISystem for world New
-[2018.05.20-15.44.52:372][613]LogPlayLevel: PIE: World Init took: (0.000641s)
-[2018.05.20-15.44.52:372][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/New.New to /Game/Maps/UEDPIE_0_New.New (0.002532s)
-[2018.05.20-15.44.52:382][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000219e3e9c940, Size=16
-[2018.05.20-15.44.52:384][613]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2018.05.20-15.44.52:418][613]LogInit: FAudioDevice initialized.
-[2018.05.20-15.44.52:483][613]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021982133800, Size=496, Default__FControllerBase_C Function /Game/Blueprint/FControllerBase.FControllerBase_C:ExecuteUbergraph_FControllerBase
-[2018.05.20-15.44.52:487][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021982133800, Size=496
-[2018.05.20-15.44.52:487][613]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021982133800, Size=496, Default__FControllerBase_C Function /Engine/Transient.REINST_FControllerBase_C_15:ExecuteUbergraph_FControllerBase
-[2018.05.20-15.44.52:493][613]LogUObjectGlobals: Created PersistentFrame Addr=0x0000021982131200, Size=496, Default__FControllerBase_C Function /Game/Blueprint/FControllerBase.FControllerBase_C:ExecuteUbergraph_FControllerBase
-[2018.05.20-15.44.52:504][613]LogUObjectGlobals: Created PersistentFrame Addr=0x00000219e57bb160, Size=96, Default__MainMenuWidget_C Function /Game/HUD/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
-[2018.05.20-15.44.52:511][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000219e57bb160, Size=96
-[2018.05.20-15.44.52:511][613]LogUObjectGlobals: Created PersistentFrame Addr=0x00000219e57bb160, Size=96, Default__MainMenuWidget_C Function /Engine/Transient.REINST_MainMenuWidget_C_0:ExecuteUbergraph_MainMenuWidget
-[2018.05.20-15.44.52:514][613]LogUObjectGlobals: Created PersistentFrame Addr=0x00000219e57ba980, Size=96, Default__MainMenuWidget_C Function /Game/HUD/MainMenuWidget.MainMenuWidget_C:ExecuteUbergraph_MainMenuWidget
-[2018.05.20-15.44.52:516][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002199a10d588, Size=24, Default__MainMenuHUD_C Function /Game/HUD/MainMenuHUD.MainMenuHUD_C:ExecuteUbergraph_MainMenuHUD
-[2018.05.20-15.44.52:517][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002199a10d588, Size=24
-[2018.05.20-15.44.52:517][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002199a10d588, Size=24, Default__MainMenuHUD_C Function /Engine/Transient.REINST_MainMenuHUD_C_18:ExecuteUbergraph_MainMenuHUD
-[2018.05.20-15.44.52:518][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002199a10cb08, Size=24, Default__MainMenuHUD_C Function /Game/HUD/MainMenuHUD.MainMenuHUD_C:ExecuteUbergraph_MainMenuHUD
-[2018.05.20-15.44.52:554][613]LogSkeletalMesh: Skeletal Mesh found in DDC [0.782221ms] /Game/Ulv/Ulv.Ulv
-[2018.05.20-15.44.52:576][613]LogLoad: Game class is 'FurryGameGameModeBase_BP_C'
-[2018.05.20-15.44.52:578][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_New.New up for play (max tick rate 60) at 2018.05.20-17.44.52
-[2018.05.20-15.44.52:578][613]LogWorld: Bringing up level for play took: 0.000546
-[2018.05.20-15.44.52:582][613]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
-[2018.05.20-15.44.52:584][613]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_New −0,492
-[2018.05.20-15.44.52:584][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/New.New:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/New.New:PersistentLevel.New' with GeneratedClass '/Game/Maps/New.New_C' with ClassGeneratedBy '/Game/Maps/New.New:PersistentLevel.New'
-[2018.05.20-15.44.53:949][694]LogTemp: Warning: Hit location X=411.412 Y=134.801 Z=20.000!
-[2018.05.20-15.44.53:966][695]LogTemp: Warning: Hit location X=339.379 Y=124.604 Z=20.000!
-[2018.05.20-15.44.53:982][696]LogTemp: Warning: Hit location X=290.154 Y=114.576 Z=20.000!
-[2018.05.20-15.44.53:999][697]LogTemp: Warning: Hit location X=256.449 Y=104.959 Z=20.000!
-[2018.05.20-15.44.54:016][698]LogTemp: Warning: Hit location X=231.996 Y=97.416 Z=20.000!
-[2018.05.20-15.44.54:033][699]LogTemp: Warning: Hit location X=216.564 Y=91.302 Z=20.000!
-[2018.05.20-15.44.54:049][700]LogTemp: Warning: Hit location X=205.360 Y=85.898 Z=20.000!
-[2018.05.20-15.44.54:066][701]LogTemp: Warning: Hit location X=196.034 Y=82.442 Z=20.000!
-[2018.05.20-15.44.54:083][702]LogTemp: Warning: Hit location X=185.606 Y=78.682 Z=20.000!
-[2018.05.20-15.44.54:099][703]LogTemp: Warning: Hit location X=-2.437 Y=17.156 Z=102.240!
-[2018.05.20-15.44.54:116][704]LogTemp: Warning: Hit location X=-7.894 Y=15.211 Z=102.386!
-[2018.05.20-15.44.54:132][705]LogTemp: Warning: Hit location X=-10.141 Y=14.245 Z=102.118!
-[2018.05.20-15.44.54:149][706]LogTemp: Warning: Hit location X=-12.226 Y=13.018 Z=101.822!
-[2018.05.20-15.44.54:166][707]LogTemp: Warning: Hit location X=-13.812 Y=11.626 Z=101.663!
-[2018.05.20-15.44.54:184][708]LogTemp: Warning: Hit location X=-15.708 Y=9.547 Z=101.389!
-[2018.05.20-15.44.54:199][709]LogTemp: Warning: Hit location X=-17.334 Y=7.271 Z=101.029!
-[2018.05.20-15.44.54:216][710]LogTemp: Warning: Hit location X=-18.690 Y=4.800 Z=100.579!
-[2018.05.20-15.44.54:233][711]LogTemp: Warning: Hit location X=-19.314 Y=2.233 Z=100.443!
-[2018.05.20-15.44.54:249][712]LogTemp: Warning: Hit location X=-19.502 Y=0.092 Z=100.387!
-[2018.05.20-15.44.54:266][713]LogTemp: Warning: Hit location X=-19.716 Y=-2.328 Z=100.051!
-[2018.05.20-15.44.54:283][714]LogTemp: Warning: Hit location X=-19.124 Y=-5.452 Z=100.018!
-[2018.05.20-15.44.54:299][715]LogTemp: Warning: Hit location X=-17.439 Y=-8.657 Z=100.417!
-[2018.05.20-15.44.54:316][716]LogTemp: Warning: Hit location X=-15.268 Y=-11.788 Z=100.585!
-[2018.05.20-15.44.54:332][717]LogTemp: Warning: Hit location X=-8.324 Y=-18.353 Z=99.754!
-[2018.05.20-15.44.54:349][718]LogTemp: Warning: Hit location X=0.667 Y=-22.872 Z=96.569!
-[2018.05.20-15.44.54:366][719]LogTemp: Warning: Hit location X=163.473 Y=-11.580 Z=20.000!
-[2018.05.20-15.44.54:383][720]LogTemp: Warning: Hit location X=166.301 Y=-21.021 Z=20.000!
-[2018.05.20-15.44.54:399][721]LogTemp: Warning: Hit location X=168.962 Y=-29.412 Z=20.000!
-[2018.05.20-15.44.54:417][722]LogTemp: Warning: Hit location X=171.795 Y=-38.871 Z=20.000!
-[2018.05.20-15.44.54:433][723]LogTemp: Warning: Hit location X=175.848 Y=-47.789 Z=20.000!
-[2018.05.20-15.44.54:449][724]LogTemp: Warning: Hit location X=181.168 Y=-56.244 Z=20.000!
-[2018.05.20-15.44.54:466][725]LogTemp: Warning: Hit location X=188.089 Y=-65.910 Z=20.000!
-[2018.05.20-15.44.54:482][726]LogTemp: Warning: Hit location X=195.142 Y=-75.763 Z=20.000!
-[2018.05.20-15.44.54:499][727]LogTemp: Warning: Hit location X=206.500 Y=-84.993 Z=20.000!
-[2018.05.20-15.44.54:516][728]LogTemp: Warning: Hit location X=215.445 Y=-95.449 Z=20.000!
-[2018.05.20-15.44.54:532][729]LogTemp: Warning: Hit location X=227.502 Y=-104.817 Z=20.000!
-[2018.05.20-15.44.54:549][730]LogTemp: Warning: Hit location X=238.499 Y=-114.950 Z=20.000!
-[2018.05.20-15.44.54:566][731]LogTemp: Warning: Hit location X=244.308 Y=-121.299 Z=20.000!
-[2018.05.20-15.44.54:583][732]LogTemp: Warning: Hit location X=246.576 Y=-125.551 Z=20.000!
-[2018.05.20-15.44.54:599][733]LogTemp: Warning: Hit location X=248.772 Y=-129.246 Z=20.000!
-[2018.05.20-15.44.54:617][734]LogTemp: Warning: Hit location X=250.722 Y=-131.225 Z=20.000!
-[2018.05.20-15.44.54:633][735]LogTemp: Warning: Hit location X=250.888 Y=-132.380 Z=20.000!
-[2018.05.20-15.44.54:649][736]LogTemp: Warning: Hit location X=250.975 Y=-132.958 Z=20.000!
-[2018.05.20-15.44.54:666][737]LogTemp: Warning: Hit location X=250.975 Y=-132.958 Z=20.000!
-[2018.05.20-15.44.54:682][738]LogTemp: Warning: Hit location X=251.059 Y=-133.535 Z=20.000!
-[2018.05.20-15.44.54:699][739]LogTemp: Warning: Hit location X=251.144 Y=-134.113 Z=20.000!
-[2018.05.20-15.44.54:716][740]LogTemp: Warning: Hit location X=253.105 Y=-136.109 Z=20.000!
-[2018.05.20-15.44.54:732][741]LogTemp: Warning: Hit location X=255.246 Y=-139.277 Z=20.000!
-[2018.05.20-15.44.54:749][742]LogTemp: Warning: Hit location X=257.566 Y=-143.621 Z=20.000!
-[2018.05.20-15.44.54:766][743]LogTemp: Warning: Hit location X=261.736 Y=-148.878 Z=20.000!
-[2018.05.20-15.44.54:783][744]LogTemp: Warning: Hit location X=264.170 Y=-153.860 Z=20.000!
-[2018.05.20-15.44.54:799][745]LogTemp: Warning: Hit location X=264.752 Y=-157.935 Z=20.000!
-[2018.05.20-15.44.54:817][746]LogTemp: Warning: Hit location X=265.333 Y=-162.001 Z=20.000!
-[2018.05.20-15.44.54:833][747]LogTemp: Warning: Hit location X=267.694 Y=-166.429 Z=20.000!
-[2018.05.20-15.44.54:849][748]LogTemp: Warning: Hit location X=268.185 Y=-169.909 Z=20.000!
-[2018.05.20-15.44.54:866][749]LogTemp: Warning: Hit location X=268.683 Y=-173.385 Z=20.000!
-[2018.05.20-15.44.54:882][750]LogTemp: Warning: Hit location X=269.091 Y=-176.275 Z=20.000!
-[2018.05.20-15.44.54:899][751]LogTemp: Warning: Hit location X=269.423 Y=-178.585 Z=20.000!
-[2018.05.20-15.44.54:916][752]LogTemp: Warning: Hit location X=269.588 Y=-179.739 Z=20.000!
-[2018.05.20-15.44.54:932][753]LogTemp: Warning: Hit location X=268.132 Y=-181.620 Z=20.000!
-[2018.05.20-15.44.54:949][754]LogTemp: Warning: Hit location X=264.693 Y=-181.356 Z=20.000!
-[2018.05.20-15.44.54:966][755]LogTemp: Warning: Hit location X=261.295 Y=-181.094 Z=20.000!
-[2018.05.20-15.44.54:983][756]LogTemp: Warning: Hit location X=254.474 Y=-179.463 Z=20.000!
-[2018.05.20-15.44.54:999][757]LogTemp: Warning: Hit location X=247.417 Y=-175.110 Z=20.000!
-[2018.05.20-15.44.55:016][758]LogTemp: Warning: Hit location X=238.608 Y=-168.313 Z=20.000!
-[2018.05.20-15.44.55:033][759]LogTemp: Warning: Hit location X=226.495 Y=-157.832 Z=20.000!
-[2018.05.20-15.44.55:050][760]LogTemp: Warning: Hit location X=216.227 Y=-147.504 Z=20.000!
-[2018.05.20-15.44.55:066][761]LogTemp: Warning: Hit location X=207.696 Y=-137.749 Z=20.000!
-[2018.05.20-15.44.55:083][762]LogTemp: Warning: Hit location X=197.924 Y=-127.506 Z=20.000!
-[2018.05.20-15.44.55:099][763]LogTemp: Warning: Hit location X=191.273 Y=-118.968 Z=20.000!
-[2018.05.20-15.44.55:116][764]LogTemp: Warning: Hit location X=186.139 Y=-111.265 Z=20.000!
-[2018.05.20-15.44.55:133][765]LogTemp: Warning: Hit location X=178.266 Y=-101.871 Z=20.000!
-[2018.05.20-15.44.55:150][766]LogTemp: Warning: Hit location X=171.819 Y=-92.807 Z=20.000!
-[2018.05.20-15.44.55:166][767]LogTemp: Warning: Hit location X=166.539 Y=-82.984 Z=20.000!
-[2018.05.20-15.44.55:183][768]LogTemp: Warning: Hit location X=158.353 Y=-69.696 Z=20.000!
-[2018.05.20-15.44.55:199][769]LogTemp: Warning: Hit location X=151.412 Y=-56.195 Z=20.000!
-[2018.05.20-15.44.55:216][770]LogTemp: Warning: Hit location X=143.445 Y=-42.932 Z=20.000!
-[2018.05.20-15.44.55:232][771]LogTemp: Warning: Hit location X=137.669 Y=-28.814 Z=20.000!
-[2018.05.20-15.44.55:249][772]LogTemp: Warning: Hit location X=132.196 Y=-16.298 Z=20.000!
-[2018.05.20-15.44.55:266][773]LogTemp: Warning: Hit location X=-10.484 Y=-23.357 Z=92.053!
-[2018.05.20-15.44.55:282][774]LogTemp: Warning: Hit location X=-16.763 Y=-18.088 Z=93.838!
-[2018.05.20-15.44.55:300][775]LogTemp: Warning: Hit location X=-20.161 Y=-13.141 Z=94.831!
-[2018.05.20-15.44.55:316][776]LogTemp: Warning: Hit location X=-22.146 Y=-8.872 Z=95.158!
-[2018.05.20-15.44.55:333][777]LogTemp: Warning: Hit location X=-23.305 Y=-4.451 Z=95.359!
-[2018.05.20-15.44.55:349][778]LogTemp: Warning: Hit location X=-23.794 Y=-0.443 Z=95.250!
-[2018.05.20-15.44.55:366][779]LogTemp: Warning: Hit location X=-23.161 Y=5.067 Z=95.385!
-[2018.05.20-15.44.55:383][780]LogTemp: Warning: Hit location X=-20.045 Y=12.642 Z=95.400!
-[2018.05.20-15.44.55:399][781]LogTemp: Warning: Hit location X=-9.505 Y=23.470 Z=92.618!
-[2018.05.20-15.44.55:416][782]LogTemp: Warning: Hit location X=136.770 Y=88.636 Z=20.000!
-[2018.05.20-15.44.55:432][783]LogTemp: Warning: Hit location X=144.455 Y=104.505 Z=20.000!
-[2018.05.20-15.44.55:449][784]LogTemp: Warning: Hit location X=150.453 Y=117.279 Z=20.000!
-[2018.05.20-15.44.55:466][785]LogTemp: Warning: Hit location X=154.346 Y=127.667 Z=20.000!
-[2018.05.20-15.44.55:482][786]LogTemp: Warning: Hit location X=156.241 Y=133.570 Z=20.000!
-[2018.05.20-15.44.55:499][787]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:516][788]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:533][789]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:549][790]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:566][791]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:582][792]LogTemp: Warning: Hit location X=155.957 Y=135.351 Z=20.000!
-[2018.05.20-15.44.55:599][793]LogTemp: Warning: Hit location X=155.673 Y=137.133 Z=20.000!
-[2018.05.20-15.44.55:616][794]LogTemp: Warning: Hit location X=154.154 Y=137.708 Z=20.000!
-[2018.05.20-15.44.55:632][795]LogTemp: Warning: Hit location X=151.048 Y=139.437 Z=20.000!
-[2018.05.20-15.44.55:649][796]LogTemp: Warning: Hit location X=148.167 Y=139.975 Z=20.000!
-[2018.05.20-15.44.55:666][797]LogTemp: Warning: Hit location X=141.750 Y=145.676 Z=20.000!
-[2018.05.20-15.44.55:682][798]LogTemp: Warning: Hit location X=138.305 Y=150.217 Z=20.000!
-[2018.05.20-15.44.55:699][799]LogTemp: Warning: Hit location X=133.956 Y=152.349 Z=20.000!
-[2018.05.20-15.44.55:717][800]LogTemp: Warning: Hit location X=129.963 Y=152.736 Z=20.000!
-[2018.05.20-15.44.55:733][801]LogTemp: Warning: Hit location X=128.678 Y=152.674 Z=20.000!
-[2018.05.20-15.44.55:749][802]LogTemp: Warning: Hit location X=128.584 Y=153.243 Z=20.000!
-[2018.05.20-15.44.55:766][803]LogTemp: Warning: Hit location X=128.584 Y=153.243 Z=20.000!
-[2018.05.20-15.44.55:783][804]LogTemp: Warning: Hit location X=125.943 Y=153.683 Z=20.000!
-[2018.05.20-15.44.55:799][805]LogTemp: Warning: Hit location X=120.558 Y=155.665 Z=20.000!
-[2018.05.20-15.44.55:816][806]LogTemp: Warning: Hit location X=113.990 Y=158.083 Z=20.000!
-[2018.05.20-15.44.55:832][807]LogTemp: Warning: Hit location X=108.301 Y=163.255 Z=20.000!
-[2018.05.20-15.44.55:849][808]LogTemp: Warning: Hit location X=103.687 Y=169.519 Z=20.000!
-[2018.05.20-15.44.55:866][809]LogTemp: Warning: Hit location X=97.153 Y=173.841 Z=20.000!
-[2018.05.20-15.44.55:882][810]LogTemp: Warning: Hit location X=93.164 Y=177.241 Z=20.000!
-[2018.05.20-15.44.55:899][811]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:917][812]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:933][813]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:949][814]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:966][815]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:982][816]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.55:999][817]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.56:016][818]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.56:032][819]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.56:049][820]LogTemp: Warning: Hit location X=90.873 Y=177.526 Z=20.000!
-[2018.05.20-15.44.56:066][821]LogTemp: Warning: Hit location X=89.784 Y=177.402 Z=20.000!
-[2018.05.20-15.44.56:083][822]LogTemp: Warning: Hit location X=87.808 Y=176.101 Z=20.000!
-[2018.05.20-15.44.56:100][823]LogTemp: Warning: Hit location X=84.802 Y=174.508 Z=21.152!
-[2018.05.20-15.44.56:117][824]LogTemp: Warning: Hit location X=84.702 Y=175.222 Z=20.000!
-[2018.05.20-15.44.56:133][825]LogTemp: Warning: Hit location X=83.647 Y=175.106 Z=20.000!
-[2018.05.20-15.44.56:149][826]LogTemp: Warning: Hit location X=83.647 Y=175.106 Z=20.000!
-[2018.05.20-15.44.56:166][827]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:182][828]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:199][829]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:216][830]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:232][831]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:249][832]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:266][833]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:283][834]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:299][835]LogTemp: Warning: Hit location X=78.814 Y=172.668 Z=22.229!
-[2018.05.20-15.44.56:316][836]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:332][837]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:349][838]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:366][839]LogTemp: Warning: Hit location X=82.506 Y=175.512 Z=20.000!
-[2018.05.20-15.44.56:382][840]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:399][841]LogTemp: Warning: Hit location X=82.597 Y=174.991 Z=20.000!
-[2018.05.20-15.44.56:416][842]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:432][843]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:449][844]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:466][845]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:483][846]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:499][847]LogTemp: Warning: Hit location X=81.736 Y=173.838 Z=20.000!
-[2018.05.20-15.44.56:516][848]LogTemp: Warning: Hit location X=81.829 Y=173.320 Z=20.000!
-[2018.05.20-15.44.56:532][849]LogTemp: Warning: Hit location X=81.829 Y=173.320 Z=20.000!
-[2018.05.20-15.44.56:549][850]LogTemp: Warning: Hit location X=81.921 Y=172.801 Z=20.000!
-[2018.05.20-15.44.56:566][851]LogTemp: Warning: Hit location X=81.063 Y=171.657 Z=20.000!
-[2018.05.20-15.44.56:582][852]LogTemp: Warning: Hit location X=80.212 Y=170.520 Z=20.000!
-[2018.05.20-15.44.56:599][853]LogTemp: Warning: Hit location X=79.276 Y=169.905 Z=20.000!
-[2018.05.20-15.44.56:616][854]LogTemp: Warning: Hit location X=77.507 Y=168.172 Z=20.000!
-[2018.05.20-15.44.56:632][855]LogTemp: Warning: Hit location X=75.757 Y=166.457 Z=20.000!
-[2018.05.20-15.44.56:650][856]LogTemp: Warning: Hit location X=74.026 Y=164.761 Z=20.000!
-[2018.05.20-15.44.56:666][857]LogTemp: Warning: Hit location X=73.215 Y=163.670 Z=20.000!
-[2018.05.20-15.44.56:683][858]LogTemp: Warning: Hit location X=71.512 Y=162.004 Z=20.000!
-[2018.05.20-15.44.56:699][859]LogTemp: Warning: Hit location X=70.714 Y=160.929 Z=20.000!
-[2018.05.20-15.44.56:716][860]LogTemp: Warning: Hit location X=69.919 Y=159.859 Z=20.000!
-[2018.05.20-15.44.56:733][861]LogTemp: Warning: Hit location X=68.253 Y=158.232 Z=20.000!
-[2018.05.20-15.44.56:749][862]LogTemp: Warning: Hit location X=67.561 Y=156.684 Z=20.000!
-[2018.05.20-15.44.56:766][863]LogTemp: Warning: Hit location X=65.922 Y=155.087 Z=20.000!
-[2018.05.20-15.44.56:782][864]LogTemp: Warning: Hit location X=64.299 Y=153.507 Z=20.000!
-[2018.05.20-15.44.56:799][865]LogTemp: Warning: Hit location X=62.695 Y=151.944 Z=20.000!
-[2018.05.20-15.44.56:816][866]LogTemp: Warning: Hit location X=61.107 Y=150.397 Z=20.000!
-[2018.05.20-15.44.56:833][867]LogTemp: Warning: Hit location X=57.979 Y=147.350 Z=20.000!
-[2018.05.20-15.44.56:849][868]LogTemp: Warning: Hit location X=56.442 Y=145.852 Z=20.000!
-[2018.05.20-15.44.56:866][869]LogTemp: Warning: Hit location X=55.721 Y=144.871 Z=20.000!
-[2018.05.20-15.44.56:883][870]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:899][871]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:916][872]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:932][873]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:949][874]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:966][875]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:982][876]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.56:999][877]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:016][878]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:033][879]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:049][880]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:066][881]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:083][882]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:099][883]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:116][884]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:132][885]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:149][886]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:166][887]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:182][888]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:199][889]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:216][890]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:233][891]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:249][892]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:266][893]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:283][894]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:299][895]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:316][896]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:332][897]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:349][898]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:366][899]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:382][900]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:399][901]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:416][902]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:433][903]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:449][904]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:466][905]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:482][906]LogTemp: Warning: Hit location X=55.004 Y=143.897 Z=20.000!
-[2018.05.20-15.44.57:499][907]LogTemp: Warning: Hit location X=54.205 Y=143.396 Z=20.000!
-[2018.05.20-15.44.57:516][908]LogTemp: Warning: Hit location X=54.205 Y=143.396 Z=20.000!
-[2018.05.20-15.44.57:532][909]LogTemp: Warning: Hit location X=54.205 Y=143.396 Z=20.000!
-[2018.05.20-15.44.57:549][910]LogTemp: Warning: Hit location X=54.205 Y=143.396 Z=20.000!
-[2018.05.20-15.44.57:566][911]LogTemp: Warning: Hit location X=54.292 Y=142.927 Z=20.000!
-[2018.05.20-15.44.57:583][912]LogTemp: Warning: Hit location X=54.292 Y=142.927 Z=20.000!
-[2018.05.20-15.44.57:599][913]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:616][914]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:633][915]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:649][916]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:666][917]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:682][918]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:699][919]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:716][920]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:732][921]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:749][922]LogTemp: Warning: Hit location X=53.496 Y=142.431 Z=20.000!
-[2018.05.20-15.44.57:766][923]LogTemp: Warning: Hit location X=54.813 Y=140.110 Z=20.000!
-[2018.05.20-15.44.57:783][924]LogTemp: Warning: Hit location X=59.639 Y=138.319 Z=20.000!
-[2018.05.20-15.44.57:799][925]LogTemp: Warning: Hit location X=67.740 Y=134.592 Z=20.000!
-[2018.05.20-15.44.57:816][926]LogTemp: Warning: Hit location X=72.344 Y=130.241 Z=20.000!
-[2018.05.20-15.44.57:833][927]LogTemp: Warning: Hit location X=77.842 Y=126.783 Z=20.000!
-[2018.05.20-15.44.57:849][928]LogTemp: Warning: Hit location X=85.420 Y=123.702 Z=20.000!
-[2018.05.20-15.44.57:866][929]LogTemp: Warning: Hit location X=96.295 Y=121.453 Z=20.000!
-[2018.05.20-15.44.57:883][930]LogTemp: Warning: Hit location X=110.125 Y=118.492 Z=20.000!
-[2018.05.20-15.44.57:899][931]LogTemp: Warning: Hit location X=124.863 Y=115.335 Z=20.000!
-[2018.05.20-15.44.57:916][932]LogTemp: Warning: Hit location X=137.887 Y=112.635 Z=20.000!
-[2018.05.20-15.44.57:932][933]LogTemp: Warning: Hit location X=150.013 Y=111.567 Z=20.000!
-[2018.05.20-15.44.57:949][934]LogTemp: Warning: Hit location X=161.069 Y=112.268 Z=20.000!
-[2018.05.20-15.44.57:966][935]LogTemp: Warning: Hit location X=168.279 Y=112.573 Z=20.000!
-[2018.05.20-15.44.57:983][936]LogTemp: Warning: Hit location X=174.286 Y=112.342 Z=20.000!
-[2018.05.20-15.44.57:999][937]LogTemp: Warning: Hit location X=184.977 Y=113.158 Z=20.000!
-[2018.05.20-15.44.58:016][938]LogTemp: Warning: Hit location X=194.979 Y=110.915 Z=20.000!
-[2018.05.20-15.44.58:033][939]LogTemp: Warning: Hit location X=198.969 Y=106.346 Z=20.000!
-[2018.05.20-15.44.58:049][940]LogTemp: Warning: Hit location X=199.440 Y=103.182 Z=20.000!
-[2018.05.20-15.44.58:066][941]LogTemp: Warning: Hit location X=198.247 Y=100.126 Z=20.000!
-[2018.05.20-15.44.58:084][942]LogTemp: Warning: Hit location X=195.509 Y=96.581 Z=20.000!
-[2018.05.20-15.44.58:099][943]LogTemp: Warning: Hit location X=194.249 Y=94.205 Z=20.000!
-[2018.05.20-15.44.58:116][944]LogTemp: Warning: Hit location X=192.999 Y=91.849 Z=20.000!
-[2018.05.20-15.44.58:132][945]LogTemp: Warning: Hit location X=193.095 Y=91.231 Z=20.000!
-[2018.05.20-15.44.58:149][946]LogTemp: Warning: Hit location X=193.095 Y=91.231 Z=20.000!
-[2018.05.20-15.44.58:166][947]LogTemp: Warning: Hit location X=191.668 Y=90.127 Z=20.000!
-[2018.05.20-15.44.58:183][948]LogTemp: Warning: Hit location X=191.759 Y=89.511 Z=20.000!
-[2018.05.20-15.44.58:199][949]LogTemp: Warning: Hit location X=191.759 Y=89.511 Z=20.000!
-[2018.05.20-15.44.58:216][950]LogTemp: Warning: Hit location X=191.856 Y=88.896 Z=20.000!
-[2018.05.20-15.44.58:233][951]LogTemp: Warning: Hit location X=191.856 Y=88.896 Z=20.000!
-[2018.05.20-15.44.58:249][952]LogTemp: Warning: Hit location X=190.436 Y=87.803 Z=20.000!
-[2018.05.20-15.44.58:266][953]LogTemp: Warning: Hit location X=176.544 Y=82.414 Z=26.165!
-[2018.05.20-15.44.58:283][954]LogTemp: Warning: Hit location X=190.717 Y=85.965 Z=20.000!
-[2018.05.20-15.44.58:299][955]LogTemp: Warning: Hit location X=190.999 Y=84.129 Z=20.000!
-[2018.05.20-15.44.58:316][956]LogTemp: Warning: Hit location X=191.372 Y=81.682 Z=20.000!
-[2018.05.20-15.44.58:333][957]LogTemp: Warning: Hit location X=191.653 Y=79.850 Z=20.000!
-[2018.05.20-15.44.58:350][958]LogTemp: Warning: Hit location X=195.062 Y=78.294 Z=20.000!
-[2018.05.20-15.44.58:366][959]LogTemp: Warning: Hit location X=196.970 Y=76.278 Z=20.000!
-[2018.05.20-15.44.58:383][960]LogTemp: Warning: Hit location X=197.527 Y=72.589 Z=20.000!
-[2018.05.20-15.44.58:401][961]LogTemp: Warning: Hit location X=199.444 Y=70.555 Z=20.000!
-[2018.05.20-15.44.58:416][962]LogTemp: Warning: Hit location X=199.816 Y=68.094 Z=20.000!
-[2018.05.20-15.44.58:433][963]LogTemp: Warning: Hit location X=201.838 Y=65.426 Z=20.000!
-[2018.05.20-15.44.58:449][964]LogTemp: Warning: Hit location X=203.961 Y=62.129 Z=20.000!
-[2018.05.20-15.44.58:466][965]LogTemp: Warning: Hit location X=206.281 Y=57.580 Z=20.000!
-[2018.05.20-15.44.58:483][966]LogTemp: Warning: Hit location X=210.392 Y=52.138 Z=20.000!
-[2018.05.20-15.44.58:499][967]LogTemp: Warning: Hit location X=214.916 Y=44.153 Z=20.000!
-[2018.05.20-15.44.58:516][968]LogTemp: Warning: Hit location X=223.266 Y=33.592 Z=20.000!
-[2018.05.20-15.44.58:533][969]LogTemp: Warning: Hit location X=232.163 Y=20.279 Z=20.000!
-[2018.05.20-15.44.58:550][970]LogTemp: Warning: Hit location X=243.198 Y=5.639 Z=20.000!
-[2018.05.20-15.44.58:566][971]LogTemp: Warning: Hit location X=250.593 Y=-7.812 Z=20.000!
-[2018.05.20-15.44.58:583][972]LogTemp: Warning: Hit location X=255.072 Y=-13.252 Z=20.000!
-[2018.05.20-15.44.58:599][973]LogTemp: Warning: Hit location X=263.627 Y=-34.073 Z=20.000!
-[2018.05.20-15.44.58:616][974]LogTemp: Warning: Hit location X=266.673 Y=-42.343 Z=20.000!
-[2018.05.20-15.44.58:633][975]LogTemp: Warning: Hit location X=267.557 Y=-48.739 Z=20.000!
-[2018.05.20-15.44.58:649][976]LogTemp: Warning: Hit location X=264.396 Y=-53.220 Z=20.000!
-[2018.05.20-15.44.58:666][977]LogTemp: Warning: Hit location X=262.789 Y=-55.118 Z=20.000!
-[2018.05.20-15.44.58:683][978]LogTemp: Warning: Hit location X=261.111 Y=-56.374 Z=20.000!
-[2018.05.20-15.44.58:700][979]LogTemp: Warning: Hit location X=259.529 Y=-58.244 Z=20.000!
-[2018.05.20-15.44.58:716][980]LogTemp: Warning: Hit location X=256.230 Y=-60.703 Z=20.000!
-[2018.05.20-15.44.58:733][981]LogTemp: Warning: Hit location X=251.469 Y=-64.933 Z=20.000!
-[2018.05.20-15.44.58:750][982]LogTemp: Warning: Hit location X=246.901 Y=-69.671 Z=20.000!
-[2018.05.20-15.44.58:766][983]LogTemp: Warning: Hit location X=243.971 Y=-73.168 Z=20.000!
-[2018.05.20-15.44.58:783][984]LogTemp: Warning: Hit location X=240.998 Y=-76.018 Z=20.000!
-[2018.05.20-15.44.58:799][985]LogTemp: Warning: Hit location X=237.811 Y=-77.060 Z=20.000!
-[2018.05.20-15.44.58:816][986]LogTemp: Warning: Hit location X=236.235 Y=-77.576 Z=20.000!
-[2018.05.20-15.44.58:833][987]LogTemp: Warning: Hit location X=234.581 Y=-77.503 Z=20.000!
-[2018.05.20-15.44.58:849][988]LogTemp: Warning: Hit location X=232.940 Y=-77.430 Z=20.000!
-[2018.05.20-15.44.58:866][989]LogTemp: Warning: Hit location X=229.515 Y=-76.128 Z=20.000!
-[2018.05.20-15.44.58:883][990]LogTemp: Warning: Hit location X=227.473 Y=-73.170 Z=20.000!
-[2018.05.20-15.44.58:900][991]LogTemp: Warning: Hit location X=223.592 Y=-68.451 Z=20.000!
-[2018.05.20-15.44.58:916][992]LogTemp: Warning: Hit location X=219.494 Y=-62.058 Z=20.000!
-[2018.05.20-15.44.58:933][993]LogTemp: Warning: Hit location X=211.673 Y=-51.168 Z=20.000!
-[2018.05.20-15.44.58:949][994]LogTemp: Warning: Hit location X=198.814 Y=-35.577 Z=20.000!
-[2018.05.20-15.44.58:966][995]LogTemp: Warning: Hit location X=183.466 Y=-19.645 Z=20.000!
-[2018.05.20-15.44.58:983][996]LogTemp: Warning: Hit location X=165.712 Y=-1.511 Z=20.000!
-[2018.05.20-15.44.58:999][997]LogTemp: Warning: Hit location X=147.373 Y=17.538 Z=20.000!
-[2018.05.20-15.44.59:016][998]LogTemp: Warning: Hit location X=129.903 Y=36.528 Z=20.000!
-[2018.05.20-15.44.59:033][999]LogTemp: Warning: Hit location X=112.273 Y=54.676 Z=20.000!
-[2018.05.20-15.44.59:050][  0]LogTemp: Warning: Hit location X=95.845 Y=70.792 Z=20.000!
-[2018.05.20-15.44.59:066][  1]LogTemp: Warning: Hit location X=83.722 Y=83.258 Z=20.000!
-[2018.05.20-15.44.59:083][  2]LogTemp: Warning: Hit location X=72.463 Y=93.312 Z=20.000!
-[2018.05.20-15.44.59:100][  3]LogTemp: Warning: Hit location X=64.554 Y=101.806 Z=20.000!
-[2018.05.20-15.44.59:116][  4]LogTemp: Warning: Hit location X=60.115 Y=106.680 Z=20.000!
-[2018.05.20-15.44.59:133][  5]LogTemp: Warning: Hit location X=56.173 Y=109.192 Z=20.000!
-[2018.05.20-15.44.59:149][  6]LogTemp: Warning: Hit location X=54.439 Y=109.294 Z=20.000!
-[2018.05.20-15.44.59:166][  7]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:183][  8]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:199][  9]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:216][ 10]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:232][ 11]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:249][ 12]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:266][ 13]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:283][ 14]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:299][ 15]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:316][ 16]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:333][ 17]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:349][ 18]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:366][ 19]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:382][ 20]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:399][ 21]LogTemp: Warning: Hit location X=54.268 Y=110.203 Z=20.000!
-[2018.05.20-15.44.59:416][ 22]LogTemp: Warning: Hit location X=54.354 Y=109.749 Z=20.000!
-[2018.05.20-15.44.59:432][ 23]LogTemp: Warning: Hit location X=54.439 Y=109.294 Z=20.000!
-[2018.05.20-15.44.59:449][ 24]LogTemp: Warning: Hit location X=53.747 Y=108.439 Z=20.000!
-[2018.05.20-15.44.59:466][ 25]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:483][ 26]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:500][ 27]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:516][ 28]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:533][ 29]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:549][ 30]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:566][ 31]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:582][ 32]LogTemp: Warning: Hit location X=53.831 Y=107.986 Z=20.000!
-[2018.05.20-15.44.59:599][ 33]LogTemp: Warning: Hit location X=53.059 Y=107.588 Z=20.000!
-[2018.05.20-15.44.59:616][ 34]LogTemp: Warning: Hit location X=53.059 Y=107.588 Z=20.000!
-[2018.05.20-15.44.59:632][ 35]LogTemp: Warning: Hit location X=52.206 Y=107.643 Z=20.000!
-[2018.05.20-15.44.59:650][ 36]LogTemp: Warning: Hit location X=51.271 Y=108.147 Z=20.000!
-[2018.05.20-15.44.59:666][ 37]LogTemp: Warning: Hit location X=49.503 Y=108.702 Z=20.000!
-[2018.05.20-15.44.59:683][ 38]LogTemp: Warning: Hit location X=48.412 Y=110.094 Z=20.000!
-[2018.05.20-15.44.59:699][ 39]LogTemp: Warning: Hit location X=45.673 Y=111.572 Z=20.000!
-[2018.05.20-15.44.59:716][ 40]LogTemp: Warning: Hit location X=43.698 Y=113.431 Z=20.000!
-[2018.05.20-15.44.59:733][ 41]LogTemp: Warning: Hit location X=41.656 Y=115.717 Z=20.000!
-[2018.05.20-15.44.59:749][ 42]LogTemp: Warning: Hit location X=39.714 Y=117.545 Z=20.000!
-[2018.05.20-15.44.59:766][ 43]LogTemp: Warning: Hit location X=38.666 Y=118.893 Z=20.000!
-[2018.05.20-15.44.59:783][ 44]LogTemp: Warning: Hit location X=37.788 Y=119.358 Z=20.000!
-[2018.05.20-15.44.59:799][ 45]LogTemp: Warning: Hit location X=-61.826 Y=51.359 Z=91.039!
-[2018.05.20-15.44.59:816][ 46]LogTemp: Warning: Hit location X=-68.919 Y=46.517 Z=96.098!
-[2018.05.20-15.44.59:832][ 47]LogTemp: Warning: Hit location X=-70.691 Y=45.307 Z=97.361!
-[2018.05.20-15.44.59:849][ 48]LogTemp: Warning: Hit location X=-71.318 Y=44.880 Z=97.808!
-[2018.05.20-15.44.59:866][ 49]LogTemp: Warning: Hit location X=-71.541 Y=44.727 Z=97.967!
-[2018.05.20-15.44.59:883][ 50]LogTemp: Warning: Hit location X=-71.599 Y=44.688 Z=98.009!
-[2018.05.20-15.44.59:899][ 51]LogTemp: Warning: Hit location X=-71.782 Y=44.563 Z=98.139!
-[2018.05.20-15.44.59:916][ 52]LogTemp: Warning: Hit location X=-72.072 Y=44.364 Z=98.346!
-[2018.05.20-15.44.59:933][ 53]LogTemp: Warning: Hit location X=-72.461 Y=44.099 Z=98.624!
-[2018.05.20-15.44.59:949][ 54]LogTemp: Warning: Hit location X=-72.942 Y=43.771 Z=98.966!
-[2018.05.20-15.44.59:966][ 55]LogTemp: Warning: Hit location X=-73.507 Y=43.385 Z=99.369!
-[2018.05.20-15.44.59:982][ 56]LogTemp: Warning: Hit location X=-74.151 Y=42.946 Z=99.828!
-[2018.05.20-15.44.59:999][ 57]LogTemp: Warning: Hit location X=-74.865 Y=42.458 Z=100.338!
-[2018.05.20-15.45.00:016][ 58]LogTemp: Warning: Hit location X=-75.644 Y=41.926 Z=100.893!
-[2018.05.20-15.45.00:033][ 59]LogTemp: Warning: Hit location X=-76.477 Y=41.358 Z=101.487!
-[2018.05.20-15.45.00:050][ 60]LogTemp: Warning: Hit location X=-77.354 Y=40.759 Z=102.113!
-[2018.05.20-15.45.00:066][ 61]LogTemp: Warning: Hit location X=-78.263 Y=40.138 Z=102.761!
-[2018.05.20-15.45.00:083][ 62]LogTemp: Warning: Hit location X=-79.192 Y=39.505 Z=103.423!
-[2018.05.20-15.45.00:099][ 63]LogTemp: Warning: Hit location X=-80.122 Y=38.869 Z=104.087!
-[2018.05.20-15.45.00:116][ 64]LogTemp: Warning: Hit location X=-81.036 Y=38.246 Z=104.738!
-[2018.05.20-15.45.00:133][ 65]LogTemp: Warning: Hit location X=-81.906 Y=37.651 Z=105.359!
-[2018.05.20-15.45.00:149][ 66]LogTemp: Warning: Hit location X=-83.147 Y=36.879 Z=105.727!
-[2018.05.20-15.45.00:166][ 67]LogTemp: Warning: Hit location X=-83.840 Y=36.406 Z=106.224!
-[2018.05.20-15.45.00:183][ 68]LogTemp: Warning: Hit location X=-84.599 Y=35.924 Z=106.512!
-[2018.05.20-15.45.00:199][ 69]LogTemp: Warning: Hit location X=-84.778 Y=35.552 Z=106.672!
-[2018.05.20-15.45.00:216][ 70]LogTemp: Warning: Hit location X=-84.756 Y=35.567 Z=106.656!
-[2018.05.20-15.45.00:233][ 71]LogTemp: Warning: Hit location X=-84.265 Y=35.901 Z=106.303!
-[2018.05.20-15.45.00:249][ 72]LogTemp: Warning: Hit location X=-82.858 Y=36.860 Z=105.291!
-[2018.05.20-15.45.00:266][ 73]LogTemp: Warning: Hit location X=-81.236 Y=38.003 Z=103.862!
-[2018.05.20-15.45.00:283][ 74]LogTemp: Warning: Hit location X=35.143 Y=116.861 Z=20.000!
-[2018.05.20-15.45.00:299][ 75]LogTemp: Warning: Hit location X=35.143 Y=116.861 Z=20.000!
-[2018.05.20-15.45.00:316][ 76]LogTemp: Warning: Hit location X=34.531 Y=116.028 Z=20.000!
-[2018.05.20-15.45.00:333][ 77]LogTemp: Warning: Hit location X=34.613 Y=115.595 Z=20.000!
-[2018.05.20-15.45.00:349][ 78]LogTemp: Warning: Hit location X=34.004 Y=114.767 Z=20.000!
-[2018.05.20-15.45.00:366][ 79]LogTemp: Warning: Hit location X=34.087 Y=114.336 Z=20.000!
-[2018.05.20-15.45.00:382][ 80]LogTemp: Warning: Hit location X=33.398 Y=113.943 Z=20.000!
-[2018.05.20-15.45.00:400][ 81]LogTemp: Warning: Hit location X=33.481 Y=113.513 Z=20.000!
-[2018.05.20-15.45.00:416][ 82]LogTemp: Warning: Hit location X=33.562 Y=113.083 Z=20.000!
-[2018.05.20-15.45.00:433][ 83]LogTemp: Warning: Hit location X=33.562 Y=113.083 Z=20.000!
-[2018.05.20-15.45.00:449][ 84]LogTemp: Warning: Hit location X=33.645 Y=112.653 Z=20.000!
-[2018.05.20-15.45.00:466][ 85]LogTemp: Warning: Hit location X=32.959 Y=112.265 Z=20.000!
-[2018.05.20-15.45.00:483][ 86]LogTemp: Warning: Hit location X=33.042 Y=111.837 Z=20.000!
-[2018.05.20-15.45.00:499][ 87]LogTemp: Warning: Hit location X=33.288 Y=110.551 Z=20.000!
-[2018.05.20-15.45.00:516][ 88]LogTemp: Warning: Hit location X=33.369 Y=110.122 Z=20.000!
-[2018.05.20-15.45.00:533][ 89]LogTemp: Warning: Hit location X=33.534 Y=109.266 Z=20.000!
-[2018.05.20-15.45.00:549][ 90]LogTemp: Warning: Hit location X=33.699 Y=108.410 Z=20.000!
-[2018.05.20-15.45.00:566][ 91]LogTemp: Warning: Hit location X=33.097 Y=107.607 Z=20.000!
-[2018.05.20-15.45.00:582][ 92]LogTemp: Warning: Hit location X=33.260 Y=106.753 Z=20.000!
-[2018.05.20-15.45.00:600][ 93]LogTemp: Warning: Hit location X=33.341 Y=106.326 Z=20.000!
-[2018.05.20-15.45.00:616][ 94]LogTemp: Warning: Hit location X=33.341 Y=106.326 Z=20.000!
-[2018.05.20-15.45.00:633][ 95]LogTemp: Warning: Hit location X=33.341 Y=106.326 Z=20.000!
-[2018.05.20-15.45.00:649][ 96]LogTemp: Warning: Hit location X=33.424 Y=105.900 Z=20.000!
-[2018.05.20-15.45.00:666][ 97]LogTemp: Warning: Hit location X=33.424 Y=105.900 Z=20.000!
-[2018.05.20-15.45.00:683][ 98]LogTemp: Warning: Hit location X=32.825 Y=105.104 Z=20.000!
-[2018.05.20-15.45.00:699][ 99]LogTemp: Warning: Hit location X=32.825 Y=105.104 Z=20.000!
-[2018.05.20-15.45.00:716][100]LogTemp: Warning: Hit location X=32.229 Y=104.313 Z=20.000!
-[2018.05.20-15.45.00:733][101]LogTemp: Warning: Hit location X=30.961 Y=103.162 Z=20.000!
-[2018.05.20-15.45.00:749][102]LogTemp: Warning: Hit location X=31.123 Y=102.318 Z=20.000!
-[2018.05.20-15.45.00:766][103]LogTemp: Warning: Hit location X=30.536 Y=101.539 Z=20.000!
-[2018.05.20-15.45.00:783][104]LogTemp: Warning: Hit location X=30.698 Y=100.697 Z=20.000!
-[2018.05.20-15.45.00:800][105]LogTemp: Warning: Hit location X=30.275 Y=99.085 Z=20.000!
-[2018.05.20-15.45.00:816][106]LogTemp: Warning: Hit location X=30.437 Y=98.247 Z=20.000!
-[2018.05.20-15.45.00:833][107]LogTemp: Warning: Hit location X=30.014 Y=96.644 Z=20.000!
-[2018.05.20-15.45.00:849][108]LogTemp: Warning: Hit location X=30.336 Y=94.972 Z=20.000!
-[2018.05.20-15.45.00:866][109]LogTemp: Warning: Hit location X=30.579 Y=93.720 Z=20.000!
-[2018.05.20-15.45.00:883][110]LogTemp: Warning: Hit location X=30.822 Y=92.469 Z=20.000!
-[2018.05.20-15.45.00:899][111]LogTemp: Warning: Hit location X=31.062 Y=91.217 Z=20.000!
-[2018.05.20-15.45.00:916][112]LogTemp: Warning: Hit location X=31.143 Y=90.800 Z=20.000!
-[2018.05.20-15.45.00:933][113]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.00:949][114]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.00:966][115]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.00:983][116]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.00:999][117]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.01:016][118]LogTemp: Warning: Hit location X=31.224 Y=90.384 Z=20.000!
-[2018.05.20-15.45.01:033][119]LogTemp: Warning: Hit location X=31.889 Y=90.713 Z=20.000!
-[2018.05.20-15.45.01:049][120]LogTemp: Warning: Hit location X=31.889 Y=90.713 Z=20.000!
-[2018.05.20-15.45.01:066][121]LogTemp: Warning: Hit location X=32.641 Y=90.626 Z=20.000!
-[2018.05.20-15.45.01:083][122]LogTemp: Warning: Hit location X=32.641 Y=90.626 Z=20.000!
-[2018.05.20-15.45.01:099][123]LogTemp: Warning: Hit location X=33.314 Y=90.957 Z=20.000!
-[2018.05.20-15.45.01:116][124]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:132][125]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:149][126]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:166][127]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:183][128]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:199][129]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:216][130]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:233][131]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:249][132]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:266][133]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:283][134]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:299][135]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:316][136]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:332][137]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:350][138]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:366][139]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:383][140]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:399][141]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:416][142]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:433][143]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:449][144]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:466][145]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:483][146]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:499][147]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:516][148]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:533][149]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:549][150]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:566][151]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:583][152]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:599][153]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:616][154]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:633][155]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:649][156]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:666][157]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:682][158]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:699][159]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:716][160]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:733][161]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:749][162]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:766][163]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:783][164]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:799][165]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:816][166]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:833][167]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:849][168]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:866][169]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:882][170]LogTemp: Warning: Hit location X=33.989 Y=91.290 Z=20.000!
-[2018.05.20-15.45.01:899][171]LogTemp: Warning: Hit location X=33.908 Y=91.711 Z=20.000!
-[2018.05.20-15.45.01:916][172]LogTemp: Warning: Hit location X=33.069 Y=92.216 Z=20.000!
-[2018.05.20-15.45.01:933][173]LogTemp: Warning: Hit location X=33.069 Y=92.216 Z=20.000!
-[2018.05.20-15.45.01:949][174]LogTemp: Warning: Hit location X=33.069 Y=92.216 Z=20.000!
-[2018.05.20-15.45.01:966][175]LogTemp: Warning: Hit location X=30.741 Y=92.886 Z=20.000!
-[2018.05.20-15.45.01:983][176]LogTemp: Warning: Hit location X=29.755 Y=94.217 Z=20.000!
-[2018.05.20-15.45.01:999][177]LogTemp: Warning: Hit location X=28.855 Y=95.129 Z=20.000!
-[2018.05.20-15.45.02:016][178]LogTemp: Warning: Hit location X=28.613 Y=96.376 Z=20.000!
-[2018.05.20-15.45.02:033][179]LogTemp: Warning: Hit location X=27.877 Y=96.451 Z=20.000!
-[2018.05.20-15.45.02:049][180]LogTemp: Warning: Hit location X=27.063 Y=96.940 Z=20.000!
-[2018.05.20-15.45.02:066][181]LogTemp: Warning: Hit location X=26.414 Y=96.600 Z=20.000!
-[2018.05.20-15.45.02:083][182]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:100][183]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:116][184]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:133][185]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:149][186]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:166][187]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:183][188]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:199][189]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:216][190]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:232][191]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:249][192]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:266][193]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:283][194]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:300][195]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:316][196]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:333][197]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:349][198]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:366][199]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:383][200]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:399][201]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:416][202]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:432][203]LogTemp: Warning: Hit location X=25.688 Y=96.673 Z=20.000!
-[2018.05.20-15.45.02:449][204]LogTemp: Warning: Hit location X=25.364 Y=94.688 Z=20.000!
-[2018.05.20-15.45.02:466][205]LogTemp: Warning: Hit location X=25.844 Y=92.222 Z=20.000!
-[2018.05.20-15.45.02:483][206]LogTemp: Warning: Hit location X=26.802 Y=87.298 Z=20.000!
-[2018.05.20-15.45.02:500][207]LogTemp: Warning: Hit location X=31.162 Y=79.497 Z=20.000!
-[2018.05.20-15.45.02:516][208]LogTemp: Warning: Hit location X=36.062 Y=69.113 Z=20.000!
-[2018.05.20-15.45.02:533][209]LogTemp: Warning: Hit location X=43.818 Y=55.629 Z=20.000!
-[2018.05.20-15.45.02:549][210]LogTemp: Warning: Hit location X=51.598 Y=38.663 Z=20.000!
-[2018.05.20-15.45.02:566][211]LogTemp: Warning: Hit location X=60.862 Y=22.591 Z=20.000!
-[2018.05.20-15.45.02:583][212]LogTemp: Warning: Hit location X=68.823 Y=5.774 Z=20.000!
-[2018.05.20-15.45.02:599][213]LogTemp: Warning: Hit location X=73.019 Y=-7.970 Z=20.000!
-[2018.05.20-15.45.02:616][214]LogTemp: Warning: Hit location X=74.841 Y=-17.690 Z=20.000!
-[2018.05.20-15.45.02:633][215]LogTemp: Warning: Hit location X=74.125 Y=-22.476 Z=20.000!
-[2018.05.20-15.45.02:649][216]LogTemp: Warning: Hit location X=73.417 Y=-22.971 Z=20.000!
-[2018.05.20-15.45.02:666][217]LogTemp: Warning: Hit location X=73.417 Y=-22.971 Z=20.000!
-[2018.05.20-15.45.02:683][218]LogTemp: Warning: Hit location X=73.339 Y=-22.553 Z=20.000!
-[2018.05.20-15.45.02:700][219]LogTemp: Warning: Hit location X=72.948 Y=-20.464 Z=20.000!
-[2018.05.20-15.45.02:716][220]LogTemp: Warning: Hit location X=72.712 Y=-19.210 Z=20.000!
-[2018.05.20-15.45.02:733][221]LogTemp: Warning: Hit location X=72.238 Y=-16.698 Z=20.000!
-[2018.05.20-15.45.02:750][222]LogTemp: Warning: Hit location X=71.609 Y=-13.345 Z=20.000!
-[2018.05.20-15.45.02:766][223]LogTemp: Warning: Hit location X=69.108 Y=-8.523 Z=20.000!
-[2018.05.20-15.45.02:783][224]LogTemp: Warning: Hit location X=66.149 Y=-1.224 Z=20.000!
-[2018.05.20-15.45.02:799][225]LogTemp: Warning: Hit location X=62.891 Y=7.709 Z=20.000!
-[2018.05.20-15.45.02:816][226]LogTemp: Warning: Hit location X=58.900 Y=16.436 Z=20.000!
-[2018.05.20-15.45.02:833][227]LogTemp: Warning: Hit location X=54.631 Y=26.752 Z=20.000!
-[2018.05.20-15.45.02:850][228]LogTemp: Warning: Hit location X=51.194 Y=36.778 Z=20.000!
-[2018.05.20-15.45.02:866][229]LogTemp: Warning: Hit location X=47.931 Y=45.932 Z=20.000!
-[2018.05.20-15.45.02:883][230]LogTemp: Warning: Hit location X=44.059 Y=54.380 Z=20.000!
-[2018.05.20-15.45.02:900][231]LogTemp: Warning: Hit location X=41.469 Y=60.108 Z=20.000!
-[2018.05.20-15.45.02:916][232]LogTemp: Warning: Hit location X=39.900 Y=64.414 Z=20.000!
-[2018.05.20-15.45.02:933][233]LogTemp: Warning: Hit location X=38.656 Y=67.049 Z=20.000!
-[2018.05.20-15.45.02:949][234]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.02:966][235]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.02:983][236]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.02:999][237]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:016][238]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:033][239]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:051][240]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:066][241]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:083][242]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:099][243]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:116][244]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:133][245]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:149][246]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:166][247]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:183][248]LogTemp: Warning: Hit location X=38.415 Y=68.296 Z=20.000!
-[2018.05.20-15.45.03:199][249]LogTemp: Warning: Hit location X=29.590 Y=64.105 Z=26.277!
-[2018.05.20-15.45.03:216][250]LogTemp: Warning: Hit location X=39.869 Y=68.440 Z=20.000!
-[2018.05.20-15.45.03:233][251]LogTemp: Warning: Hit location X=45.098 Y=68.746 Z=20.000!
-[2018.05.20-15.45.03:251][252]LogTemp: Warning: Hit location X=52.381 Y=67.483 Z=20.000!
-[2018.05.20-15.45.03:266][253]LogTemp: Warning: Hit location X=59.355 Y=64.997 Z=20.000!
-[2018.05.20-15.45.03:283][254]LogTemp: Warning: Hit location X=68.284 Y=62.549 Z=20.000!
-[2018.05.20-15.45.03:299][255]LogTemp: Warning: Hit location X=76.017 Y=58.950 Z=20.000!
-[2018.05.20-15.45.03:316][256]LogTemp: Warning: Hit location X=85.902 Y=55.313 Z=20.000!
-[2018.05.20-15.45.03:333][257]LogTemp: Warning: Hit location X=97.559 Y=49.859 Z=20.000!
-[2018.05.20-15.45.03:349][258]LogTemp: Warning: Hit location X=107.678 Y=44.552 Z=20.000!
-[2018.05.20-15.45.03:366][259]LogTemp: Warning: Hit location X=114.966 Y=39.226 Z=20.000!
-[2018.05.20-15.45.03:383][260]LogTemp: Warning: Hit location X=123.360 Y=34.998 Z=20.000!
-[2018.05.20-15.45.03:399][261]LogTemp: Warning: Hit location X=129.582 Y=31.667 Z=20.000!
-[2018.05.20-15.45.03:417][262]LogTemp: Warning: Hit location X=134.571 Y=29.559 Z=20.000!
-[2018.05.20-15.45.03:433][263]LogTemp: Warning: Hit location X=137.105 Y=28.488 Z=20.000!
-[2018.05.20-15.45.03:449][264]LogTemp: Warning: Hit location X=137.105 Y=28.488 Z=20.000!
-[2018.05.20-15.45.03:467][265]LogTemp: Warning: Hit location X=137.105 Y=28.488 Z=20.000!
-[2018.05.20-15.45.03:483][266]LogTemp: Warning: Hit location X=137.105 Y=28.488 Z=20.000!
-[2018.05.20-15.45.03:499][267]LogTemp: Warning: Hit location X=138.251 Y=28.728 Z=20.000!
-[2018.05.20-15.45.03:516][268]LogTemp: Warning: Hit location X=142.808 Y=30.228 Z=20.000!
-[2018.05.20-15.45.03:533][269]LogTemp: Warning: Hit location X=151.028 Y=33.074 Z=20.000!
-[2018.05.20-15.45.03:549][270]LogTemp: Warning: Hit location X=163.194 Y=38.542 Z=20.000!
-[2018.05.20-15.45.03:566][271]LogTemp: Warning: Hit location X=177.524 Y=44.675 Z=20.000!
-[2018.05.20-15.45.03:583][272]LogTemp: Warning: Hit location X=197.155 Y=54.130 Z=20.000!
-[2018.05.20-15.45.03:600][273]LogTemp: Warning: Hit location X=209.187 Y=60.212 Z=20.000!
-[2018.05.20-15.45.03:616][274]LogTemp: Warning: Hit location X=247.901 Y=79.505 Z=20.000!
-[2018.05.20-15.45.03:633][275]LogTemp: Warning: Hit location X=284.949 Y=101.445 Z=20.000!
-[2018.05.20-15.45.03:650][276]LogTemp: Warning: Hit location X=338.258 Y=134.446 Z=20.000!
-[2018.05.20-15.45.03:666][277]LogTemp: Warning: Hit location X=406.818 Y=182.918 Z=20.000!
-[2018.05.20-15.45.04:582][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2018.05.20-15.45.04:692][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002199a10d588, Size=24
-[2018.05.20-15.45.04:692][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000219e57bb160, Size=96
-[2018.05.20-15.45.04:692][338]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021982133800, Size=496
-[2018.05.20-15.45.06:509][338]LogSlate: Window 'Save Content' being destroyed
-[2018.05.20-15.45.06:526][338]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Ammo/Ammo_tekstur" FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Ammo/Ammo_tekstur.uasset" SILENT=true
-[2018.05.20-15.45.06:549][338]LogSavePackage: Save=14.64ms
-[2018.05.20-15.45.06:549][338]LogSavePackage: Moving '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Saved/Ammo_tekstur5D9351854D0F6711D2671A97D065DED8.tmp' to '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Ammo/Ammo_tekstur.uasset'
-[2018.05.20-15.45.06:553][338]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Ammo/Ammo_tekstur.uasset
-[2018.05.20-15.45.06:622][338]LogSlate: Window 'FurryGame - Unreal Editor' being destroyed
-[2018.05.20-15.45.06:711][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/New.New:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/New.New:PersistentLevel.New' with GeneratedClass '/Game/Maps/New.New_C' with ClassGeneratedBy '/Game/Maps/New.New:PersistentLevel.New'
-[2018.05.20-15.45.06:739][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/New.New:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/New.New:PersistentLevel.New' with GeneratedClass '/Game/Maps/New.New_C' with ClassGeneratedBy '/Game/Maps/New.New:PersistentLevel.New'
-[2018.05.20-15.45.06:867][339]Cmd: QUIT_EDITOR
-[2018.05.20-15.45.07:646][339]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2018.05.20-15.45.07:683][339]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
-[2018.05.20-15.45.07:683][339]LogExit: Preparing to exit.
-[2018.05.20-15.45.08:563][339]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/' was aborted.
-[2018.05.20-15.45.08:574][339]LogExit: Editor shut down
-[2018.05.20-15.45.08:576][339]LogExit: Transaction tracking system shut down
-[2018.05.20-15.45.08:576][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000219e57ba980, Size=96
-[2018.05.20-15.45.08:577][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000021982131200, Size=496
-[2018.05.20-15.45.08:577][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000219e3e9cdc0, Size=16
-[2018.05.20-15.45.08:578][339]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002199a10cb08, Size=24
-[2018.05.20-15.45.08:677][339]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
-[2018.05.20-15.45.08:678][339]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
-[2018.05.20-15.45.08:726][339]LogExit: Object subsystem successfully closed.
-[2018.05.20-15.45.08:740][339]LogShaderCompilers: Display: Shaders left to compile 0
-[2018.05.20-15.45.08:743][339]LogD3D11RHI: Shutdown
-[2018.05.20-15.45.08:743][339]LogD3D11RHI: CleanupD3DDevice
-[2018.05.20-15.45.08:744][339]LogD3D11RHI: ~FD3D11DynamicRHI
-[2018.05.20-15.45.08:758][339]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (580)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (578)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (576)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module DesktopPlatform (574)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module AddContentDialog (572)
-[2018.05.20-15.45.08:759][339]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.19/FeaturePacks/' was aborted.
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module WidgetCarousel (571)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module EditorWidgets (568)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module CollectionManager (566)
-[2018.05.20-15.45.08:759][339]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Collections/' was aborted.
-[2018.05.20-15.45.08:759][339]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Developers/benesl/Collections/' was aborted.
-[2018.05.20-15.45.08:759][339]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Saved/Collections/' was aborted.
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module SceneOutliner (564)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
-[2018.05.20-15.45.08:759][339]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module BspMode (546)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SessionServices (500)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
-[2018.05.20-15.45.08:760][339]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
-[2018.05.20-15.45.08:761][339]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
-[2018.05.20-15.45.08:761][339]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
-[2018.05.20-15.45.08:761][339]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module MergeActors (468)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module XmlParser (456)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module Blutility (454)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
-[2018.05.20-15.45.08:898][339]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
-[2018.05.20-15.45.08:899][339]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module AutomationController (434)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module Layers (430)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module Persona (422)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module Kismet (416)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module Toolbox (410)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module OutputLog (404)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module GammaUI (402)
-[2018.05.20-15.45.08:953][339]LogModuleManager: Shutting down and abandoning module Documentation (400)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module MovieScene (396)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module PortalServices (388)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module AIModule (382)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
-[2018.05.20-15.45.08:954][339]LogModuleManager: Shutting down and abandoning module ProfilerService (376)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module TaskGraph (374)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module OculusInput (366)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module CableComponent (360)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
-[2018.05.20-15.45.08:992][339]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module SourceControl (305)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module FurryGame (290)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
-[2018.05.20-15.45.08:995][339]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
-[2018.05.20-15.45.08:996][339]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
-[2018.05.20-15.45.08:996][339]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
-[2018.05.20-15.45.08:996][339]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
-[2018.05.20-15.45.09:097][339]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module DataValidation (262)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
-[2018.05.20-15.45.09:523][339]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
-[2018.05.20-15.45.09:524][339]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
-[2018.05.20-15.45.09:524][339]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
-[2018.05.20-15.45.09:524][339]LogModuleManager: Shutting down and abandoning module MainFrame (254)
-[2018.05.20-15.45.09:524][339]LogModuleManager: Shutting down and abandoning module HotReload (253)
-[2018.05.20-15.45.09:524][339]LogDirectoryWatcher: A directory notification for 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Binaries/Win64' was aborted.
-[2018.05.20-15.45.09:524][339]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
-[2018.05.20-15.45.09:525][339]LogModuleManager: Shutting down and abandoning module TreeMap (247)
-[2018.05.20-15.45.09:525][339]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
-[2018.05.20-15.45.09:525][339]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
-[2018.05.20-15.45.09:525][339]LogModuleManager: Shutting down and abandoning module LiveLink (240)
-[2018.05.20-15.45.10:261][339]LogModuleManager: Shutting down and abandoning module Paper2D (238)
-[2018.05.20-15.45.10:261][339]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
-[2018.05.20-15.45.10:261][339]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
-[2018.05.20-15.45.10:262][339]LogModuleManager: Shutting down and abandoning module Media (233)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module Overlay (222)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module VREditor (218)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module UMG (204)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module Sequencer (202)
-[2018.05.20-15.45.10:268][339]LogModuleManager: Shutting down and abandoning module MessageLog (199)
-[2018.05.20-15.45.10:269][339]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
-[2018.05.20-15.45.10:269][339]LogModuleManager: Shutting down and abandoning module Slate (192)
-[2018.05.20-15.45.10:269][339]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module MRMesh (188)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module Networking (180)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module Core (178)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
-[2018.05.20-15.45.10:270][339]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
-[2018.05.20-15.45.10:271][339]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
-[2018.05.20-15.45.10:568][339]LogDerivedDataCache: Shutdown
-[2018.05.20-15.45.10:568][339]LogModuleManager: Shutting down and abandoning module XGEController (152)
-[2018.05.20-15.45.10:568][339]LogXGEController: Cleaning working directory: C:/Users/benes/AppData/Local/Temp/UnrealXGEWorkingDir/
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Messaging (109)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module InputCore (66)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module Settings (64)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module SteamVR (60)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module XMPP (43)
-[2018.05.20-15.45.10:569][339]LogModuleManager: Shutting down and abandoning module HTTP (41)
-[2018.05.20-15.45.10:570][339]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
-[2018.05.20-15.45.10:570][339]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54A17E3D-4BAE-297F-924A-33AA44347A52%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=876af5974c90d438251e3a9ab09fc1b9%7C756576264a604d4597d7e5cd72188243%7C69df6532-06e7-4a82-80a8-8abfb4ceaaf1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
-[2018.05.20-15.45.10:599][339]LogModuleManager: Shutting down and abandoning module SSL (40)
-[2018.05.20-15.45.10:599][339]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module Landscape (26)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module Renderer (16)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module Engine (14)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
-[2018.05.20-15.45.10:600][339]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
-[2018.05.20-15.45.10:601][339]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
-[2018.05.20-15.45.10:601][339]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
-[2018.05.20-15.45.10:601][339]LogModuleManager: Shutting down and abandoning module PakFile (2)
-[2018.05.20-15.45.10:606][339]LogExit: Exiting.
-[2018.05.20-15.45.10:628][339]Log file closed, 05/20/18 17:45:10
+[2018.05.22-23.11.11:817][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-23.11.11:946][  0]SourceControl: Source control is disabled
+[2018.05.22-23.11.11:946][  0]SourceControl: Source control is disabled
+[2018.05.22-23.11.11:962][  0]SourceControl: Source control is disabled
+[2018.05.22-23.11.11:977][  0]SourceControl: Source control is disabled
+[2018.05.22-23.11.12:441][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.22-23.11.12:566][  0]LogOcInput: OculusInput pre-init called
+[2018.05.22-23.11.12:662][  0]LogEngine: Initializing Engine...
+[2018.05.22-23.11.12:663][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.22-23.11.12:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-23.11.12:665][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-23.11.12:861][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.22-23.11.12:869][  0]LogInit: XAudio2 using 'Høyttalere (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.05.22-23.11.13:045][  0]LogInit: FAudioDevice initialized.
+[2018.05.22-23.11.13:114][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/benes/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.22-23.11.13:128][  0]LogInit: Texture streaming: Enabled
+[2018.05.22-23.11.13:145][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.22-23.11.13:157][  0]LogInit: Transaction tracking system initialized
+[2018.05.22-23.11.13:180][  0]BlueprintLog: New page: Editor Load
+[2018.05.22-23.11.13:248][  0]LocalizationService: Localization service is disabled
+[2018.05.22-23.11.13:341][  0]LogConsoleResponse: Display: 
+[2018.05.22-23.11.13:478][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.22-23.11.13:478][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.22-23.11.13:478][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.22-23.11.13:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.22-23.11.13:478][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.22-23.11.13:799][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/' took 0.01s
+[2018.05.22-23.11.13:799][  0]SourceControl: Source control is disabled
+[2018.05.22-23.11.13:799][  0]Cmd: MAP LOAD FILE="../../../../../../Users/benes/Documents/Unreal Projects/FurryGame/Content/Maps/New.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.22-23.11.13:799][  0]LightingResults: New page: Lighting Build
+[2018.05.22-23.11.13:802][  0]MapCheck: New page: Map Check
+[2018.05.22-23.11.13:802][  0]LightingResults: New page: Lighting Build
+[2018.05.22-23.11.13:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002764d6b8810, Size=16, Default__New_C Function /Game/Maps/New.New_C:ExecuteUbergraph_New
+[2018.05.22-23.11.13:923][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002764d6b8810, Size=16
+[2018.05.22-23.11.13:923][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002764d6b8810, Size=16, Default__New_C Function /Engine/Transient.REINST_New_C_5:ExecuteUbergraph_New
+[2018.05.22-23.11.13:924][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002764d6b8490, Size=16, Default__New_C Function /Game/Maps/New.New_C:ExecuteUbergraph_New
+[2018.05.22-23.11.14:076][  0]LogAIModule: Creating AISystem for world New
+[2018.05.22-23.11.14:084][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.22-23.11.14:096][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002764d6b8810, Size=16
+[2018.05.22-23.11.14:097][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.22-23.11.14:186][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89,258ms to complete.
+[2018.05.22-23.11.14:186][  0]LogFileHelpers: Loading map 'New' took 0.387
+[2018.05.22-23.11.14:250][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.22-23.11.14:336][  0]LogCollectionManager: Loaded 0 collections in 0.001586 seconds
+[2018.05.22-23.11.14:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Saved/Collections/' took 0.01s
+[2018.05.22-23.11.14:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Developers/benesl/Collections/' took 0.01s
+[2018.05.22-23.11.14:375][  0]LogFileCache: Scanning file cache for directory 'C:/Users/benes/Documents/Unreal Projects/FurryGame/Content/Collections/' took 0.01s
+[2018.05.22-23.11.14:375][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.22-23.11.14:384][  0]LogContentBrowser: Native class hierarchy populated in 0.0090 seconds. Added 2456 classes and 562 folders.
+[2018.05.22-23.11.14:390][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.22-23.11.14:431][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.05.22-23.11.15:399][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.05.22-23.11.15:416][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.22-23.11.15:421][  0]LogSlate: Took 0.000307 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.22-23.11.15:422][  0]LogSlate: Took 0.000287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.22-23.11.15:515][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.FurryGame
+[2018.05.22-23.11.15:515][  0]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.22-23.11.15:515][  0]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.05.22-23.11.15:515][  0]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.05.22-23.11.15:515][  0]LogTemp: BranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = MSI/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.05.22-23.11.15:515][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\benes\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.05.22-23.11.15:516][  0]LogRenderer: Reallocating scene render targets to support 1396x888 Format 10 NumSamples 1 (Frame:1).
+[2018.05.22-23.11.15:613][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.05.22-23.11.15:613][  0]LogLoad: (Engine Initialization) Total time: 13.74 seconds
+[2018.05.22-23.11.15:613][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.22-23.11.15:648][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.22-23.11.15:664][  0]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.22-23.11.15:728][  0]LogRenderer: Reallocating scene render targets to support 1396x904 Format 10 NumSamples 1 (Frame:3).
+[2018.05.22-23.11.15:777][  1]LogAssetRegistry: Asset discovery search completed in 8.9993 seconds
+[2018.05.22-23.11.15:779][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.22-23.11.15:779][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.05.22-23.11.16:641][ 98]LogSlate: Took 0.000277 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.22-23.11.17:523][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.22-23.11.24:939][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.22-23.11.31:697][ 75]LogSlate: Window 'Save Level As' being destroyed
+[2018.05.22-23.11.46:578][260]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.22-23.12.02:208][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
