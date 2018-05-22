@@ -170,12 +170,12 @@ void AFCharacter::OnFire()
 	if (ProjectileClass != NULL)
 	{
 		// Get the camera transform
-		FVector CameraLoc;
-		FRotator CameraRot;
-		GetActorEyesViewPoint(CameraLoc, CameraRot);
+		FVector ActorLocation;
+		FRotator ActorRotation;
+		GetActorEyesViewPoint(ActorLocation, ActorRotation);
 		// MuzzleOffset is in camera space, so transform it to world space before offsetting from the camera to find the final muzzle position
-		FVector const MuzzleLocation = CameraLoc + FTransform(CameraRot).TransformVector(MuzzleOffset);
-		FRotator MuzzleRotation = CameraRot;
+		FVector const MuzzleLocation = ActorLocation + FTransform(ActorRotation).TransformVector(MuzzleOffset);
+		FRotator MuzzleRotation = ActorRotation;
 		MuzzleRotation.Pitch += 0.0f;          // skew the aim upwards a bit
 		UWorld* const World = GetWorld();
 		if (World)
